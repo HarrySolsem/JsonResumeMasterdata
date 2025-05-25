@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/generated_data/en/jsonresume.json
+/generated_data/no/jsonresume.json
