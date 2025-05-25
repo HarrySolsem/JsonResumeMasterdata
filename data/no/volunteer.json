@@ -4,7 +4,6 @@
             "language": "no",
             "data": [
                 {
-                    "ID": "90",
                     "organization": "Langhus IL Bordtennis",
                     "position": "Gruppeleder og styreleder",
                     "url": "https://www.langhusil.no/bordtennis",
@@ -13,7 +12,6 @@
                   "tags": [ "management", "complete" ]
                 },
               {
-                "ID": "91",
                 "organization": "Langhus 1405 Sameie",
                 "position": "Styremedlem",
                 "startDate": "2021-07-01",
@@ -21,7 +19,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "92",
                 "organization": "STOFFSKIFTEFORBUNDET",
                 "position": "Forbundsstyremedlem",
                 "url": "https://stofo.no/",
@@ -30,7 +27,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "93",
                 "organization": "STOFFSKIFTEFORBUNDET",
                 "position": "Likeperson",
                 "url": "https://stofo.no/",
@@ -44,7 +40,6 @@
             "language": "en",
             "data": [
                 {
-                    "ID": "94",
                     "organization": "Langhus IL Table Tennis",
                     "position": "Group Leader and Chairman",
                     "url": "https://www.langhusil.no/bordtennis",
@@ -55,7 +50,6 @@
                     ]
                 },
                 {
-                    "ID": "95",
                     "organization": "Langhus 1405 Housing Association",
                     "position": "Board Member",
                     "startDate": "2021-07-01",
@@ -65,7 +59,6 @@
                     ]
                 },
                 {
-                    "ID": "96",
                     "organization": "The Norwegian Thyroid Association",
                     "position": "Board Member",
                     "url": "https://stofo.no/",
@@ -76,7 +69,6 @@
                     ]
                 },
                 {
-                    "ID": "97",
                     "organization": "The Norwegian Thyroid Association",
                     "position": "Peer Supporter",
                     "url": "https://stofo.no/",

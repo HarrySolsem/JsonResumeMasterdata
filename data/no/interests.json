@@ -3,7 +3,6 @@
         "no": {
             "data": [
               {
-                "ID": "33",
                 "name": "Sport",
                 "keywords": [
                   "Bordtennis",
@@ -17,7 +16,6 @@
         "en": {
             "data": [
                 {
-                    "ID": "34",
                     "name": "Sport",
                     "keywords": [
                         "Table Tennis",

@@ -4,7 +4,6 @@
             "language": "no",
             "data": [
               {
-                "ID": "80",
                 "name": "Agile metodikker",
                 "level": "Advanced",
                 "keywords": [
@@ -31,7 +30,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "81",
                 "name": "Software utvikling og arkitektur",
                 "level": "Advanced",
                 "keywords": [
@@ -72,7 +70,6 @@
                 "tags": [ "complete" ]
               },
                 {
-                    "ID": "82",
                     "name": "Ledelse & Administrasjon",
                     "level": "Advanced",
                     "keywords": [
@@ -109,7 +106,6 @@
                   "tags": [ "management", "complete" ]
                 },
                 {
-                    "ID": "83",
                     "name": "Prosjekt- og prosessledelse",
                     "level": "Advanced",
                     "keywords": [
@@ -142,7 +138,6 @@
                   "tags": [ "management", "complete" ]
                 },
               {
-                "ID": "84",
                 "name": "Tekniske verktøy og plattformer",
                 "level": "Advanced",
                 "keywords": [
@@ -175,7 +170,6 @@
             "language": "en",
             "data": [
                 {
-                    "ID": "84",
                     "name": "Agile methodologies",
                     "level": "Advanced",
                     "keywords": [
@@ -201,7 +195,6 @@
                     ]
                 },
                 {
-                    "ID": "85",
                     "name": "Software development and architecture",
                     "level": "Advanced",
                     "keywords": [
@@ -243,7 +236,6 @@
                     ]
                 },
                 {
-                    "ID": "86",
                     "name": "Leadership & Management",
                     "level": "Advanced",
                     "keywords": [
@@ -279,7 +271,6 @@
                     ]
                 },
                 {
-                    "ID": "87",
                     "name": "Project and process management",
                     "level": "Advanced",
                     "keywords": [
@@ -311,7 +302,6 @@
                     ]
                 },
                 {
-                    "ID": "88",
                     "name": "Technical Tools and Platforms",
                     "level": "Advanced",
                     "keywords": [

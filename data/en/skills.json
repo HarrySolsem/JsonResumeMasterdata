@@ -1,7 +1,6 @@
 {
   "skills": [
     {
-      "ID": "84",
       "name": "Agile methodologies",
       "level": "Advanced",
       "keywords": [
@@ -27,7 +26,6 @@
       ]
     },
     {
-      "ID": "85",
       "name": "Software development and architecture",
       "level": "Advanced",
       "keywords": [
@@ -69,7 +67,6 @@
       ]
     },
     {
-      "ID": "86",
       "name": "Leadership & Management",
       "level": "Advanced",
       "keywords": [
@@ -105,7 +102,6 @@
       ]
     },
     {
-      "ID": "87",
       "name": "Project and process management",
       "level": "Advanced",
       "keywords": [
@@ -137,7 +133,6 @@
       ]
     },
     {
-      "ID": "88",
       "name": "Technical Tools and Platforms",
       "level": "Advanced",
       "keywords": [

@@ -4,7 +4,6 @@
             "language": "no",
             "data": [
                 {
-                    "ID": "100",
                     "name": "Prosperastiftelsen",
                     "position": "Prosjektleder",
                     "url": "https://www.prosperastiftelsen.no",
@@ -13,7 +12,6 @@
                     "tags": [ "management", "complete" ]
                 },
                 {
-                    "ID": "101",
                     "name": "Riverty",
                     "position": "Avdelingsleder",
                     "url": "https://www.riverty.com",
@@ -23,7 +21,6 @@
                   "tags": [ "projectmanagement", "complete" ]
                 },
                 {
-                    "ID": "102",
                     "name": "STOFFSKIFTEFORBUNDET",
                     "position": "Konsulent",
                     "url": "https://www.stofo.org",
@@ -33,7 +30,6 @@
                   "tags": [ "management", "complete" ]
                 },
               {
-                "ID": "103",
                 "name": "Neonomics",
                 "position": "Team Lead | Engineering Manager",
                 "url": "https://www.neonomics.io",
@@ -43,7 +39,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "104",
                 "name": "KPMG Norway",
                 "position": "Senior Manager",
                 "url": "https://www.kpmg.no",
@@ -53,7 +48,6 @@
                 "tags": [ "complete" ]
               },
                 {
-                    "ID": "105",
                     "name": "DNB",
                     "position": "Prosjektleder",
                     "url": "https://www.dbn.no",
@@ -63,7 +57,6 @@
                   "tags": [ "projectmanagement", "complete" ]
                 },
               {
-                "ID": "106",
                 "name": "DNB",
                 "position": "Teknisk leder",
                 "url": "https://www.dbn.no",
@@ -73,7 +66,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "107",
                 "name": "Web Services Technology AS",
                 "position": "Plattformingeniør",
                 "url": "https://wst.no",
@@ -83,7 +75,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "108",
                 "name": "Sharecat Solutions AS",
                 "position": "Prosjektleder/Scrum Master/Senior programvareutvikler",
                 "url": "https://home.sharecat.com/",
@@ -93,7 +84,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "109",
                 "name": "Ventelo",
                 "position": "Teknisk prosjektleder/Service Delivery Manager/Software Engineer",
                 "url": "https://www.ventelo.no",
@@ -103,7 +93,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "110",
                 "name": "Engineering Systems",
                 "position": "Programvareutvikler",
                 "url": "https://www.once.no/",
@@ -113,7 +102,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "111",
                 "name": "Comunic AS",
                 "position": "Programvareutvikler",
                 "url": "https://www.comunic.no",
@@ -123,7 +111,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "112",
                 "name": "Umoe Mandal AS",
                 "position": "Programvareutvikler",
                 "url": "https://www.um.no",
@@ -133,7 +120,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "113",
                 "name": "Intershare AS",
                 "position": "Programvarekonsulent",
                 "url": "https://www.intershare.no",
@@ -143,7 +129,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "114",
                 "name": "Edb Avdelingen Sør AS",
                 "position": "Edb-konsulent",
                 "url": "https://www.edbavd.no/",
@@ -153,7 +138,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "115",
                 "name": "Manpower AS",
                 "position": "Brukerstøtte",
                 "url": "https://www.manpower.no",
@@ -163,7 +147,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "116",
                 "name": "PC-LAND SOFTWARE",
                 "position": "Programvareutvikler",
                 "url": "https://www.ikke.no",
@@ -173,7 +156,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "117",
                 "name": "Total Consept Development",
                 "position": "Programvareutvikler",
                 "url": "https://www.ikke.no",
@@ -183,7 +165,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "118",
                 "name": "BÅDE OG RADIOREKLAMEBYRÅ",
                 "position": "IT-konsulent",
                 "url": "https://www.ikke.no",
@@ -193,7 +174,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "119",
                 "name": "NHI-Datahøgskolen",
                 "position": "Veileder",
                 "url": "https://www.ikke.no",
@@ -203,7 +183,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "141",
                 "name": "Bø kommune, sosialkontor",
                 "position": "Kontorassistent",
                 "url": "https://www.ikke.no",
@@ -218,7 +197,6 @@
             "language": "en",
             "data": [
                 {
-                    "ID": "120",
                     "name": "Prosperastiftelsen",
                     "position": "Project Manager",
                     "url": "https://www.prosperastiftelsen.no",
@@ -229,7 +207,6 @@
                     ]
                 },
                 {
-                    "ID": "121",
                     "name": "Riverty",
                     "position": "Department Manager",
                     "url": "https://www.riverty.com",
@@ -238,7 +215,6 @@
                     "endDate": "2024-06-01"
                 },
                 {
-                    "ID": "122",
                     "name": "The Norwegian Thyroid Association",
                     "position": "Consultant",
                     "url": "https://www.stofo.org",
@@ -247,7 +223,6 @@
                     "endDate": "2023-06-01"
                 },
                 {
-                    "ID": "123",
                     "name": "Neonomics",
                     "position": "Team Lead | Engineering Manager",
                     "url": "https://www.neonomics.io",
@@ -256,7 +231,6 @@
                     "endDate": "2023-03-01"
                 },
                 {
-                    "ID": "124",
                     "name": "KPMG Norway",
                     "position": "Senior Manager",
                     "url": "https://www.kpmg.no",
@@ -265,7 +239,6 @@
                     "endDate": "2021-08-01"
                 },
                 {
-                    "ID": "125",
                     "name": "DNB",
                     "position": "Project Manager",
                     "url": "https://www.dbn.no",
@@ -274,7 +247,6 @@
                     "endDate": "2021-01-01"
                 },
                 {
-                    "ID": "126",
                     "name": "DNB",
                     "position": "Technical Lead",
                     "url": "https://www.dbn.no",
@@ -283,7 +255,6 @@
                     "endDate": "2020-05-01"
                 },
                 {
-                    "ID": "127",
                     "name": "Web Services Technology AS",
                     "position": "Platform Engineer",
                     "url": "https://wst.no",
@@ -292,7 +263,6 @@
                     "endDate": "2017-09-01"
                 },
                 {
-                    "ID": "128",
                     "name": "Sharecat Solutions AS",
                     "position": "Project Manager/Scrum Master/Senior Software Developer",
                     "url": "https://home.sharecat.com/",
@@ -301,7 +271,6 @@
                     "endDate": "2015-04-01"
                 },
                 {
-                    "ID": "129",
                     "name": "Ventelo",
                     "position": "Technical Project Manager/Service Delivery Manager/Software Engineer",
                     "url": "https://www.ventelo.no",
@@ -310,7 +279,6 @@
                     "endDate": "2012-06-01"
                 },
                 {
-                    "ID": "130",
                     "name": "Engineering Systems",
                     "position": "Software Developer",
                     "url": "https://www.once.no/",
@@ -319,7 +287,6 @@
                     "endDate": "2010-03-01"
                 },
                 {
-                    "ID": "131",
                     "name": "Comunic AS",
                     "position": "Software Developer",
                     "url": "https://www.comunic.no",
@@ -328,7 +295,6 @@
                     "endDate": "2008-08-01"
                 },
                 {
-                    "ID": "132",
                     "name": "Umoe Mandal AS",
                     "position": "Software Developer",
                     "url": "https://www.um.no",
@@ -337,7 +303,6 @@
                     "endDate": "2008-02-01"
                 },
                 {
-                    "ID": "133",
                     "name": "Intershare AS",
                     "position": "Software Consultant",
                     "url": "https://www.intershare.no",
@@ -346,7 +311,6 @@
                     "endDate": "2002-04-01"
                 },
                 {
-                    "ID": "134",
                     "name": "Edb Avdelingen Sør AS",
                     "position": "IT Consultant",
                     "url": "https://www.edbavd.no/",
@@ -355,7 +319,6 @@
                     "endDate": "2001-08-01"
                 },
                 {
-                    "ID": "135",
                     "name": "Manpower AS",
                     "position": "User Support",
                     "url": "https://www.manpower.no",
@@ -364,7 +327,6 @@
                     "endDate": "1997-06-01"
                 },
                 {
-                    "ID": "136",
                     "name": "PC-LAND SOFTWARE",
                     "position": "Software Developer",
                     "url": "https://www.ikke.no",
@@ -373,7 +335,6 @@
                     "endDate": "1995-03-28"
                 },
                 {
-                    "ID": "137",
                     "name": "Total Consept Development",
                     "position": "Software Developer",
                     "url": "https://www.ikke.no",
@@ -382,7 +343,6 @@
                     "endDate": "1994-11-30"
                 },
                 {
-                    "ID": "138",
                     "name": "BÅDE OG RADIOREKLAMEBYRÅ",
                     "position": "IT Consultant",
                     "url": "https://www.ikke.no",
@@ -391,7 +351,6 @@
                     "endDate": "1994-07-31"
                 },
                 {
-                    "ID": "139",
                     "name": "NHI-Datahøgskolen",
                     "position": "Instructor",
                     "url": "https://www.ikke.no",
@@ -400,7 +359,6 @@
                     "endDate": "1994-06-01"
                 },
                 {
-                    "ID": "140",
                     "name": "Bø Municipality, Social Welfare office",
                     "position": "Office assistant",
                     "url": "https://www.ikke.no",

@@ -4,7 +4,6 @@
             "language": "no",
             "data": [
               {
-                "ID": "40",
                 "name": "RELOVE V25",
                 "startDate": "2025-02-01",
                 "description": "RELOVE trenger effektive metoder for å dokumentere og synliggjøre sin samfunnsverdi. Dette er avgjørende både for å sikre fortsatt støtte og for å kommunisere organisasjonens betydning i lokalsamfunnet. På sikt har RELOVE ambisjoner om å kvalifisere for fast post på statsbudsjettet. Pro bono-teamet skal derfor bistå RELOVE med å artikulere deres kjernevirksomhet og identitet på en klar og lettfattelig måte. Teamet skal utvikle noen få, konsise formuleringer som fanger essensen av RELOVEs virksomhet, definere den konkrete verdiskapingen fra RELOVEs ulike aktivitetsområder, samt etablere systematiske målingsrutiner for å dokumentere organisasjonens effekt og resultater fremover, eksempelvis gjennom strukturert registrering av resirkulert tekstilvolum eller antall ungdommer som kommer i arbeid.",
@@ -22,7 +21,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "41",
                 "name": "OOF H24 - Økonomi og Virksomhetsstyring",
                 "startDate": "2024-10-01",
                 "description": "Formålet med dette prosjektet er å bistå OOF i utvelgelse og implementering av digitale verktøy som vil effektivisere og forenkle administrative og operasjonelle prosesser. OOF ønsker å minimere manuelle arbeidsoppgaver og samtidig styrke sin evne til oversikt og kontroll innen sentrale funksjoner som timeregistrering, budsjetthåndtering, regnskapsføring og prosjektledelse.",
@@ -40,7 +38,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "42",
                 "name": "Sanering av gammelt log-verktøy og utrulling av agenter",
                 "startDate": "2020-07-01",
                 "description": "Prosjektets mandat er å få sanert gammel maskinvare, sette opp ny maskinvare samt å rulle ut diverse sikkerhets-relaterte agenter på x antall tusen servere.  Mine oppgaver i dette prosjektet er blant annet, fortløpende oppfølging, håndtering av interessenter, planlegging, rapportering til porteføljestyrer, rapportering til styringsgruppe, håndtering av dokumentasjon i prosjektet. Koordinering av ressurser, både interne og fra våre partnere. Grunnet situasjonen i landet er disse oppgavene i en stor grad gjennomført via Microsoft Teams.",
@@ -58,7 +55,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "43",
                 "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
                 "startDate": "2020-07-01",
                 "description": "Prosjektets mandat er å avklare behov, anskaffe, implementere og få på plass styringsdokumenter for løsninger som øker fokus på sikkerhetsaspekter i løpet av programvarelivssyklusen for den programvare som lages av internt og av våre partnere.  Mine oppgaver i dette prosjektet er blant annet, fortløpende oppfølging, håndtering av interessenter, planlegging, rapportering til porteføljestyrer, rapportering til styringsgruppe, håndtering av dokumentasjon i prosjektet. Koordinering av ressurser, både interne og fra våre partnere. Leverandørdialog, herunder beskrive krav til disse, utføre leverandør-evaluering. Grunnet situasjonen i landet er disse oppgavene i en stor grad gjennomført via Microsoft Teams.",
@@ -76,7 +72,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "44",
                 "name": "IAM - Cleanup and Compliance",
                 "startDate": "2020-06-01",
                 "description": "Prosjekt som har som mandat å implementere en utvidet automasjon av tilgangsstyring gjennom bruk av ServiceNow, IIQ og andre relevante verktøy. Mine oppgaver i dette prosjektet er blant annet, fortløpende oppfølging, håndtering av interessenter, planlegging, rapportering til porteføljestyrer, rapportering til styringsgruppe, håndtering av dokumentasjon i prosjektet. Grunnet situasjonen i landet er disse oppgavene i en stor grad gjennomført via Microsoft Teams.",
@@ -94,7 +89,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "45",
                 "name": "Penetrasjonstesting",
                 "startDate": "2019-08-01",
                 "description": "Dette prosjektet har som mandat å legge til rette for penetrasjonstesting av DNB sine systemer. Mine oppgaver i dette prosjektet er blant annet, fortløpende oppfølging, håndtering av interessenter, planlegging, rapportering til porteføljestyrer, rapportering til styringsgruppe, håndtering av dokumentasjon i prosjektet. Koordinering av ressurser, både interne og fra våre partnere. Grunnet situasjonen i landet er disse oppgavene i en stor grad gjennomført via Microsoft Teams.",
@@ -112,7 +106,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "46",
                 "name": "Implementere DDOS-beskyttelse for en spesifikk del av DNB-systemportefølje.",
                 "startDate": "2019-07-01",
                 "description": "Prosjekts mandat er å flytte deler av DNB sin systemportefølje bak forsterkede DDOS-beskyttelse.  Mine oppgaver i dette prosjektet er blant annet, fortløpende oppfølging, håndtering av interessenter, planlegging, rapportering til porteføljestyrer, rapportering til styringsgruppe, håndtering av dokumentasjon i prosjektet. Koordinering av ressurser, både interne og fra våre partnere. Grunnet situasjonen i landet er disse oppgavene i en stor grad gjennomført via Microsoft Teams.",
@@ -130,7 +123,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "47",
                 "name": "Ny bedriftsportal",
                 "startDate": "2018-01-01",
                 "description": "Scrum Master for dette utviklingsprosjektet. Gjennomførte de oppgaver som ligger til rollen i henhold til Scrumguiden. I tillegg til innføring og opplæring i smidige metodikk for deltakere i prosjektet, både innad i IT-organisasjonen i tillegg til deltakere i prosjektet fra andre forretningsområder.",
@@ -148,7 +140,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "48",
                 "name": "GDPR i DNB Liv",
                 "startDate": "2018-01-01",
                 "description": "Compliance-prosjekt som hadde til mandat å sørge for at systemene til DNB-Liv møter GDPR-kravene. I dette prosjektet hadde jeg rollen som Scrum Master, med tilhørende oppgaver som beskrevet i scrumguiden.",
@@ -166,7 +157,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "49",
                 "name": "Supplier Catalogue",
                 "startDate": "2014-09-01",
                 "description": "Prosjektets mandat er å tilpasse og implementere Sharecats familie av katalog-tjenester til å kunne benyttes hos en av verdens største olje-leverandører. Jeg overtok prosjektet som prosjektleder da dette hadde vært pågående i noen måneder. Mine oppgaver ble da å samle alle løse tråder, opprette en detaljert prosjektplan for resterende leveranser, og daglig oppfølging av dette. Prosjektet ble gjennomført med multi-disiplin ressurser og med deltagere i flere land. Planlegging, gjennomføring og oppfølging ble utført ved hjelp av MS Project 2013.",
@@ -184,7 +174,6 @@
                 "tags": [ "complete" ]
               },
                 {
-                    "ID": "50",
                     "name": "Utvidelse av vCRM",
                     "startDate": "2011-03-01",
                     "description": "Prosjektets mandat var å utvide og forbedre Ventelos CRM-system. Basert på en analyse av innkommende forespørsler til IT-avdelingen ble fem kritiske områder identifisert der det eksisterende systemet manglet støtte for forretningsbehov. Oppgaven besto i å analysere disse behovene og implementere løsninger som adresserte de definerte forretningscasene.",
@@ -203,7 +192,6 @@
                   "tags": [ "projectmanagement", "complete" ]
                 },
               {
-                "ID": "51",
                 "name": "IRIS - Rapportdistribuerings-system",
                 "startDate": "2007-02-01",
                 "description": "Et system utviklet for distribusjon av rapporter, med funksjonalitet for administrasjon av brukere og rapportobjekter som skal distribueres. Løsningen inkluderer oppsett av abonnementer, planlegging av distribusjonstidspunkter og frekvens, samt sømløs integrasjon med Active Directory (AD) for effektiv brukerhåndtering. Systemet er bygget med C#, ADO.Net og MS SQL Server som databaseløsning.",
@@ -221,7 +209,6 @@
                 "tags": [ "complete" ]
               },
                 {
-                    "ID": "52",
                     "name": "ULV - UtLevering av Verktøy",
                     "startDate": "2005-03-01",
                     "description": "Et system designet for å administrere utlevering og innlevering av verktøy. Løsningen er utviklet i C# med MS SQL Server som database og ADO.Net for datatilgang. Systemet inkluderer funksjonalitet for elektronisk signatur, generering av tilpassede rapporter og sømløs integrasjon med Active Directory (AD) for effektiv brukeradministrasjon",
@@ -239,7 +226,6 @@
                   "tags": [ "projectmanagement", "management", "complete" ]
                 },
               {
-                "ID": "53",
                 "name": "tiUM - timeregistrering Umoe Mandal",
                 "startDate": "2004-05-01",
                 "description": "Ledet en helhetlig implementering av et moderne timeregistreringssystem for Umoe Mandal der jeg hadde ansvar for samtlige prosjektfaser fra kravanalyse til driftssetting. Prosjektet omfattet utarbeidelse av detaljert kravspesifikasjon, design av skreddersydd løsningsarkitektur, teknisk implementasjon, koordinering av utrulling, samt grundig opplæring av både sluttbrukere og teknisk personell. I tillegg utviklet jeg omfattende bruker- og systemdokumentasjon for å sikre bærekraftig videre drift. Systemet ble utviklet i VB.Net med Winforms-grensesnitt og MS SQL Server som databaseløsning. Løsningen inkluderte avansert funksjonalitet som sømløs integrasjon mot eksisterende stemplingssystem, automatisk e-postvarsling for godkjenning av timelister, strukturert dataoverføring til lønnssystemet, samt intelligent autogenerering av timelister basert på predefinerte kriterier. Dette resulterte i betydelig redusert administrativ belastning og forbedret datakvalitet i organisasjonens timeregistrerings- og lønnsbehandlingsprosesser.",
@@ -262,7 +248,6 @@
             "language": "en",
             "data": [
                 {
-                    "ID": "54",
                     "name": "RELOVE V25",
                     "startDate": "2025-02-01",
                     "description": "RELOVE needs effective methods to document and showcase its societal value. This is crucial both to ensure continued support and to communicate the organization's significance in the local community. In the long term, RELOVE aims to qualify for a permanent position in the state budget. The pro bono team will therefore assist RELOVE in articulating their core business and identity in a clear and concise manner. The team will develop a few concise statements that capture the essence of RELOVE's operations, define the concrete value creation from RELOVE's various activity areas, and establish systematic measurement routines to document the organization's impact and results going forward, for example, through structured registration of recycled textile volumes or the number of young people entering employment.",
@@ -279,7 +264,6 @@
                     ]
                 },
                 {
-                    "ID": "55",
                     "name": "OOF H24 - Finance and Business Management",
                     "startDate": "2024-10-01",
                     "description": "The purpose of this project is to assist OOF in selecting and implementing digital tools that will streamline and simplify administrative and operational processes. OOF aims to minimize manual tasks while strengthening its ability to maintain oversight and control within key functions such as time tracking, budget management, accounting, and project management.",
@@ -296,7 +280,6 @@
                     ]
                 },
                 {
-                    "ID": "56",
                     "name": "Sanitation of old Log tool and seployment of agents",
                     "startDate": "2020-07-01",
                     "description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
@@ -313,7 +296,6 @@
                     ]
                 },
                 {
-                    "ID": "57",
                     "name": "Implementing extended security focus in DNB software lifecycle",
                     "startDate": "2020-07-01",
                     "description": "The project's mandate is to identify needs, procure, implement, and establish governance documents for solutions that increase focus on security aspects throughout the software lifecycle for software developed internally and by our partners. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Supplier dialogue included describing requirements, conducting supplier evaluations. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
@@ -330,7 +312,6 @@
                     ]
                 },
                 {
-                    "ID": "58",
                     "name": "IAM - cleanup and compliance",
                     "startDate": "2020-06-01",
                     "description": "The project's mandate is to implement extended automation of access management using ServiceNow, IIQ, and other relevant tools. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
@@ -347,7 +328,6 @@
                     ]
                 },
                 {
-                    "ID": "59",
                     "name": "Penetration testing",
                     "startDate": "2019-08-01",
                     "description": "The project's mandate was to facilitate penetration testing of DNB's systems. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
@@ -364,7 +344,6 @@
                     ]
                 },
                 {
-                    "ID": "60",
                     "name": "Implementing DDOS protection for a defined part of DNB's system portfolio",
                     "startDate": "2019-07-01",
                     "description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDOS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
@@ -381,7 +360,6 @@
                     ]
                 },
                 {
-                    "ID": "61",
                     "name": "New business portal",
                     "startDate": "2018-01-01",
                     "description": "Scrum Master for this development project. Performed the tasks associated with the role according to the Scrum Guide. Additionally, introduced and trained participants in agile methodologies, both within the IT organization and among participants from other business areas.",
@@ -398,7 +376,6 @@
                     ]
                 },
                 {
-                    "ID": "62",
                     "name": "GDPR at DNB Liv",
                     "startDate": "2018-01-01",
                     "description": "Compliance project with the mandate to ensure that DNB-Liv's systems meet GDPR requirements. In this project, I served as Scrum Master, performing tasks as described in the Scrum Guide.",
@@ -415,7 +392,6 @@
                     ]
                 },
                 {
-                    "ID": "63",
                     "name": "Supplier catalogue",
                     "startDate": "2014-09-01",
                     "description": "The project's mandate was to adapt and implement Sharecat's family of catalog services to be used by one of the world's largest oil suppliers. I took over the project as project manager after it had been ongoing for a few months. My tasks included tying up all loose ends, creating a detailed project plan for the remaining deliverables, and daily follow-up. The project was carried out with multi-disciplinary resources and participants in several countries. Planning, execution, and follow-up were carried out using MS Project 2013.",
@@ -432,7 +408,6 @@
                     ]
                 },
                 {
-                    "ID": "64",
                     "name": "Expansion of vCRM",
                     "startDate": "2011-03-01",
                     "description": "The project's mandate was to expand and improve Ventelo's CRM system. Based on an analysis of incoming requests to the IT department, five critical areas were identified where the existing system lacked support for business needs. The task was to analyze these needs and implement solutions that addressed the defined business cases.",
@@ -450,7 +425,6 @@
                     ]
                 },
                 {
-                    "ID": "65",
                     "name": "IRIS - Report Distribution System",
                     "startDate": "2007-02-01",
                     "description": "A system developed for the distribution of reports, with functionality for managing users and report objects to be distributed. The solution includes setting up subscriptions, scheduling distribution times and frequencies, and seamless integration with Active Directory (AD) for efficient user management. The system is built with C#, ADO.Net, and MS SQL Server as the database solution.",
@@ -467,7 +441,6 @@
                     ]
                 },
                 {
-                    "ID": "66",
                     "name": "ULV - Tool delivery",
                     "startDate": "2005-03-01",
                     "description": "A system designed to manage the delivery and return of tools. The solution is developed in C# with MS SQL Server as the database and ADO.Net for data access. The system includes functionality for electronic signatures, generation of customized reports, and seamless integration with Active Directory (AD) for efficient user management.",
@@ -484,7 +457,6 @@
                     ]
                 },
                 {
-                    "ID": "67",
                     "name": "tiUM - Time Registration Umoe Mandal",
                     "startDate": "2004-05-01",
                     "description": "Led a comprehensive implementation of a modern time registration system for Umoe Mandal, where I was responsible for all project phases from requirements analysis to deployment. The project included preparing a detailed requirements specification, designing a tailored solution architecture, technical implementation, coordinating rollout, and thorough training of both end-users and technical personnel. Additionally, I developed extensive user and system documentation to ensure sustainable future operations. The system was developed in VB.Net with a Winforms interface and MS SQL Server as the database solution. The solution included advanced functionality such as seamless integration with the existing time-stamping system, automatic email notifications for timesheet approvals, structured data transfer to the payroll system, and intelligent auto-generation of timesheets based on predefined criteria. This resulted in significantly reduced administrative workload and improved data quality in the organization's time registration and payroll processing.",

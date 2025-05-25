@@ -4,7 +4,6 @@
             "language": "no",
             "data": [
                 {
-                    "ID": "20",
                     "institution": "Handelshøyskolen BI",
                     "area": "Management",
                     "url": "https://wwww.bi.no",
@@ -20,7 +19,6 @@
                   "tags": [ "management", "complete" ]
                 },
                 {
-                    "ID": "21",
                     "institution": "Universitetet i Agder (UiA)",
                     "area": "Software Engineering",
                     "url": "https://www.uia.no",
@@ -37,7 +35,6 @@
                   "tags": [ "management", "complete" ]
                 },
                 {
-                    "ID": "22",
                     "institution": "NHI, Norges Høyskole for Informasjonsteknologi",
                     "area": "Computer Science",
                     "studyType": "Linje for administrativ databehandling",
@@ -65,7 +62,6 @@
                   "tags": [ "management", "complete" ]
                 },
               {
-                "ID": "23",
                 "institution": "Melbu Videregående skole",
                 "area": "IT",
                 "studyType": "VK2, Handel og kontor, Data- og informasjonsbehandling",
@@ -89,7 +85,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "24",
                 "institution": "Melbu Videregående skole",
                 "area": "Økonomi",
                 "studyType": "VK1, Handel og kontor",
@@ -112,7 +107,6 @@
                 "tags": [ "complete" ]
               },
               {
-                "ID": "25",
                 "institution": "Sortland Videregående skole",
                 "area": "Handels- og kontorfag",
                 "studyType": "Grunnkurs",
@@ -139,7 +133,6 @@
             "language": "en",
             "data": [
                 {
-                    "ID": "26",
                     "institution": "BI Norwegian Business School",
                     "area": "Management",
                     "url": "https://wwww.bi.no",
@@ -154,7 +147,6 @@
                     "endDate": "2019-01-01"
                 },
                 {
-                    "ID": "27",
                     "institution": "University of Agder (UiA)",
                     "area": "Software Engineering",
                     "url": "https://www.uia.no",
@@ -171,7 +163,6 @@
                     "tags": [ "management" ]
                 },
                 {
-                    "ID": "28",
                     "institution": "NHI, Norwegian School of Information Technology",
                     "area": "Computer Science",
                     "studyType": "Administrative Data Processing",
@@ -199,7 +190,6 @@
                     "tags": [ "management" ]
                 },
                 {
-                    "ID": "29",
                     "institution": "Melbu Videregående skole",
                     "area": "IT",
                     "studyType": "VK2, Handel og kontor, Data- og informasjonsbehandling",
@@ -223,7 +213,6 @@
                     "tags": [ "management" ]
                 },
                 {
-                    "ID": "30",
                     "institution": "Melbu Upper secondary school",
                     "area": "IT",
                     "studyType": "Advanced Course 2, Trade and Office, Data and Information Processing",
@@ -246,7 +235,6 @@
                     "endDate": "1990-06-01"
                 },
                 {
-                    "ID": "31",
                     "institution": "Melbu Upper secondary school",
                     "area": "Economics",
                     "studyType": "Advanced Course 1, Trade and Office",
@@ -268,7 +256,6 @@
                     "endDate": "1989-06-01"
                 },
                 {
-                    "ID": "32",
                     "institution": "Sortland Upper secondary school",
                     "area": "Trade and Office Studies",
                     "studyType": "Foundation Course",

@@ -3,7 +3,6 @@
         "no": {
             "data": [
                 {
-                    "ID": "35",
                     "language": "Norsk",
                     "fluency": "Morsmål",
                     "native": true,
@@ -14,7 +13,6 @@
                   "tags": [ "management", "complete" ]
                 },
                 {
-                    "ID": "36",
                     "language": "Engelsk",
                     "fluency": "Full professional proficiency",
                     "native": false,
@@ -30,7 +28,6 @@
         "en": {
             "data": [
                 {
-                    "ID": "37",
                     "language": "Norwegian",
                     "fluency": "Native",
                     "native": true,
@@ -40,7 +37,6 @@
                     ]
                 },
                 {
-                    "ID": "38",
                     "language": "English",
                     "fluency": "Full Professional Proficiency",
                     "native": false,
