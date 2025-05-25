@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {
+      "ID": "37",
+      "language": "Norwegian",
+      "fluency": "Native",
+      "native": true,
+      "keywords": [
+        "Norwegian",
+        "Bokmål"
+      ]
+    },
+    {
+      "ID": "38",
+      "language": "English",
+      "fluency": "Full Professional Proficiency",
+      "native": false,
+      "keywords": [
+        "English",
+        "American English",
+        "British English"
+      ]
+    }
+  ]
+}
