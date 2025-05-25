@@ -4,6 +4,13 @@ $baseOutputPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\
 
 $outputFile = "$baseOutputPath\jsonresume.json"
 
+# **************************************************************
+# Define the target language (Norwegian or English)
+$language = "en"  # Change to "no" for Norwegian version
+# **************************************************************
+
+$folderPath = "$baseFolderPath\$language"
+
 # Initialize an empty hash table to store JSON content
 $mergedData = @{}
 
