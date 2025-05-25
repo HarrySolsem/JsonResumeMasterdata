@@ -1,6 +1,16 @@
-# Define folder path
-$folderPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\data\no"
-$outputFile = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\generated_data\no\jsonresume.json"
+# Define base folder path
+$baseFolderPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\data"
+$baseOutputPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\generated_data"
+
+# **************************************************************
+# Define the target language (Norwegian or English)
+$language = "en"  # Change to "no" for Norwegian version
+# **************************************************************
+
+
+# Generate full paths based on language selection
+$folderPath = "$baseFolderPath\$language"
+$outputFile = "$baseOutputPath\$language\jsonresume.json"
 
 # Initialize an empty hash table to store JSON content
 $mergedData = @{}
@@ -27,4 +37,4 @@ foreach ($file in $files) {
 $mergedJson = $mergedData | ConvertTo-Json -Depth 10
 [System.IO.File]::WriteAllText($outputFile, $mergedJson, [System.Text.Encoding]::UTF8)
 
-Write-Host "Merged JSON saved to $outputFile with UTF-8 encoding"
+Write-Host "Merged JSON saved to $outputFile with UTF-8 encoding for language: $language"
