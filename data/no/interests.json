@@ -1,29 +1,13 @@
 {
-    "interests": {
-        "no": {
-            "data": [
-              {
-                "name": "Sport",
-                "keywords": [
-                  "Bordtennis",
-                  "Løping",
-                  "Liverpool FC"
-                ],
-                "tags": [ "complete" ]
-              }
-            ]
-        },
-        "en": {
-            "data": [
-                {
-                    "name": "Sport",
-                    "keywords": [
-                        "Table Tennis",
-                        "Running",
-                        "Liverpool FC"
-                    ]
-                }
-            ]
-        }
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Bordtennis",
+        "Løping",
+        "Liverpool FC"
+      ],
+      "tags": [ "complete" ]
     }
+  ]
 }

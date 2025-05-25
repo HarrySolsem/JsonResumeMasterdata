@@ -1,14 +1,3 @@
 {
-    "awards": {
-      "no": {
-        "language": "no",
-        "data": [],
-        "tags": [ "complete" ]
-
-      },
-        "en": {
-            "language": "en",
-            "data": []
-        }
-    }
+  "awards": []
 }

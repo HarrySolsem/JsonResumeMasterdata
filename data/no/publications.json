@@ -1,13 +1,3 @@
 {
-  "publications": {
-    "no": {
-      "language": "no",
-      "data": [],
-      "tags": [ "complete" ]
-    },
-    "en": {
-      "language": "en",
-      "data": []
-    }
-  }
+  "publications": [{}]
 }
