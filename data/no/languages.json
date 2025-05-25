@@ -7,8 +7,7 @@
       "keywords": [
         "Norsk",
         "Bokmål"
-      ],
-      "tags": [ "management", "complete" ]
+      ]
     },
     {
       "language": "Engelsk",
@@ -18,8 +17,7 @@
         "Engelsk",
         "Engelsk (amerikansk)",
         "Engelsk (britisk)"
-      ],
-      "tags": [ "management", "complete" ]
+      ]
     }
   ]
 }

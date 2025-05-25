@@ -12,8 +12,7 @@
         "Prosjektledelse 2",
         "Prosjektledelse 3"
       ],
-      "endDate": "2019-01-01",
-      "tags": [ "management", "complete" ]
+      "endDate": "2019-01-01"
     },
     {
       "institution": "Universitetet i Agder (UiA)",
@@ -28,8 +27,7 @@
         "Advanced Database Systems XML",
         "OO Systems Design using UML"
       ],
-      "endDate": "2000-05-01",
-      "tags": [ "management", "complete" ]
+      "endDate": "2000-05-01"
     },
     {
       "institution": "NHI, Norges Høyskole for Informasjonsteknologi",
@@ -55,8 +53,7 @@
         "Operativsystemer",
         "Sanntidsprogrammering"
       ],
-      "endDate": "1994-05-01",
-      "tags": [ "management", "complete" ]
+      "endDate": "1994-05-01"
     },
     {
       "institution": "Melbu Videregående skole",
@@ -78,8 +75,7 @@
         "Administrative EDB-verktøy",
         "Samfunnsfag"
       ],
-      "endDate": "1990-06-01",
-      "tags": [ "complete" ]
+      "endDate": "1990-06-01"
     },
     {
       "institution": "Melbu Videregående skole",
@@ -100,8 +96,7 @@
         "Matematikk og statistikk",
         "Informasjonsbehandling"
       ],
-      "endDate": "1989-06-01",
-      "tags": [ "complete" ]
+      "endDate": "1989-06-01"
     },
     {
       "institution": "Sortland Videregående skole",
@@ -121,8 +116,7 @@
         "Praktisk kontorarbeid",
         "Tekstbehandling"
       ],
-      "endDate": "1988-06-01",
-      "tags": [ "complete" ]
+      "endDate": "1988-06-01"
     }
   ]
 }

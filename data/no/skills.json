@@ -23,8 +23,7 @@
         "metodetilpasning",
         "prosjektmetodologi",
         "smidig metodikk"
-      ],
-      "tags": [ "complete" ]
+      ]
     },
     {
       "name": "Software utvikling og arkitektur",
@@ -63,8 +62,7 @@
         "arkitektpatterns",
         "tekniske spesifikasjoner",
         "integrasjonsarkitektur"
-      ],
-      "tags": [ "complete" ]
+      ]
     },
     {
       "name": "Ledelse & Administrasjon",
@@ -99,8 +97,7 @@
         "technical strategy",
         "innovation management",
         "R&D leadership"
-      ],
-      "tags": [ "management", "complete" ]
+      ]
     },
     {
       "name": "Prosjekt- og prosessledelse",
@@ -131,8 +128,7 @@
         "utilization optimization",
         "workload distribution",
         "prioritization"
-      ],
-      "tags": [ "management", "complete" ]
+      ]
     },
     {
       "name": "Tekniske verktøy og plattformer",
@@ -158,8 +154,7 @@
         "incident management",
         "change management",
         "service level agreements"
-      ],
-      "tags": [ "complete" ]
+      ]
     }
   ]
 }
