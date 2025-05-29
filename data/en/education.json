@@ -56,28 +56,6 @@
       "endDate": "1994-05-01"
     },
     {
-      "institution": "Melbu Videregående skole",
-      "area": "IT",
-      "studyType": "VK2, Handel og kontor, Data- og informasjonsbehandling",
-      "startDate": "1989-08-01",
-      "score": "",
-      "courses": [
-        "Norsk og kommunikasjon, hovedmål, skriftlig",
-        "Norsk og kommunikasjon, sidemål, skriftlig",
-        "Norsk og kommunikasjon, muntlig",
-        "Organisasjonslære",
-        "Engelsk, skriftlig",
-        "Engelsk, muntlig",
-        "Sosialøkonomi",
-        "Kroppsøving",
-        "Systemering",
-        "Programmering",
-        "Administrative EDB-verktøy",
-        "Samfunnsfag"
-      ],
-      "endDate": "1990-06-01"
-    },
-    {
       "institution": "Melbu Upper secondary school",
       "area": "IT",
       "studyType": "Advanced Course 2, Trade and Office, Data and Information Processing",
