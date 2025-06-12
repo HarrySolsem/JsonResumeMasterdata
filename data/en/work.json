@@ -1,5 +1,10 @@
 {
-  "work": [ 
+  {
+    "name": "Enebakk municipality",
+        "position": "Prosjektleder digitalisering",
+        "url": "https://www.enebakk.kommune.no",
+        "startDate": "2025-06-04",
+        "summary": "Ledelse av digitaliseringsprosjekter, leder av portfolioteam og leder av PMO"},
     {
       "name": "Prosperastiftelsen",
       "position": "Project Manager",
