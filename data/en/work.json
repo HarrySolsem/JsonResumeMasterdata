@@ -1,10 +1,17 @@
 {
-  {
-    "name": "Enebakk municipality",
-        "position": "Prosjektleder digitalisering",
-        "url": "https://www.enebakk.kommune.no",
-        "startDate": "2025-06-04",
-        "summary": "Ledelse av digitaliseringsprosjekter, leder av portfolioteam og leder av PMO"},
+  "work": [
+    {
+      "name": "Enebakk municipality",
+      "position": "Projectmanager digitalization",
+      "url": "https://www.enebakk.kommune.no",
+      "startDate": "2025-06-04",
+      "summary": "Managing digitalization projects, head of portfolioteam and head of PMO",
+      "highlights": [
+        "Management of digitalization projects in Enebakk Municipality, focusing on streamlining and improving municipal services through digitalization.",
+        "Leader of the portfolio team coordinating and prioritizing digitalization initiatives to ensure alignment with the municipality's strategic goals.",
+        "Head of the PMO (Project Management Office), establishing and maintaining project management standards and procedures to ensure successful project delivery."
+      ]
+    },
     {
       "name": "Prosperastiftelsen",
       "position": "Project Manager",
@@ -177,4 +184,3 @@
     }
   ]
 }
-    
