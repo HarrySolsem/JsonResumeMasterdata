@@ -6,7 +6,7 @@ $outputFile = "$baseOutputPath\jsonresume.json"
 
 # **************************************************************
 # Define the target language (Norwegian or English)
-$language = "en"  # Change to "no" for Norwegian version
+$language = "no"  # Change to "no" for Norwegian version
 # **************************************************************
 
 $folderPath = "$baseFolderPath\$language"
