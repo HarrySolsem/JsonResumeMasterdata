@@ -1,5 +1,53 @@
 {
   "projects": [
+     {
+      "name": "Plan for boligsosiale tiltak",
+      "startDate": "2025-06-10",
+      "description": "",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Nytt intranett",
+      "startDate": "2025-06-13",
+      "description": "",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Trygghetsalamer",
+      "startDate": "2025-06-20",
+      "description": "",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
     {
       "name": "RELOVE V25",
       "startDate": "2025-02-01",
