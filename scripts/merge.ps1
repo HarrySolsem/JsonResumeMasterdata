@@ -1,5 +1,5 @@
 # Define base folder path
-$baseFolderPath = "..\\data"
+$baseFolderPath = ".\\data"
 $baseOutputPath = ".\\generated_data"
 
 $outputFile = "$baseOutputPath\jsonresume.json"
