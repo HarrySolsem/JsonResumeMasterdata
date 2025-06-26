@@ -45,6 +45,8 @@ jobs:
           title: "Update jsonresume.json"
           body: "This PR was automatically created by the workflow."
           base: main
+          delete-branch: true
+
 
       - name: Enable Auto-Merge
         if: steps.cpr.outputs.pull-request-number != ''
