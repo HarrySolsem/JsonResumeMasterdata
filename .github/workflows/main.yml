@@ -1,10 +1,7 @@
 name: Execute PowerShell Script
 
 on:
-  push:
-    branches:
-      - data-source
-  workflow_dispatch:
+   workflow_dispatch
 
 permissions:
   contents: write
