@@ -1,6 +1,6 @@
 # Define base folder path
-$baseFolderPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\data"
-$baseOutputPath = "C:\Users\harry\source\repos\HarrySolsem\JsonResumeMasterdata\generated_data"
+$baseFolderPath = "..\\data"
+$baseOutputPath = ".\\generated_data"
 
 $outputFile = "$baseOutputPath\jsonresume.json"
 
