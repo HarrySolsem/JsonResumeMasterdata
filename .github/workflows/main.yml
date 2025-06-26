@@ -53,3 +53,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
+
+      - name: Delete source branch after merge
+        if: steps.cpr.outputs.pull-request-number != ''
+        run: |
+          gh pr delete update-jsonresume-${{ github.run_id }} --yes --repo ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
