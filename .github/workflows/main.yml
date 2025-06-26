@@ -26,8 +26,15 @@ jobs:
 
       - name: Check for file changes
         id: diff
+        shell: bash
         run: |
-          git diff --quiet && git diff --cached --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes detected"
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Create Pull Request
         id: cpr
