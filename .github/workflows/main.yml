@@ -45,8 +45,14 @@ jobs:
           title: "Update jsonresume.json"
           body: "This PR was automatically created by the workflow."
           base: main
+
+      - name: Enable Auto-Merge
+        if: steps.cpr.outputs.pull-request-number != ''
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
-          auto-merge: true
 
       - name: Delete source branch after merge
         if: steps.cpr.outputs.pull-request-number != ''
