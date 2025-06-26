@@ -16,4 +16,4 @@ jobs:
 
       - name: Execute PowerShell Script
         run: |
-          pwsh ./path/to/your/script.ps1
+          pwsh ./scripts/merge.ps1
