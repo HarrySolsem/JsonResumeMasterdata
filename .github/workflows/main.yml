@@ -20,13 +20,13 @@ jobs:
 
     - name: Upload JSON to Gist
       run: |
-        $filePath = "./generated_data/jsonresume.json"  # adjust path if necessary
-        $gistId = "40eece97259fe4f9eb8936ac089d34b9"
+        $filePath = "./generated_data/masterdatacvsmie.json"  # adjust path if necessary
+        $gistId = "f8b84db7b56f189c4cd5ae57cfc88df5"
         $token = "${{ secrets.GIST_TOKEN }}"
         $content = Get-Content $filePath -Raw
         $payload = @{
           "files" = @{
-            "jsonresume.json" = @{
+            "masterdatacvsmie.json" = @{
               "content" = $content
             }
           }

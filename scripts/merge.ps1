@@ -2,7 +2,7 @@
 $baseFolderPath = ".\\data"
 $baseOutputPath = ".\\generated_data"
 
-$outputFile = "$baseOutputPath\jsonresume.json"
+$outputFile = "$baseOutputPath\masterdatacvsmie.json"
 
 # **************************************************************
 # Define the target language (Norwegian or English)
