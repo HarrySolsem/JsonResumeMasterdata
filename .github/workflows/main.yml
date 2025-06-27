@@ -1,57 +1,39 @@
-name: Execute PowerShell Script
+name: Run PowerShell and Upload to Gist
 
 on:
-   workflow_dispatch
-
-permissions:
-  contents: write
-  pull-requests: write
+  push:
+    branches:
+      - main  # or any branch you prefer
+  workflow_dispatch:
 
 jobs:
-  run-powershell-script:
+  generate-and-upload:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Execute PowerShell Script
-        run: pwsh ./scripts/merge.ps1
+    - name: Run PowerShell script
+      run: |
+        ./scripts/merge.ps1  # adjust the path and script name as needed
 
-      - name: Confirm Script Execution
-        run: echo "PowerShell script execution completed successfully!"
+    - name: Upload JSON to Gist
+      run: |
+        $filePath = "./generated_data/jsonresume.json"  # adjust path if necessary
+        $gistId = "40eece97259fe4f9eb8936ac089d34b9"
+        $token = "${{ secrets.GIST_TOKEN }}"
+        $content = Get-Content $filePath -Raw
+        $payload = @{
+          "files" = @{
+            "jsonresume.json" = @{
+              "content" = $content
+            }
+          }
+        } | ConvertTo-Json -Depth 10
 
-      - name: Check for file changes
-        id: diff
-        shell: bash
-        run: |
-          if git diff --quiet && git diff --cached --quiet; then
-            echo "No changes detected"
-            echo "changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "Changes detected"
-            echo "changes=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Create Pull Request
-        id: cpr
-        if: steps.diff.outputs.changes == 'true'
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update generated jsonresume.json"
-          add-paths: |
-            generated_data/jsonresume.json
-          branch: update-jsonresume-${{ github.run_id }}
-          title: "Update jsonresume.json"
-          body: "This PR was automatically created by the workflow."
-          base: main
-          delete-branch: true
-
-      - name: Enable Auto-Merge
-        if: steps.cpr.outputs.pull-request-number != ''
-        uses: peter-evans/enable-pull-request-automerge@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
-          merge-method: squash
+        Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
+                          -Method PATCH `
+                          -Body $payload `
+                          -Headers @{ Authorization = "token $token" }
+      shell: pwsh
