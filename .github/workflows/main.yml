@@ -1,4 +1,4 @@
-name: Run PowerShell and Upload to Gist
+name: Upload to Gist
 
 on:
   push:
@@ -55,7 +55,7 @@ jobs:
                           -Method PATCH `
                           -Body $payload `
                           -Headers @{ Authorization = "token $token" }
-        Write-Output "Gist update response (NO):"
+        Write-Output "Gist update response (EN):"
         $response | ConvertTo-Json -Depth 10 | Write-Output
 
       shell: pwsh
