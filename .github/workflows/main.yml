@@ -14,19 +14,35 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Run PowerShell script
+    - name: Upload NO JSON to Gist
       run: |
-        ./scripts/merge.ps1  # adjust the path and script name as needed
-
-    - name: Upload JSON to Gist
-      run: |
-        $filePath = "./generated_data/masterdatacvsmie.json"  # adjust path if necessary
+        $filePath = "./publish/no/jsonresume.json"  # adjust path if necessary
         $gistId = "f8b84db7b56f189c4cd5ae57cfc88df5"
         $token = "${{ secrets.GIST_TOKEN }}"
         $content = Get-Content $filePath -Raw
         $payload = @{
           "files" = @{
-            "masterdatacvsmie.json" = @{
+            "jsonresume.json" = @{
+              "content" = $content
+            }
+          }
+        } | ConvertTo-Json -Depth 10
+
+        Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
+                          -Method PATCH `
+                          -Body $payload `
+                          -Headers @{ Authorization = "token $token" }
+      shell: pwsh
+
+    - name: Upload EN JSON to Gist
+      run: |
+        $filePath = "./publish/en/jsonresume.json"  # adjust path if necessary
+        $gistId = "a241fb28e24fc7674d804f63fc2cfcf0"
+        $token = "${{ secrets.GIST_TOKEN }}"
+        $content = Get-Content $filePath -Raw
+        $payload = @{
+          "files" = @{
+            "jsonresume.json" = @{
               "content" = $content
             }
           }
