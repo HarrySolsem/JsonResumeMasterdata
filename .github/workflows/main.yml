@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-and-upload:
+  upload-gists:
     runs-on: windows-latest
 
     steps:
@@ -28,10 +28,13 @@ jobs:
           }
         } | ConvertTo-Json -Depth 10
 
-        Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
+        $response = Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
                           -Method PATCH `
                           -Body $payload `
                           -Headers @{ Authorization = "token $token" }
+        Write-Output "Gist update response (NO):"
+        $response | ConvertTo-Json -Depth 10 | Write-Output
+
       shell: pwsh
 
     - name: Upload EN JSON to Gist
@@ -48,8 +51,11 @@ jobs:
           }
         } | ConvertTo-Json -Depth 10
 
-        Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
+        $response = Invoke-RestMethod -Uri "https://api.github.com/gists/$gistId" `
                           -Method PATCH `
                           -Body $payload `
                           -Headers @{ Authorization = "token $token" }
+        Write-Output "Gist update response (NO):"
+        $response | ConvertTo-Json -Depth 10 | Write-Output
+
       shell: pwsh
