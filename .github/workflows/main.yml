@@ -16,7 +16,7 @@ jobs:
 
     - name: Upload NO JSON to Gist
       run: |
-        $filePath = "./publish/no/jsonresume.json"  # adjust path if necessary
+        $filePath = "./data/no/jsonresume.json"  # adjust path if necessary
         $gistId = "f8b84db7b56f189c4cd5ae57cfc88df5"
         $token = "${{ secrets.GIST_TOKEN }}"
         $content = Get-Content $filePath -Raw
@@ -36,7 +36,7 @@ jobs:
 
     - name: Upload EN JSON to Gist
       run: |
-        $filePath = "./publish/en/jsonresume.json"  # adjust path if necessary
+        $filePath = "./data/en/jsonresume.json"  # adjust path if necessary
         $gistId = "a241fb28e24fc7674d804f63fc2cfcf0"
         $token = "${{ secrets.GIST_TOKEN }}"
         $content = Get-Content $filePath -Raw
