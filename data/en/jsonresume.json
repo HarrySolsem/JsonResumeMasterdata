@@ -225,13 +225,29 @@
       ]
     }
   ],
-   "projects": [
+  "projects": [
+    {
+      "name": "Strategy for service development",
+      "startDate": "2025-08-05",
+      "description": "beskrivelse",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "endDate": "2030-12-31",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]
+    },
     {
       "name": "Plan for boligsosiale tiltak",
       "startDate": "2025-06-10",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Kommune",
+      "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
         "project manager"
@@ -243,11 +259,11 @@
       ]
     },
     {
-      "name": "Nytt intranett",
+      "name": "New intranet",
       "startDate": "2025-06-13",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Kommune",
+      "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
         "project manager"
@@ -259,11 +275,11 @@
       ]
     },
     {
-      "name": "Trygghetsalarmer",
+      "name": "Safety alarms",
       "startDate": "2025-06-20",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Kommune",
+      "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
         "project manager"

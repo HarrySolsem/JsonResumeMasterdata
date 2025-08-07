@@ -256,7 +256,23 @@
   ],
   "projects": [
     {
-      "name": "Plan for boligsosiale tiltak",
+      "name": "Strategi for tjenesteutvikling",
+      "startDate": "2025-08-05",
+      "description": "beskrivelse",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]
+    },
+    {
+      "name": "Plan for boligsosial virksomhet",
       "startDate": "2025-06-10",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
