@@ -265,7 +265,7 @@
     {
       "name": "Innføring av eADM",
       "startDate": "2025-09-05",
-      "description": "beskrivelse",
+      "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -281,7 +281,7 @@
     ,{
       "name": "Strategi for tjenesteutvikling",
       "startDate": "2025-08-05",
-      "description": "beskrivelse",
+      "description": "Prosjektet skal utarbeide en overordnet strategi for tjenesteutvikling i Enebakk kommune. Strategien skal bidra til å sikre at kommunen utvikler tjenester som er i tråd med innbyggernes behov og forventninger, samtidig som den tar hensyn til kommunens ressurser og kapasiteter. Strategien skal også legge til rette for innovasjon og kontinuerlig forbedring av tjenestene.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -297,7 +297,7 @@
     {
       "name": "Plan for boligsosial virksomhet",
       "startDate": "2025-06-10",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -311,9 +311,9 @@
       ]
     },
     {
-      "name": "Nytt intranett",
+      "name": "Prosjekt Nexus - Nytt intranett",
       "startDate": "2025-06-13",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å tilrettelegge en teknisk plattform for nytt intranett i Enebakk kommune. Dette skal være en plattform som er brukervennlig, tilgjengelig og som legger til rette for samarbeid og deling av informasjon på tvers av organisasjonen.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -327,9 +327,9 @@
       ]
     },
     {
-      "name": "Trygghetsalarmer",
+      "name": "Innkjøp, konfigurering  og utrulling av nye Trygghetsalarmer",
       "startDate": "2025-06-20",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å innføre nye trygghetsalarmer i Enebakk kommune. Dette inkluderer innkjøp, konfigurering og utrulling av alarmene, samt opplæring av ansatte i bruk av systemet.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
