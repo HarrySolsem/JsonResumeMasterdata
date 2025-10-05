@@ -263,6 +263,22 @@
   ],
   "projects": [
     {
+      "name": "tba",
+      "startDate": "2025-10-05",
+      "description": "beskrivelse",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2030-12-31",
+      "roles": [
+        "project mentor"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]      
+    },
+    {
       "name": "Innføring av eADM",
       "startDate": "2025-09-05",
       "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
@@ -581,6 +597,13 @@
         "Leder av portfolioteam som koordinerer og prioriterer digitaliseringsinitiativer for å sikre at de støtter kommunens strategiske mål.",
         "Leder av PMO (Project Management Office) som etablerer og vedlikeholder prosjektstyringsstandarder og -prosedyrer for å sikre vellykkede prosjektleveranser."
       ]
+    },
+    {
+      "name": "Prosperastiftelsen",
+      "position": "Prosjektmentor",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2025-10-01",
+      "summary": "Som prosjektmentor i Prosperastiftelsen har jeg hatt gleden av å veilede og støtte prosjektledere i gjennomføringen av viktige initiativer som fremmer stiftelsens samfunnsoppdrag. I denne rollen har jeg bidratt med min erfaring innen prosjektledelse, strategisk planlegging og teamutvikling for å sikre at prosjektene ikke bare når sine mål, men også skaper varig verdi for samfunnet. Jeg har fokusert på å styrke prosjektledernes ferdigheter gjennom individuell coaching, deling av beste praksis og utvikling av skreddersydde verktøy og metoder som passer stiftelsens unike behov. Gjennom tett samarbeid med prosjektteamene har jeg hjulpet til med å identifisere og overvinne utfordringer, optimalisere ressursbruk og sikre effektiv kommunikasjon med interessenter. Jeg er stolt av å kunne bidra til Prosperastiftelsens viktige arbeid ved å styrke deres evne til å gjennomføre prosjekter som gjør en reell forskjell i samfunnet."
     },
     {
       "name": "Prosperastiftelsen",

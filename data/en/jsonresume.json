@@ -227,6 +227,22 @@
   ],
   "projects": [
     {
+      "name": "tba",
+      "startDate": "2025-10-05",
+      "description": "beskrivelse",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2030-12-31",
+      "roles": [
+        "project mentor"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]      
+    },
+    {
       "name": "Implementation of eADM",
       "startDate": "2025-09-05",
       "description": "beskrivelse",
@@ -892,6 +908,13 @@
         "Leader of the portfolio team coordinating and prioritizing digitalization initiatives to ensure alignment with the municipality's strategic goals.",
         "Head of the PMO (Project Management Office), establishing and maintaining project management standards and procedures to ensure successful project delivery."
       ]
+    },
+     {
+      "name": "Prosperastiftelsen",
+      "position": "Project mentor",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2025-10-01",
+      "summary":  "As a project mentor at Prosperastiftelsen, I provide guidance and support to project managers and teams to help them successfully plan, execute, and complete their projects. My role involves sharing best practices in project management, offering advice on overcoming challenges, and helping to develop effective strategies for achieving project goals. I work closely with project teams to ensure they have the necessary skills and resources to deliver high-quality results on time and within budget. By fostering a collaborative environment and encouraging continuous learning, I aim to enhance the overall effectiveness of project management within the organization."
     },
     {
       "name": "Prosperastiftelsen",
