@@ -708,14 +708,7 @@
     }
   ],
   "volunteer": [
-    { 
-      "organization": "Røde Kors",
-      "position": "Teamlead for vlolunteers that are providing digital homework help",
-      "url": "https://www.digitalleksehjelp.no/digital_leksehjelp",
-      "startDate": "2024-09-01",
-      "summary": "As teamlead my role is to coordinate and support volunteers who provide digital homework help to children and young people. I ensure that volunteers have the necessary resources and training to effectively assist students with their academic challenges. I organize regular meetings to discuss best practices, share experiences, and address any challenges that may arise. Additionally, I act as a liaison between the volunteers and the organization, ensuring clear communication and alignment with the organization's goals. My goal is to create a positive and supportive environment where volunteers feel motivated and empowered to make a difference in the lives of the students they help.",
-    }
-    ,{
+    {
       "organization": "Langhus IL Table Tennis",
       "position": "Group Leader and Chairman",
       "url": "https://www.langhusil.no/bordtennis",
