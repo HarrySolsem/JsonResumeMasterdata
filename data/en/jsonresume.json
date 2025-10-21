@@ -227,9 +227,9 @@
   ],
   "projects": [
     {
-      "name": "tba",
+      "name": "Artists network (KN)",
       "startDate": "2025-10-05",
-      "description": "beskrivelse",
+      "description": "The project’s mandate is to prepare a draft for a joint strategy for KN, including prioritizing which issues should be promoted. It will also develop proposals for how KN can demonstrate and communicate the value of its work to its member organizations, and create a two-year action plan outlining how KN should prioritize and succeed in implementing the strategy.",
       "url": "https://www.prosperastiftelsen.no",
       "entity": "Prosperastiftelsen",
       "endDate": "2030-12-31",
@@ -245,7 +245,7 @@
     {
       "name": "Implementation of eADM",
       "startDate": "2025-09-05",
-      "description": "beskrivelse",
+      "description": "A project with the mandate to implement eADM in Enebakk Municipality. eADM is a tool for identification and access management. It will serve as a system for automating access control within the municipality.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -261,7 +261,7 @@
     ,{
       "name": "Strategy for service development and innovation",
       "startDate": "2025-08-05",
-      "description": "beskrivelse",
+      "description": "The project will develop an overall strategy for service development in Enebakk Municipality. The strategy will help ensure that the municipality develops services aligned with the needs and expectations of its residents, while also taking into account the municipality’s resources and capacities. It will also aim to promote innovation and continuous improvement of services.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -277,7 +277,7 @@
     {
       "name": "Plan for boligsosiale tiltak",
       "startDate": "2025-06-10",
-      "description": "beskrivelse",
+      "description": "The project aims to develop a comprehensive plan for housing and social services in Enebakk Municipality. The plan will help ensure that residents have access to the services the municipality is responsible for providing within the field of housing and social work. It will also facilitate collaboration between different actors and sectors, and ensure the efficient use of resources.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -309,7 +309,7 @@
     {
       "name": "Safety alarms",
       "startDate": "2025-06-20",
-      "description": "beskrivelse",
+      "description": "The project aims to implement new safety alarms in Enebakk Municipality. This includes the procurement, configuration, and rollout of the alarms, as well as training staff in how to use the system.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -1065,10 +1065,10 @@
     },
     {
       "name": "NHI-Datahøgskolen",
-      "position": "Instructor",
+      "position": "Assistant instructor",
       "url": "https://www.ikke.no",
       "startDate": "1994-01-01",
-      "summary": "Instructor for the subject Algorithms and Data Structures",
+      "summary": "Assistant instructor for the subject Algorithms and Data Structures",
       "endDate": "1994-06-01"
     },
     {
