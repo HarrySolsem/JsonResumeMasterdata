@@ -227,8 +227,24 @@
   ],
   "projects": [
     {
+      "name": "tba",
+      "startDate": "2025-10-05",
+      "description": "beskrivelse",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2030-12-31",
+      "roles": [
+        "project mentor"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]      
+    },
+    {
       "name": "Implementation of eADM",
-      "startDate": "2025-09-053",
+      "startDate": "2025-09-05",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
@@ -275,7 +291,7 @@
       ]
     },
     {
-      "name": "New intranet",
+      "name": "Project Nexus - New intranet",
       "startDate": "2025-06-13",
       "description": "beskrivelse",
       "url": "https://www.enebakk.kommune.no",
@@ -879,12 +895,19 @@
       "position": "Projectmanager digitalization",
       "url": "https://www.enebakk.kommune.no",
       "startDate": "2025-06-04",
-      "summary": "As Digitalization Project Manager at Enebakk Municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
+      "summary": "As Digitalization Project Manager at Enebakk municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
       "highlights": [
-        "Management of digitalization projects in Enebakk Municipality, focusing on streamlining and improving municipal services through digitalization.",
+        "Management of digitalization projects in Enebakk municipality, focusing on streamlining and improving municipal services through digitalization.",
         "Leader of the portfolio team coordinating and prioritizing digitalization initiatives to ensure alignment with the municipality's strategic goals.",
-        "Head of the PMO (Project Main Office), establishing and maintaining project management standards and procedures to ensure successful project delivery."
+        "Head of the PMO (Project Management Office), establishing and maintaining project management standards and procedures to ensure successful project delivery."
       ]
+    },
+     {
+      "name": "Prosperastiftelsen",
+      "position": "Project mentor",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2025-10-01",
+      "summary":  "As a project mentor at Prosperastiftelsen, I provide guidance and support to project managers and teams to help them successfully plan, execute, and complete their projects. My role involves sharing best practices in project management, offering advice on overcoming challenges, and helping to develop effective strategies for achieving project goals. I work closely with project teams to ensure they have the necessary skills and resources to deliver high-quality results on time and within budget. By fostering a collaborative environment and encouraging continuous learning, I aim to enhance the overall effectiveness of project management within the organization."
     },
     {
       "name": "Prosperastiftelsen",

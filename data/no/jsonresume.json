@@ -130,7 +130,7 @@
       "position": "Leder lokalt avtaleutvalg, Privat",
       "url": "https://nito.no/",
       "startDate": "2019-02-19",
-      "enddate": "2020-06-21",
+      "endDate": "2020-06-21",
       "summary": ""
     },
     {
@@ -138,7 +138,7 @@
       "position": "Leder valgkomite",
       "url": "https://nito.no/",
       "startDate": "2019-02-08",
-      "enddate": "2020-06-21",
+      "endDate": "2020-06-21",
       "summary": ""
     },
     {
@@ -146,7 +146,7 @@
       "position": "Medlem faggruppe IKT",
       "url": "https://nito.no/",
       "startDate": "2018-04-19",
-      "enddate": "2019-05-29",
+      "endDate": "2019-05-29",
       "summary": ""
     },
     {
@@ -154,7 +154,7 @@
       "position": "Leder for bedriftsgruppe",
       "url": "https://nito.no/",
       "startDate": "2017-11-06",
-      "enddate": "2021-01-31",
+      "endDate": "2021-01-31",
       "summary": ""
     },
     {
@@ -162,7 +162,7 @@
       "position": "Medlem lokalt avtaleutvalg",
       "url": "https://nito.no/",
       "startDate": "2017-03-01",
-      "enddate": "2017-05-31",
+      "endDate": "2017-05-31",
       "summary": ""
     },
     {
@@ -170,7 +170,7 @@
       "position": "Avdelingsstyremedlem",
       "url": "https://nito.no/",
       "startDate": "2017-03-01",
-      "enddate": "2017-05-31",
+      "endDate": "2017-05-31",
       "summary": ""
     },
     {
@@ -178,7 +178,7 @@
       "position": "Styremedlem Tariffutvalg Privat",
       "url": "https://nito.no/",
       "startDate": "2015-03-05",
-      "enddate": "2024-03-13",
+      "endDate": "2024-03-13",
       "summary": ""
     },
     {
@@ -186,7 +186,7 @@
       "position": "Medlem lokalt tariffutvalg Privat",
       "url": "https://nito.no/",
       "startDate": "2014-03-21",
-      "enddate": "2016-12-31",
+      "endDate": "2016-12-31",
       "summary": ""
     },
     {
@@ -194,7 +194,7 @@
       "position": "Leder for bedriftsgruppe",
       "url": "https://nito.no/",
       "startDate": "2013-07-30",
-      "enddate": "2015-02-15",
+      "endDate": "2015-02-15",
       "summary": ""
     },
     {
@@ -202,7 +202,7 @@
       "position": "Avdelingsstyremedlem",
       "url": "https://nito.no/",
       "startDate": "2012-03-21",
-      "enddate": "2012-06-30",
+      "endDate": "2012-06-30",
       "summary": ""
     },
     {
@@ -210,7 +210,7 @@
       "position": "Styremedlem tariffutvalg Spekter",
       "url": "https://nito.no/",
       "startDate": "2012-03-09",
-      "enddate": "2012-06-30",
+      "endDate": "2012-06-30",
       "summary": ""
     },
     {
@@ -218,7 +218,7 @@
       "position": "Leder lokal gruppe",
       "url": "https://nito.no/",
       "startDate": "2010-09-15",
-      "enddate": "2012-04-26",
+      "endDate": "2012-04-26",
       "summary": ""
     },
     {
@@ -226,7 +226,7 @@
       "position": "Leder lokalt avtaleutvalg, Spekter",
       "url": "https://nito.no/",
       "startDate": "2011-03-25",
-      "enddate": "2012-06-13",
+      "endDate": "2012-06-13",
       "summary": ""
     },
     {
@@ -234,7 +234,7 @@
       "position": "Fotballdommerinstruktør",
       "url": "https://nito.no/",
       "startDate": "2001-01-01",
-      "enddate": "2012-05-11",
+      "endDate": "2012-05-11",
       "summary": ""
     },
     {
@@ -242,7 +242,7 @@
       "position": "Dommerkontakt",
       "url": "https://www.givakt.no",
       "startDate": "1998-01-01",
-      "enddate": "2012-05-11",
+      "endDate": "2012-05-11",
       "summary": ""
     },
     {
@@ -250,15 +250,31 @@
       "position": "Styreleder",
       "url": "https://www.ikke.no",
       "startDate": "2001-01-01",
-      "enddate": "2001-01-01",
+      "endDate": "2001-01-01",
       "summary": ""
     }
   ],
   "projects": [
     {
-      "name": "Innføring av eADM",
-      "startDate": "2025-09-053",
+      "name": "tba",
+      "startDate": "2025-10-05",
       "description": "beskrivelse",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2030-12-31",
+      "roles": [
+        "project mentor"
+      ],
+      "highlights": [
+        "highlights",
+        "highlights",
+        "highlights"
+      ]      
+    },
+    {
+      "name": "Innføring av eADM",
+      "startDate": "2025-09-05",
+      "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -274,7 +290,7 @@
     ,{
       "name": "Strategi for tjenesteutvikling",
       "startDate": "2025-08-05",
-      "description": "beskrivelse",
+      "description": "Prosjektet skal utarbeide en overordnet strategi for tjenesteutvikling i Enebakk kommune. Strategien skal bidra til å sikre at kommunen utvikler tjenester som er i tråd med innbyggernes behov og forventninger, samtidig som den tar hensyn til kommunens ressurser og kapasiteter. Strategien skal også legge til rette for innovasjon og kontinuerlig forbedring av tjenestene.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -290,7 +306,7 @@
     {
       "name": "Plan for boligsosial virksomhet",
       "startDate": "2025-06-10",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -304,9 +320,9 @@
       ]
     },
     {
-      "name": "Nytt intranett",
+      "name": "Prosjekt Nexus - Nytt intranett",
       "startDate": "2025-06-13",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å tilrettelegge en teknisk plattform for nytt intranett i Enebakk kommune. Dette skal være en plattform som er brukervennlig, tilgjengelig og som legger til rette for samarbeid og deling av informasjon på tvers av organisasjonen.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -320,9 +336,9 @@
       ]
     },
     {
-      "name": "Trygghetsalarmer",
+      "name": "Innkjøp, konfigurering  og utrulling av nye Trygghetsalarmer",
       "startDate": "2025-06-20",
-      "description": "beskrivelse",
+      "description": "Prosjektet har som mål å innføre nye trygghetsalarmer i Enebakk kommune. Dette inkluderer innkjøp, konfigurering og utrulling av alarmene, samt opplæring av ansatte i bruk av systemet.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
       "endDate": "2100-12-31",
@@ -572,8 +588,15 @@
       "highlights": [
         "Ledelse av digitaliseringsprosjekter i Enebakk kommune, med fokus på effektivisering og forbedring av kommunale tjenester gjennom digitalisering.",
         "Leder av portfolioteam som koordinerer og prioriterer digitaliseringsinitiativer for å sikre at de støtter kommunens strategiske mål.",
-        "Leder av PMO (Project Main Office) som etablerer og vedlikeholder prosjektstyringsstandarder og -prosedyrer for å sikre vellykkede prosjektleveranser."
+        "Leder av PMO (Project Management Office) som etablerer og vedlikeholder prosjektstyringsstandarder og -prosedyrer for å sikre vellykkede prosjektleveranser."
       ]
+    },
+    {
+      "name": "Prosperastiftelsen",
+      "position": "Prosjektmentor",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2025-10-01",
+      "summary": "Som prosjektmentor i Prosperastiftelsen har jeg hatt gleden av å veilede og støtte prosjektledere i gjennomføringen av viktige initiativer som fremmer stiftelsens samfunnsoppdrag. I denne rollen har jeg bidratt med min erfaring innen prosjektledelse, strategisk planlegging og teamutvikling for å sikre at prosjektene ikke bare når sine mål, men også skaper varig verdi for samfunnet. Jeg har fokusert på å styrke prosjektledernes ferdigheter gjennom individuell coaching, deling av beste praksis og utvikling av skreddersydde verktøy og metoder som passer stiftelsens unike behov. Gjennom tett samarbeid med prosjektteamene har jeg hjulpet til med å identifisere og overvinne utfordringer, optimalisere ressursbruk og sikre effektiv kommunikasjon med interessenter. Jeg er stolt av å kunne bidra til Prosperastiftelsens viktige arbeid ved å styrke deres evne til å gjennomføre prosjekter som gjør en reell forskjell i samfunnet."
     },
     {
       "name": "Prosperastiftelsen",
