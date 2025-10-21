@@ -1,10 +1,7 @@
 name: Upload to Gist
 
 on:
-  push:
-    branches:
-      - main  # or any branch you prefer
-  workflow_dispatch:
+   workflow_dispatch:
 
 jobs:
   upload-gists:
