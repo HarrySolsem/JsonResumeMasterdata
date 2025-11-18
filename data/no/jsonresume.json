@@ -1,6 +1,12 @@
 {
   "certificates": [
     {
+      "name": "Prince2 Management of Portfolios, MoP®",
+      "date": "2025-11-12",
+      "issuer": "PeopleCert Group",
+      "url": "https://dev2.axelos.com/certifications/propath/mop-portfolio-management"
+    },
+    {
       "name": "Applied TOGAF Enterprise Architecture Practitioner",
       "date": "2024-10-01",
       "issuer": "The Open Group",
