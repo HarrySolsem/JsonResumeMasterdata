@@ -1,6 +1,12 @@
 {
   "certificates": [
     {
+      "name": "Prince2 MoP, Management of Portfolios Foundation",
+      "date": "2025-11-12",
+      "issuer": "PeopleCert",
+      "url": "https://www.credly.com/badges/3f2e9c94-582a-4b9f-ba7a-df65c303ee1b/linked_in_profile"
+    },
+    {
       "name": "Applied TOGAF Enterprise Architecture Practitioner",
       "date": "2024-10-01",
       "issuer": "The Open Group",
