@@ -273,7 +273,7 @@
       "developer"
     ],
     "highlights": [
-      "Data standard: CV data structured according to JsonResume (JSON Resume) for portability across systems and views",
+      "Data standard: CV data structured according to JsonResume for portability across systems and views",
       "Backend/tooling: C#/.NET for data modeling, transformation, and generation/validation of JsonResume content",
       "Serialization: JSON serialization and DTO modeling to ensure a stable contract between the data layer and the presentation layer",
       "Frontend: Windows desktop application built with C#/.NET WinForms for editing and managing JsonResume content",
