@@ -2,7 +2,7 @@
 "awards": [],
  "basics": {
     "name": "Harry Solsem",
-    "label": "Leadership | ISO27001 | Team Leader | Project Manager | Digital Product Development | Change Management | Enterprise Architect",
+    "label": "Technologist | Leadership | ISO27001 | Team Leader | Project Manager | Digital Product Development | Change Management | Enterprise Architect",
     "summary": "With over 30 years of leadership experience, including technical and administrative roles in companies such as DNB, Riverty, Neonomics, and Enebakk Municipality. I have Leadership experience: Led teams of up to 50 employees, Managed full responsibility for personnel, budget, and results, provided leadership across multiple organizations. Key areas of expertise: Team leadership, Product development, IT project management. Notable Companies: DNB, Riverty, Neonomics, Sharecat Solutions",
     "picture": "https://avatars.githubusercontent.com/u/2042298?v=4",
     "image": "https://avatars.githubusercontent.com/u/2042298?v=4",
@@ -237,6 +237,54 @@
     }
   ],
   "projects": [
+    {
+      "name": "Karemo",
+      "startDate": "2024-01-01",
+      "description": "Karemo is a job-seeker CRM designed to help users manage applications, job postings, contacts, documents, interviews, tasks, and follow-ups in one place. The project focuses on a simple and fast user experience, structured domain modules (timeline, reminders/tasks, documents, interview logs, salary negotiations, competence items), and reliable local persistence. The solution is built as a modular .NET desktop application with clear separation between domain logic, data access, and UI, and is intended to integrate well with external profile/CV assets (e.g., CVSmia) through links and shared information architecture.",
+      "url": "https://karemo.solsem.no",
+      "entity": "Karemo",
+      "endDate": "2026-12-31",
+      "roles": [
+        "project lead",
+        "product owner",
+        "developer"
+      ],
+      "highlights": [
+        "Platform: .NET desktop application (Windows) with modular UI (tab-based modules) and shared navigation/commands",
+        "Architecture: clear separation of concerns (Domain layer per module + Data layer + UI layer) with DTOs for stable contracts",
+        "Persistence: local SQLite database with Entity Framework Core migrations and schema mapping control",
+        "Core modules: job postings, applications, application stage history (timeline), case tasks/reminders, documents/links, interview logs, salary negotiation, competence tracking",
+        "Reliability: extensive logging (file/console/debug) and defensive error handling around data loading and queries",
+        "Licensing/modularity: optional module enablement controlled via licensing/module identifiers",
+        "Delivery: GitHub Actions build/deploy pipeline with unified versioning across multiple projects",
+        "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
+      ]
+    }, 
+    {
+    "name": "CVSmia",
+    "startDate": "2025-01-01",
+    "description": "CVSmia is a digital project to develop and operate a modern CV managing system for job seekers, consultants and advisors. The project focuses on structured content (JsonResume-based CV data), reusable components and clear presentation of profile, skills, and projects. The solution is built with to help job seekers, consultant and advisors to create, manage, and share their CVs effectively in a digital format that is easy to read and understand for recruiters and employers.",
+    "url": "https://cvsmia.solsem.no",
+    "entity": "CVSmia",
+    "endDate": "2026-12-31",
+    "roles": [
+      "project lead",
+      "product owner",
+      "developer"
+    ],
+    "highlights": [
+      "Data standard: CV data structured according to JsonResume (JSON Resume) for portability across systems and views",
+      "Backend/tooling: C#/.NET for data modeling, transformation, and generation/validation of JsonResume content",
+      "Serialization: JSON serialization and DTO modeling to ensure a stable contract between the data layer and the presentation layer",
+      "Frontend: Windows desktop application built with C#/.NET WinForms for editing and managing JsonResume content",
+      "Modular architecture with licensed, module-based extensions (feature toggles and entitlement-driven capabilities)",
+      "Export capabilities to recruitment/ATS systems (structured output and system-specific mappings)",
+      "Language enhancement features for CV content (tone, clarity, and localization support)",
+      "Auto-mapping between CV data and job posting text to identify matches, gaps, and tailored content suggestions",
+      "CI/CD: GitHub used for source control and automated build/deployment pipelines, GitHub Actions",
+      "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
+    ]
+    },
     {
       "name": "Artists network (KN)",
       "startDate": "2025-10-05",
@@ -1029,6 +1077,14 @@
       "startDate": "2008-03-01",
       "summary": "Developed a WinForms project calculation system using C# and MS SQL Database.",
       "endDate": "2008-08-01"
+    },
+     {
+      "name": "Solsem Consulting",
+      "position": "Entrepreneur / Software Developer/Advisor",
+      "url": "https://sc.solsem.no",
+      "startDate": "2008-03-01",
+      "summary": "Consulting services in software development, organizational development, business development, and related services.",
+      "endDate": "2070-06-13"
     },
     {
       "name": "Umoe Mandal AS",
