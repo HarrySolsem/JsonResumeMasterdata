@@ -90,8 +90,7 @@
         "network": "Linkedin",
         "username": "harrysolsem",
         "url": "https://www.linkedin.com/in/harrysolsem"
-      }
-      ,
+      },
       {
         "network": "GitHub",
         "username": "harrysolsem",
@@ -109,8 +108,8 @@
       ]
     }
   ],
-  "volunteer":[
-     {
+  "volunteer": [
+    {
       "organization": "Prosperastiftelsen",
       "position": "Pro-bono konsulent",
       "url": "https://www.prosperastiftelsen.no",
@@ -121,568 +120,653 @@
         "Prosjektmentor for et prosjekt som hjelper Kunstnernettverk med strategi og synlighet."
       ]
     },
-  {
-    "organization": "Langhus IL Bordtennis",
-    "position": "Gruppeleder og styreleder",
-    "url": "https://www.langhusil.no/bordtennis",
-    "startDate": "2024-09-01",
-    "summary": "Jeg koordinerer styremøter og årsmøter, utarbeider sakslister og følger opp vedtak som blir fattet. Jeg representerer også klubben utad i møter med kommunen, idrettskrets og Norges Bordtennisforbund. God økonomistyring er en sentral del av min rolle, hvor jeg har ansvar for budsjett, rapportering og søknader om økonomisk støtte. Jeg organiserer treninger, skaffer kvalifiserte trenere og tilrettelegger for spillerutvikling på alle nivåer. Planlegging og gjennomføring av klubbturneringer samt koordinering av deltagelse i eksterne turneringer faller også under mitt ansvarsområde. Jeg jobber aktivt med å rekruttere nye medlemmer gjennom markedsføring og ulike rekrutteringsaktiviteter. Videre sørger jeg for vedlikehold av utstyr, bord og treningsfasiliteter. En viktig del av mitt lederskap er å skape et godt miljø i klubben gjennom sosiale aktiviteter og god kommunikasjon mellom medlemmene.",
-    "highlights": [
-      "Planla og ledet årsmøte med komplett saksgrunnlag og protokoll.",
-      "Budsjettstyring, regnskapsoppfølging og søknader til NIF/kommune.",
-      "Sportslig plan, treneravtaler og timefordeling i hall.",
-      "Arrangerte klubbstevner og koordinerte seriespill og lisens.",
-      "Rekruttering via skolesamarbeid og åpen dag.",
-      "Utstyrsforvaltning: bord, belegg, barrierer og sikker lagring."
-    ]
-  },
-  {
-    "organization": "Langhus 1405 Sameie",
-    "position": "Styremedlem",
-    "startDate": "2021-07-01",
-    "summary": "Jeg har flere ansvarsområder som bidrar til å sikre en velfungerende og harmonisk boenhet for alle beboerne. Jeg deltar aktivt i styremøter hvor jeg er med på å ta viktige beslutninger angående drift, vedlikehold og utvikling av sameiet. Jeg arbeider med budsjett og økonomistyring, og følger opp regnskap og rapportering for å sikre at sameiets midler brukes ansvarlig og effektivt. I tillegg har jeg ansvar for å inngå avtaler med leverandører og tjenesteytere for å sikre at nødvendige oppgaver som renhold, vedlikehold og reparasjoner utføres på en profesjonell måte. Jeg er også med på å utarbeide og oppdatere sameiets vedtekter og husordensregler, og sørger for å håndheve disse på en rettferdig måte. Jeg kommuniserer jevnlig med beboerne, både ved å informere om saker som angår fellesskapet og ved å lytte til deres innspill og bekymringer. Videre bidrar jeg til planlegging og gjennomføring av årsmøter, hvor jeg presenterer status for sameiet, diskuterer planer for fremtiden og sørger for at alle får muligheten til å delta i beslutningsprosesser.",
-    "highlights": [
-      "Årshjul for drift, budsjett og likviditetsprognoser.",
-      "Innkjøp og kontraktsoppfølging på renhold, VVS og elektro.",
-      "Vedlikeholdsplan med FDV-dokumentasjon og avsetninger.",
-      "Saksbehandling og beboerdialog via digitale kanaler.",
-      "Planlegging og gjennomføring av årsmøte med protokoll."
-    ]
-  },
-  {
-    "organization": "STOFFSKIFTEFORBUNDET",
-    "position": "Forbundsstyremedlem",
-    "url": "https://stofo.no/",
-    "startDate": "2020-11-01",
-    "summary": "Jeg bidrar til å fremme forbundets arbeid for personer med stoffskiftesykdommer. Jeg deltar i planlegging og gjennomføring av møter, utvikler strategier og sørger for å følge opp vedtak. Jeg bidrar til økonomisk styring, deltar i budsjettarbeid og følger opp økonomiske rapporter. I tillegg arbeider jeg med kommunikasjon og informasjon, der jeg hjelper til med å nå ut til medlemmer og samarbeidspartnere. Gjennom mitt engasjement bidrar jeg til et inkluderende miljø som fremmer kunnskap, støtte og utvikling for medlemmene. Jeg har også hatt oppgaver med å ansette ny generalsekretær.",
-    "highlights": [
-      "Styrearbeid med strategi, mål og risikostyring.",
-      "Budsjett og perioderapporter med avvikshåndtering.",
-      "Rekruttering og ansettelse av generalsekretær.",
-      "Kommunikasjonsplan mot medlemmer og samarbeidspartnere.",
-      "Oppfølging av vedtak og rapportering til årsmøte."
-    ]
-  },
-  {
-    "organization": "STOFFSKIFTEFORBUNDET",
-    "position": "Likeperson",
-    "url": "https://stofo.no/",
-    "startDate": "2017-03-01",
-    "summary": "Jeg tilbyr støtte og veiledning til personer som lever med stoffskiftesykdommer. Jeg deler erfaringer, lytter til andres utfordringer og bidrar til å skape et trygt rom hvor medlemmene kan utveksle råd og finne motivasjon. Gjennom mitt engasjement bidrar jeg til å styrke fellesskapet og fremme forståelse for sykdommen.",
-    "highlights": [
-      "Individuell veiledning med etiske retningslinjer.",
-      "Strukturert samtalemetodikk og behovskartlegging.",
-      "Henvisning til fagressurser og tilbud ved behov.",
-      "Anonymisert erfaringsdeling til organisasjonen."
-    ]
-  },
-  {
-    "organization": "NITO Hordaland",
-    "position": "Leder lokalt avtaleutvalg, Privat",
-    "url": "https://nito.no/",
-    "startDate": "2019-02-19",
-    "endDate": "2020-06-21",
-    "summary": "",
-    "highlights": [
-      "Ledet lokale forhandlinger og drøftinger iht. Hovedavtalen.",
-      "Forberedte krav, datagrunnlag og mandat for utvalget.",
-      "Skrev protokoller og sikret etterlevelse av frister.",
-      "Bistod medlemmer i saker knyttet til lønn og arbeidsvilkår."
-    ]
-  },
-  {
-    "organization": "NITO Hordaland",
-    "position": "Leder valgkomite",
-    "url": "https://nito.no/",
-    "startDate": "2019-02-08",
-    "endDate": "2020-06-21",
-    "summary": "",
-    "highlights": [
-      "Plan for kandidatinnhenting og vurderingskriterier.",
-      "Intervjuer, innstilling og presentasjon til årsmøte.",
-      "Sikret habilitet og transparent prosess."
-    ]
-  },
-  {
-    "organization": "NITO Hordaland",
-    "position": "Medlem faggruppe IKT",
-    "url": "https://nito.no/",
-    "startDate": "2018-04-19",
-    "endDate": "2019-05-29",
-    "summary": "",
-    "highlights": [
-      "Faglige innspill til politikk og høringssvar innen IKT.",
-      "Program for fagkvelder og kompetansedeling.",
-      "Bidro til medlemsrekruttering i teknologimiljøer."
-    ]
-  },
-  {
-    "organization": "DNB BANK ASA",
-    "position": "Leder for bedriftsgruppe",
-    "url": "https://nito.no/",
-    "startDate": "2017-11-06",
-    "endDate": "2021-01-31",
-    "summary": "",
-    "highlights": [
-      "Ledet bedriftsgruppe og dialog med ledelsen.",
-      "Lokale lønnsforhandlinger og drøftingsmøter.",
-      "Medlemsoppfølging, verving og informasjonsarbeid.",
-      "Saksbehandling i omstillingsprosesser."
-    ]
-  },
-  {
-    "organization": "NITO Hordaland",
-    "position": "Medlem lokalt avtaleutvalg",
-    "url": "https://nito.no/",
-    "startDate": "2017-03-01",
-    "endDate": "2017-05-31",
-    "summary": "",
-    "highlights": [
-      "Forberedte forhandlingsgrunnlag og lønnsstatistikk.",
-      "Deltok i drøftinger og protokollførte enigheter.",
-      "Bidro til informasjonsmøter for medlemmer."
-    ]
-  },
-  {
-    "organization": "NITO Vest-Agder",
-    "position": "Avdelingsstyremedlem",
-    "url": "https://nito.no/",
-    "startDate": "2017-03-01",
-    "endDate": "2017-05-31",
-    "summary": "",
-    "highlights": [
-      "Styremøter med budsjett og aktivitetsplan.",
-      "Arrangerte medlemsmøter og kurs.",
-      "Bidro i rekrutterings- og kommunikasjonsarbeid."
-    ]
-  },
-  {
-    "organization": "NITO",
-    "position": "Styremedlem Tariffutvalg Privat",
-    "url": "https://nito.no/",
-    "startDate": "2015-03-05",
-    "endDate": "2024-03-13",
-    "summary": "",
-    "highlights": [
-      "Behandlet krav og strategier for tariffområdet Privat.",
-      "Analyserte statistikk og frontfagsrammer.",
-      "Forberedte anbefalinger til hovedstyret."
-    ]
-  },
-  {
-    "organization": "NITO Hordaland",
-    "position": "Medlem lokalt tariffutvalg Privat",
-    "url": "https://nito.no/",
-    "startDate": "2014-03-21",
-    "endDate": "2016-12-31",
-    "summary": "",
-    "highlights": [
-      "Utforming av lokale krav og prioriteringer.",
-      "Dialog med tillitsvalgte og arbeidsgiver.",
-      "Oppfølging av tariffresultat og implementering."
-    ]
-  },
-  {
-    "organization": "Sharecat Solutions AS",
-    "position": "Leder for bedriftsgruppe",
-    "url": "https://nito.no/",
-    "startDate": "2013-07-30",
-    "endDate": "2015-02-15",
-    "summary": "",
-    "highlights": [
-      "Etablerte bedriftsgruppe og valgte tillitsvalgte.",
-      "Gjennomførte lokale forhandlinger og informasjonsmøter.",
-      "Håndterte saker om arbeidstid og kompetanseutvikling."
-    ]
-  },
-  {
-    "organization": "NITO Vest-Agder",
-    "position": "Avdelingsstyremedlem",
-    "url": "https://nito.no/",
-    "startDate": "2012-03-21",
-    "endDate": "2012-06-30",
-    "summary": "",
-    "highlights": [
-      "Styredeltakelse i kort periode med fokus på arrangement.",
-      "Budsjettjusteringer og leverandørvalg for kurs.",
-      "Kommunikasjon med medlemmer i regionen."
-    ]
-  },
-  {
-    "organization": "NITO",
-    "position": "Styremedlem tariffutvalg Spekter",
-    "url": "https://nito.no/",
-    "startDate": "2012-03-09",
-    "endDate": "2012-06-30",
-    "summary": "",
-    "highlights": [
-      "Bidro i tariffstrategi for Spekter-området.",
-      "Vurderte krav og økonomiske rammer.",
-      "Underlag til forhandlinger og høringer."
-    ]
-  },
-  {
-    "organization": "GlobalConnect AS Avd Kristiansand",
-    "position": "Leder lokal gruppe",
-    "url": "https://nito.no/",
-    "startDate": "2010-09-15",
-    "endDate": "2012-04-26",
-    "summary": "",
-    "highlights": [
-      "Ledet lokalt utvalg og dialog med HR.",
-      "Lokale saker om lønn, arbeidsmiljø og omstilling.",
-      "Protokoll og oppfølging av tiltak."
-    ]
-  },
-  {
-    "organization": "NITO Vest-Agder",
-    "position": "Leder lokalt avtaleutvalg, Spekter",
-    "url": "https://nito.no/",
-    "startDate": "2011-03-25",
-    "endDate": "2012-06-13",
-    "summary": "",
-    "highlights": [
-      "Ledet forhandlinger i Spekter-området.",
-      "Koordinerte kravinnspill fra virksomheter.",
-      "Protokollerte resultater og informerte medlemmene."
-    ]
-  },
-  {
-    "organization": "NFF Agder",
-    "position": "Fotballdommerinstruktør",
-    "url": "https://nito.no/",
-    "startDate": "2001-01-01",
-    "endDate": "2012-05-11",
-    "summary": "",
-    "highlights": [
-      "Planla og holdt dommerkurs og rekruttering.",
-      "Kampobservasjoner med strukturert tilbakemelding.",
-      "Oppfølging av dommerutviklingsplaner."
-    ]
-  },
-  {
-    "organization": "IL Giv Akt",
-    "position": "Dommerkontakt",
-    "url": "https://www.givakt.no",
-    "startDate": "1998-01-01",
-    "endDate": "2012-05-11",
-    "summary": "",
-    "highlights": [
-      "Oppsett og koordinering av dommere til kamper.",
-      "Rekruttering og oppfølging av nye dommere.",
-      "Dialog med krets og lagledere om dommersaker."
-    ]
-  },
-  {
-    "organization": "Rødberg og Gjedeland Vel",
-    "position": "Styreleder",
-    "url": "https://www.ikke.no",
-    "startDate": "2001-01-01",
-    "endDate": "2001-01-01",
-    "summary": "",
-    "highlights": [
-      "Konstituering av styre og møteplan.",
-      "Vedtektsarbeid og prioritering av tiltak.",
-      "Kontaktpunkt mot kommune og beboere."
-    ]
-  }
-],
-  "projects":[
- {
-  "name": "Kunstnernettverk",
-  "startDate": "2025-10-05",
-  "description": "Prosjektets mandat er å utarbeide et utkast til felles strategi for KN inklusive, prioritering av hvilke saker som skal frontes. Utarbeide forslag til hvordan KN kan synliggjøre og kommunisere verdien av arbeidet sitt overfor medlemsorganisasjonene, og lage en handlingsplan for de neste 2 årene for hvordan KN skal prioritere og lykkes med strategien.",
-  "url": "https://www.prosperastiftelsen.no",
-  "entity": "Prosperastiftelsen",
-  "endDate": "2030-12-31",
-  "roles": ["prosjektmentor"],
-  "highlights": [
-    "1:1-coaching av prosjektleder og styreleder med tydelige læringsmål per sprint.",
-    "Sparring på problemformulering, hypoteser og prioriteringskriterier før beslutninger.",
-    "Kvalitetssikring av leveranser med sjekklister, malverk og akseptansekriterier.",
-    "Plan for kompetanseoverføring slik at teamet kan drive prosessen selvstendig videre."
-  ]
-},
-  {
-    "name": "Innføring av eADM",
-    "startDate": "2025-09-05",
-    "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
-    "url": "https://www.enebakk.kommune.no",
-    "entity": "Enebakk Municipality",
-    "endDate": "2030-12-31",
-    "roles": ["prosjektdeltager"],
-    "highlights": [
-      "Plan for integrasjoner mot HR, AD/Azure AD og fagsystemer med automatisert provisjonering."
-    ]
-  },
-  {
-    "name": "Strategi for tjenesteutvikling",
-    "startDate": "2025-08-05",
-    "description": "Prosjektet skal utarbeide en overordnet strategi for tjenesteutvikling i Enebakk kommune. Strategien skal bidra til å sikre at kommunen utvikler tjenester som er i tråd med innbyggernes behov og forventninger, samtidig som den tar hensyn til kommunens ressurser og kapasiteter. Strategien skal også legge til rette for innovasjon og kontinuerlig forbedring av tjenestene.",
-    "url": "https://www.enebakk.kommune.no",
-    "entity": "Enebakk Kommune",
-    "endDate": "2100-12-31",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Leverte målbildet for innbygger- og ansattopplevelse med tilhørende måleindikatorer.",
-      "Innførte prioriteringsmodell for tiltak basert på nytte, kost og kapasitet.",
-      "Standardiserte tjenesteutviklingsløp med innsikt, prototyping, test og skalering.",
-      "Etablerte styringsstruktur og porteføljekobling med gevinstplaner.",
-      "Plan for kompetansebygging i tjenestedesign og forbedringsarbeid."
-    ]
-  },
-  {
-    "name": "Plan for boligsosial virksomhet",
-    "startDate": "2025-06-10",
-    "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
-    "url": "https://www.enebakk.kommune.no",
-    "entity": "Enebakk Kommune",
-    "endDate": "2100-12-31",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Gjennomførte interessent- og behovsanalyse på tvers av sektorer.",
-      "Definerte målgrupper, brukerreiser og målindikatorer for tiltak.",
-      "Plan for virkemiddelbruk, samarbeidsmodeller og ansvarslinjer.",
-      "Gevinstkart og oppfølgingsregime for effektmåling og rapportering.",
-      "Risikoanalyse og tiltak for etterlevelse, personvern og datasikkerhet."
-    ]
-  },
-  {
-    "name": "Prosjekt Nexus - Nytt intranett",
-    "startDate": "2025-06-13",
-    "description": "Prosjektet har som mål å tilrettelegge en teknisk plattform for nytt intranett i Enebakk kommune. Dette skal være en plattform som er brukervennlig, tilgjengelig og som legger til rette for samarbeid og deling av informasjon på tvers av organisasjonen.",
-    "url": "https://www.enebakk.kommune.no",
-    "entity": "Enebakk Kommune",
-    "endDate": "2100-12-31",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Valgte plattform og arkitektur med fokus på søk, tilgangsstyring og universell utforming.",
-      "Informasjonsarkitektur, taksonomi og innholdsforvaltning med klare eierskap.",
-      "Migreringsplan fra eksisterende kanaler med kvalitetskriterier og cutoff.",
-      "Adopsjonsplan med opplæring, superbrukernettverk og måling av bruk.",
-      "Drifts- og forvaltningsmodell med SLA og endringshåndtering."
-    ]
-  },
-  {
-    "name": "Innkjøp, konfigurering  og utrulling av nye Trygghetsalarmer",
-    "startDate": "2025-06-20",
-    "description": "Prosjektet har som mål å innføre nye trygghetsalarmer i Enebakk kommune. Dette inkluderer innkjøp, konfigurering og utrulling av alarmene, samt opplæring av ansatte i bruk av systemet.",
-    "url": "https://www.enebakk.kommune.no",
-    "entity": "Enebakk Kommune",
-    "endDate": "2100-12-31",
-    "roles": ["prosjektkoordinator"],
-    "highlights": [
-      "Utrullingsplan, logistikk og konfigurasjonsstyring per bruker.",
-      "Opplæringsprogram for hjemmetjenesten og responssenter."
-    ]
-  },
-  {
-    "name": "RELOVE V25",
-    "startDate": "2025-02-01",
-    "description": "RELOVE trenger effektive metoder for å dokumentere og synliggjøre sin samfunnsverdi. ...",
-    "url": "https://www.relove.info",
-    "entity": "Prosperastiftelsen",
-    "endDate": "2025-06-01",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet et team på 5 personer i et prosjekt for å utvikle en ny strategi for RELOVE.",
-      "Sikret at prosjektet ble levert innen tidsrammen og budsjettet.",
-      "Utvikling av ny kommunikasjonsstrategi som økte synligheten til RELOVE.",
-      "Etablerte enkel effektmåling for samfunnsbidrag og rapporteringsrutiner.",
-      "Definerte KPI-er knyttet til tekstilvolum og overgang til arbeid."
-    ]
-  },
-  {
-    "name": "OOF H24 - Økonomi og Virksomhetsstyring",
-    "startDate": "2024-10-01",
-    "description": "Formålet med dette prosjektet er å bistå OOF i utvelgelse og implementering av digitale verktøy ...",
-    "url": "https://www.osloogomlandfriluftsrad.no/",
-    "entity": "Prosperastiftelsen",
-    "endDate": "2025-01-01",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet prosjektet for å digitalisere administrative prosesser hos OOF, med fokus på timeføring, budsjettering og prosjektstyring.",
-      "Gjennomførte behovsanalyse og evaluering av digitale verktøy som best kunne møte organisasjonens behov.",
-      "Koordinerte implementeringen av nye systemer som resulterte i 30% reduksjon i manuelt administrativt arbeid.",
-      "Utformet opplæringsløp, dataflyt og tilgangsmodell for rollestyring."
-    ]
-  },
-  {
-    "name": "Sanering av gammelt log-verktøy og utrulling av agenter",
-    "startDate": "2020-07-01",
-    "description": "Prosjektets mandat er å få sanert gammel maskinvare, sette opp ny maskinvare ...",
-    "url": "https://harry.solsem.no",
-    "endDate": "2020-11-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet sanering av utdatert maskinvare og implementering av nye sikkerhetsløsninger på flere tusen servere.",
-      "Koordinerte tverrfaglige team i en fullt digital arbeidsmodell under pandemien via Microsoft Teams.",
-      "Rapporterte jevnlig til styringsgruppe og porteføljestyrer, med 100% oppnåelse av prosjektets milepæler.",
-      "Etablerte driftsrutiner og dokumentasjon for agentlivssyklus og patching."
-    ]
-  },
-  {
-    "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
-    "startDate": "2020-07-01",
-    "description": "Prosjektets mandat er å avklare behov, anskaffe, implementere og få på plass styringsdokumenter ...",
-    "url": "https://harry.solsem.no",
-    "endDate": "2020-11-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Utviklet og implementerte omfattende sikkerhetsfokuserte styringsdokumenter for programvareutvikling i DNB.",
-      "Gjennomførte leverandørevalueringer og etablerte nye sikkerhetskrav for eksterne utviklingspartnere.",
-      "Oppnådde betydelig forbedring i sikkerhetsfokus gjennom hele programvarelivssyklusen ved å implementere nye verktøy og rutiner.",
-      "Etablerte målt modenhetsløft og opplæringsløp for utviklingsteam."
-    ]
-  },
-  {
-    "name": "IAM - Cleanup and Compliance",
-    "startDate": "2020-06-01",
-    "description": "Prosjekt som har som mandat å implementere en utvidet automasjon av tilgangsstyring ...",
-    "url": "https://harry.solsem.no",
-    "endDate": "2020-11-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet implementeringen av automatisert tilgangsstyring med ServiceNow og IIQ, som resulterte i 40% reduksjon i manuelle tilgangsprosesser.",
-      "Sikret compliance med interne og eksterne reguleringer gjennom forbedret dokumentasjon og prosesser.",
-      "Koordinerte interessenter på tvers av avdelinger for å sikre optimal implementering av IAM-løsningen.",
-      "Definerte kontrollpunkter for periodisk resertifisering av tilganger."
-    ]
-  },
-  {
-    "name": "Penetrasjonstesting",
-    "startDate": "2019-08-01",
-    "description": "Dette prosjektet har som mandat å legge til rette for penetrasjonstesting av DNB sine systemer.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2020-11-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Etablerte og ledet et omfattende program for penetrasjonstesting av kritiske systemer i DNB.",
-      "Koordinerte interne sikkerhetseksperter og eksterne partnere for å gjennomføre grundige sikkerhetstester.",
-      "Utviklet protokoller for systematisk oppfølging av funn, som resulterte i 85% reduksjon i kritiske sårbarheter.",
-      "Integrerte sikkerhetstesting i release-prosessen med klar prioritering av tiltak."
-    ]
-  },
-  {
-    "name": "Implementere DDOS-beskyttelse for en spesifikk del av DNB-systemportefølje.",
-    "startDate": "2019-07-01",
-    "description": "Prosjekts mandat er å flytte deler av DNB sin systemportefølje bak forsterkede DDOS-beskyttelse.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2020-11-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet implementeringen av forsterket DDOS-beskyttelse for kritiske systemkomponenter i DNB.",
-      "Utarbeidet omfattende migreringsstrategi som minimerte nedetid under flytting av systemer.",
-      "Koordinerte tekniske ressurser på tvers av team for å sikre sømløs integrasjon med eksisterende infrastruktur.",
-      "Definerte overvåkings- og hendelseshåndteringsprosedyrer etter innføring."
-    ]
-  },
-  {
-    "name": "Ny bedriftsportal",
-    "startDate": "2018-01-01",
-    "description": "Scrum Master for dette utviklingsprosjektet. ...",
-    "url": "https://harry.solsem.no",
-    "endDate": "2019-01-01",
-    "entity": "DNB",
-    "roles": ["Scrum master"],
-    "highlights": [
-      "Fungerte som Scrum Master for et tverrfaglig team på 8 personer som utviklet DNBs nye bedriftsportal.",
-      "Gjennomførte grundig opplæring i smidig metodikk for både IT-utviklere og forretningsrepresentanter.",
-      "Fasiliterte daglige stand-ups, sprint planning og retrospektiver som bidro til 30% økt utviklingseffektivitet.",
-      "Etablerte kontinuerlig leveranse med måling av lead time og kvalitet."
-    ]
-  },
-  {
-    "name": "GDPR i DNB Liv",
-    "startDate": "2018-01-01",
-    "description": "Compliance-prosjekt som hadde til mandat å sørge for at systemene til DNB-Liv møter GDPR-kravene.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2018-03-01",
-    "entity": "DNB",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Ledet GDPR-implementeringsprosjektet for DNB Liv, som sikret full compliance innen fristen mai 2018.",
-      "Koordinerte tverrfaglig team bestående av juridiske eksperter, IT-spesialister og forretningsanalytikere.",
-      "Implementerte nye systemer og prosesser for å håndtere personvernrettigheter og datasletting.",
-      "Etablerte dokumentasjons- og revisjonsløp for etterlevelse."
-    ]
-  },
-  {
-    "name": "Supplier Catalogue",
-    "startDate": "2014-09-01",
-    "description": "Tilpasning og implementering av Sharecats katalog-tjenester hos global oljeleverandør.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2015-04-01",
-    "entity": "Sharecat Solutions AS",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Overtok et komplekst internasjonalt prosjekt og stabiliserte leveransene med detaljert planverk.",
-      "Ledet distribuert team på tvers av land og disipliner til ferdig implementering.",
-      "Leverte på budsjett og tidsplan med strukturert endringskontroll."
-    ]
-  },
-  {
-    "name": "Utvidelse av vCRM",
-    "startDate": "2011-03-01",
-    "description": "Utvidelse og forbedring av Ventelos CRM-system basert på analyse av støttehenvendelser.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2011-10-01",
-    "entity": "Ventelo",
-    "roles": ["prosjektleder", "programvareingeniør"],
-    "highlights": [
-      "Identifiserte fem kritiske gap og leverte målrettede funksjonsutvidelser.",
-      "Reduserte IT-støttehenvendelser med 25% etter produksjonssetting.",
-      "Kombinerte prosjektledelse og utvikling for sømløs gjennomføring."
-    ]
-  },
-  {
-    "name": "IRIS - Rapportdistribuerings-system",
-    "startDate": "2007-02-01",
-    "description": "Distribusjon av rapporter med bruker- og rapportadministrasjon, abonnement og AD-integrasjon.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2007-06-01",
-    "entity": "Umoe Mandal",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Leverte C#/MS SQL-basert løsning med AD-integrasjon for automatisk brukerhåndtering.",
-      "Abonnementsmotor med tidsstyring og fleksible leveransekanaler.",
-      "Full dokumentasjon og opplæring for drift og bruk."
-    ]
-  },
-  {
-    "name": "ULV - UtLevering av Verktøy",
-    "startDate": "2005-03-01",
-    "description": "System for administrasjon av ut- og innlevering av verktøy, inkl. e-signatur og rapporter.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2006-05-01",
-    "entity": "Umoe Mandal",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Leverte C#/MS SQL-løsning med AD-integrasjon og elektronisk signatur.",
-      "Sikret sporbarhet og revisjonslogg for utstyrslivssyklus.",
-      "Plan for drift, backup og kontinuerlige forbedringer."
-    ]
-  },
-  {
-    "name": "tiUM - timeregistrering Umoe Mandal",
-    "startDate": "2004-05-01",
-    "description": "Helhetlig implementering av timeregistreringssystem med integrasjoner og automatisering.",
-    "url": "https://harry.solsem.no",
-    "endDate": "2007-08-01",
-    "entity": "Umoe Mandal",
-    "roles": ["prosjektleder"],
-    "highlights": [
-      "Leverte VB.Net/WinForms-løsning med MS SQL og e-postvarsling for godkjenning.",
-      "Integrerte mot stemplingssystem og lønn med kvalitetssikret dataflyt.",
-      "Omfattende bruker- og systemdokumentasjon samt opplæring."
-    ]
-  }
-],
+    {
+      "organization": "Langhus IL Bordtennis",
+      "position": "Gruppeleder og styreleder",
+      "url": "https://www.langhusil.no/bordtennis",
+      "startDate": "2024-09-01",
+      "summary": "Jeg koordinerer styremøter og årsmøter, utarbeider sakslister og følger opp vedtak som blir fattet. Jeg representerer også klubben utad i møter med kommunen, idrettskrets og Norges Bordtennisforbund. God økonomistyring er en sentral del av min rolle, hvor jeg har ansvar for budsjett, rapportering og søknader om økonomisk støtte. Jeg organiserer treninger, skaffer kvalifiserte trenere og tilrettelegger for spillerutvikling på alle nivåer. Planlegging og gjennomføring av klubbturneringer samt koordinering av deltagelse i eksterne turneringer faller også under mitt ansvarsområde. Jeg jobber aktivt med å rekruttere nye medlemmer gjennom markedsføring og ulike rekrutteringsaktiviteter. Videre sørger jeg for vedlikehold av utstyr, bord og treningsfasiliteter. En viktig del av mitt lederskap er å skape et godt miljø i klubben gjennom sosiale aktiviteter og god kommunikasjon mellom medlemmene.",
+      "highlights": [
+        "Planla og ledet årsmøte med komplett saksgrunnlag og protokoll.",
+        "Budsjettstyring, regnskapsoppfølging og søknader til NIF/kommune.",
+        "Sportslig plan, treneravtaler og timefordeling i hall.",
+        "Arrangerte klubbstevner og koordinerte seriespill og lisens.",
+        "Rekruttering via skolesamarbeid og åpen dag.",
+        "Utstyrsforvaltning: bord, belegg, barrierer og sikker lagring."
+      ]
+    },
+    {
+      "organization": "Langhus 1405 Sameie",
+      "position": "Styremedlem",
+      "startDate": "2021-07-01",
+      "summary": "Jeg har flere ansvarsområder som bidrar til å sikre en velfungerende og harmonisk boenhet for alle beboerne. Jeg deltar aktivt i styremøter hvor jeg er med på å ta viktige beslutninger angående drift, vedlikehold og utvikling av sameiet. Jeg arbeider med budsjett og økonomistyring, og følger opp regnskap og rapportering for å sikre at sameiets midler brukes ansvarlig og effektivt. I tillegg har jeg ansvar for å inngå avtaler med leverandører og tjenesteytere for å sikre at nødvendige oppgaver som renhold, vedlikehold og reparasjoner utføres på en profesjonell måte. Jeg er også med på å utarbeide og oppdatere sameiets vedtekter og husordensregler, og sørger for å håndheve disse på en rettferdig måte. Jeg kommuniserer jevnlig med beboerne, både ved å informere om saker som angår fellesskapet og ved å lytte til deres innspill og bekymringer. Videre bidrar jeg til planlegging og gjennomføring av årsmøter, hvor jeg presenterer status for sameiet, diskuterer planer for fremtiden og sørger for at alle får muligheten til å delta i beslutningsprosesser.",
+      "highlights": [
+        "Årshjul for drift, budsjett og likviditetsprognoser.",
+        "Innkjøp og kontraktsoppfølging på renhold, VVS og elektro.",
+        "Vedlikeholdsplan med FDV-dokumentasjon og avsetninger.",
+        "Saksbehandling og beboerdialog via digitale kanaler.",
+        "Planlegging og gjennomføring av årsmøte med protokoll."
+      ]
+    },
+    {
+      "organization": "STOFFSKIFTEFORBUNDET",
+      "position": "Forbundsstyremedlem",
+      "url": "https://stofo.no/",
+      "startDate": "2020-11-01",
+      "summary": "Jeg bidrar til å fremme forbundets arbeid for personer med stoffskiftesykdommer. Jeg deltar i planlegging og gjennomføring av møter, utvikler strategier og sørger for å følge opp vedtak. Jeg bidrar til økonomisk styring, deltar i budsjettarbeid og følger opp økonomiske rapporter. I tillegg arbeider jeg med kommunikasjon og informasjon, der jeg hjelper til med å nå ut til medlemmer og samarbeidspartnere. Gjennom mitt engasjement bidrar jeg til et inkluderende miljø som fremmer kunnskap, støtte og utvikling for medlemmene. Jeg har også hatt oppgaver med å ansette ny generalsekretær.",
+      "highlights": [
+        "Styrearbeid med strategi, mål og risikostyring.",
+        "Budsjett og perioderapporter med avvikshåndtering.",
+        "Rekruttering og ansettelse av generalsekretær.",
+        "Kommunikasjonsplan mot medlemmer og samarbeidspartnere.",
+        "Oppfølging av vedtak og rapportering til årsmøte."
+      ]
+    },
+    {
+      "organization": "STOFFSKIFTEFORBUNDET",
+      "position": "Likeperson",
+      "url": "https://stofo.no/",
+      "startDate": "2017-03-01",
+      "summary": "Jeg tilbyr støtte og veiledning til personer som lever med stoffskiftesykdommer. Jeg deler erfaringer, lytter til andres utfordringer og bidrar til å skape et trygt rom hvor medlemmene kan utveksle råd og finne motivasjon. Gjennom mitt engasjement bidrar jeg til å styrke fellesskapet og fremme forståelse for sykdommen.",
+      "highlights": [
+        "Individuell veiledning med etiske retningslinjer.",
+        "Strukturert samtalemetodikk og behovskartlegging.",
+        "Henvisning til fagressurser og tilbud ved behov.",
+        "Anonymisert erfaringsdeling til organisasjonen."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Leder lokalt avtaleutvalg, Privat",
+      "url": "https://nito.no/",
+      "startDate": "2019-02-19",
+      "endDate": "2020-06-21",
+      "summary": "",
+      "highlights": [
+        "Ledet lokale forhandlinger og drøftinger iht. Hovedavtalen.",
+        "Forberedte krav, datagrunnlag og mandat for utvalget.",
+        "Skrev protokoller og sikret etterlevelse av frister.",
+        "Bistod medlemmer i saker knyttet til lønn og arbeidsvilkår."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Leder valgkomite",
+      "url": "https://nito.no/",
+      "startDate": "2019-02-08",
+      "endDate": "2020-06-21",
+      "summary": "",
+      "highlights": [
+        "Plan for kandidatinnhenting og vurderingskriterier.",
+        "Intervjuer, innstilling og presentasjon til årsmøte.",
+        "Sikret habilitet og transparent prosess."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Medlem faggruppe IKT",
+      "url": "https://nito.no/",
+      "startDate": "2018-04-19",
+      "endDate": "2019-05-29",
+      "summary": "",
+      "highlights": [
+        "Faglige innspill til politikk og høringssvar innen IKT.",
+        "Program for fagkvelder og kompetansedeling.",
+        "Bidro til medlemsrekruttering i teknologimiljøer."
+      ]
+    },
+    {
+      "organization": "DNB BANK ASA",
+      "position": "Leder for bedriftsgruppe",
+      "url": "https://nito.no/",
+      "startDate": "2017-11-06",
+      "endDate": "2021-01-31",
+      "summary": "",
+      "highlights": [
+        "Ledet bedriftsgruppe og dialog med ledelsen.",
+        "Lokale lønnsforhandlinger og drøftingsmøter.",
+        "Medlemsoppfølging, verving og informasjonsarbeid.",
+        "Saksbehandling i omstillingsprosesser."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Medlem lokalt avtaleutvalg",
+      "url": "https://nito.no/",
+      "startDate": "2017-03-01",
+      "endDate": "2017-05-31",
+      "summary": "",
+      "highlights": [
+        "Forberedte forhandlingsgrunnlag og lønnsstatistikk.",
+        "Deltok i drøftinger og protokollførte enigheter.",
+        "Bidro til informasjonsmøter for medlemmer."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Avdelingsstyremedlem",
+      "url": "https://nito.no/",
+      "startDate": "2017-03-01",
+      "endDate": "2017-05-31",
+      "summary": "",
+      "highlights": [
+        "Styremøter med budsjett og aktivitetsplan.",
+        "Arrangerte medlemsmøter og kurs.",
+        "Bidro i rekrutterings- og kommunikasjonsarbeid."
+      ]
+    },
+    {
+      "organization": "NITO",
+      "position": "Styremedlem Tariffutvalg Privat",
+      "url": "https://nito.no/",
+      "startDate": "2015-03-05",
+      "endDate": "2024-03-13",
+      "summary": "",
+      "highlights": [
+        "Behandlet krav og strategier for tariffområdet Privat.",
+        "Analyserte statistikk og frontfagsrammer.",
+        "Forberedte anbefalinger til hovedstyret."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Medlem lokalt tariffutvalg Privat",
+      "url": "https://nito.no/",
+      "startDate": "2014-03-21",
+      "endDate": "2016-12-31",
+      "summary": "",
+      "highlights": [
+        "Utforming av lokale krav og prioriteringer.",
+        "Dialog med tillitsvalgte og arbeidsgiver.",
+        "Oppfølging av tariffresultat og implementering."
+      ]
+    },
+    {
+      "organization": "Sharecat Solutions AS",
+      "position": "Leder for bedriftsgruppe",
+      "url": "https://nito.no/",
+      "startDate": "2013-07-30",
+      "endDate": "2015-02-15",
+      "summary": "",
+      "highlights": [
+        "Etablerte bedriftsgruppe og valgte tillitsvalgte.",
+        "Gjennomførte lokale forhandlinger og informasjonsmøter.",
+        "Håndterte saker om arbeidstid og kompetanseutvikling."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Avdelingsstyremedlem",
+      "url": "https://nito.no/",
+      "startDate": "2012-03-21",
+      "endDate": "2012-06-30",
+      "summary": "",
+      "highlights": [
+        "Styredeltakelse i kort periode med fokus på arrangement.",
+        "Budsjettjusteringer og leverandørvalg for kurs.",
+        "Kommunikasjon med medlemmer i regionen."
+      ]
+    },
+    {
+      "organization": "NITO",
+      "position": "Styremedlem tariffutvalg Spekter",
+      "url": "https://nito.no/",
+      "startDate": "2012-03-09",
+      "endDate": "2012-06-30",
+      "summary": "",
+      "highlights": [
+        "Bidro i tariffstrategi for Spekter-området.",
+        "Vurderte krav og økonomiske rammer.",
+        "Underlag til forhandlinger og høringer."
+      ]
+    },
+    {
+      "organization": "GlobalConnect AS Avd Kristiansand",
+      "position": "Leder lokal gruppe",
+      "url": "https://nito.no/",
+      "startDate": "2010-09-15",
+      "endDate": "2012-04-26",
+      "summary": "",
+      "highlights": [
+        "Ledet lokalt utvalg og dialog med HR.",
+        "Lokale saker om lønn, arbeidsmiljø og omstilling.",
+        "Protokoll og oppfølging av tiltak."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Leder lokalt avtaleutvalg, Spekter",
+      "url": "https://nito.no/",
+      "startDate": "2011-03-25",
+      "endDate": "2012-06-13",
+      "summary": "",
+      "highlights": [
+        "Ledet forhandlinger i Spekter-området.",
+        "Koordinerte kravinnspill fra virksomheter.",
+        "Protokollerte resultater og informerte medlemmene."
+      ]
+    },
+    {
+      "organization": "NFF Agder",
+      "position": "Fotballdommerinstruktør",
+      "url": "https://nito.no/",
+      "startDate": "2001-01-01",
+      "endDate": "2012-05-11",
+      "summary": "",
+      "highlights": [
+        "Planla og holdt dommerkurs og rekruttering.",
+        "Kampobservasjoner med strukturert tilbakemelding.",
+        "Oppfølging av dommerutviklingsplaner."
+      ]
+    },
+    {
+      "organization": "IL Giv Akt",
+      "position": "Dommerkontakt",
+      "url": "https://www.givakt.no",
+      "startDate": "1998-01-01",
+      "endDate": "2012-05-11",
+      "summary": "",
+      "highlights": [
+        "Oppsett og koordinering av dommere til kamper.",
+        "Rekruttering og oppfølging av nye dommere.",
+        "Dialog med krets og lagledere om dommersaker."
+      ]
+    },
+    {
+      "organization": "Rødberg og Gjedeland Vel",
+      "position": "Styreleder",
+      "url": "https://www.ikke.no",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "summary": "",
+      "highlights": [
+        "Konstituering av styre og møteplan.",
+        "Vedtektsarbeid og prioritering av tiltak.",
+        "Kontaktpunkt mot kommune og beboere."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Karemo",
+      "description": "Karemo er en CRM for jobbsøkere som hjelper brukere med å håndtere søknader, stillingsannonser, kontakter, dokumenter, intervjuer, oppgaver og oppfølging i ett system. Prosjektet fokuserer på en enkel og rask brukeropplevelse, strukturerte domenemoduler (tidslinje, påminnelser/oppgaver, dokumenter, intervjulogger, lønnsforhandling, kompetansepunkter) og stabil lokal persistens. Løsningen er bygget som en modulær .NET-desktopapplikasjon med tydelig separasjon mellom domenelogikk, datalag og UI, og er tiltenkt god integrasjon med eksterne profil-/CV-ressurser (f.eks. CVSmia) via lenker og felles informasjonsarkitektur.",
+      "roles": [
+        "prosjektleder",
+        "produkteier",
+        "utvikler"
+      ],
+      "highlights": [
+        "Plattform: .NET-desktopapplikasjon (Windows) med modulær UI (fanebaserte moduler) og delt navigasjon/kommandoer",
+        "Arkitektur: tydelig separasjon av ansvar (domenelag per modul + datalag + UI-lag) med DTO-er for stabile kontrakter",
+        "Persistens: lokal SQLite-database med Entity Framework Core-migreringer og kontrollert skjemakartlegging",
+        "Kjernemoduler: stillingsannonser, søknader, søknadsstatus (tidslinje), oppgaver/påminnelser, dokumenter/lenker, intervjologg, lønnsforhandling, kompetansesporing",
+        "Pålitelighet: omfattende logging (fil/konsoll/debug) og defensiv feilbehandling ved datalasting og spørringer",
+        "Lisensiering/modularitet: valgfri modulaktivering styrt via lisens-/modulidentifikatorer",
+        "Leveranse: GitHub Actions bygg-/deploy-pipeline med enhetlig versjonering på tvers av prosjekter",
+        "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "name": "CVSmia",
+      "description": "CVSmia er et digitalt prosjekt for å utvikle og drifte et moderne system for CV-håndtering for jobbsøkere, konsulenter og rådgivere. Prosjektet fokuserer på strukturert innhold (JsonResume-basert CV-data), gjenbrukbare komponenter og tydelig presentasjon av profil, ferdigheter og prosjekter. Løsningen er bygget for å hjelpe jobbsøkere, konsulenter og rådgivere å opprette, forvalte og dele CV-er i et digitalt format som er lett å lese og forstå for rekrutterere og arbeidsgivere.",
+      "roles": [
+        "prosjektleder",
+        "produkteier",
+        "utvikler"
+      ],
+      "highlights": [
+        "Datastandard: CV-data strukturert etter JsonResume for portabilitet på tvers av systemer og visninger",
+        "Backend/verktøy: C#/.NET for datamodellering, transformasjon og generering/validering av JsonResume-innhold",
+        "Serialisering: JSON-serialisering og DTO-modellering for stabile kontrakter mellom datalag og presentasjonslag",
+        "Frontend: Windows desktop-applikasjon bygget med C#/.NET WinForms for redigering og forvaltning av JsonResume-innhold",
+        "Modulær arkitektur med lisensierte, modulbaserte utvidelser (feature toggles og entitlement-styring)",
+        "Eksport til rekrutterings-/ATS-systemer (strukturert output og systemspesifikke mappinger)",
+        "Språkforbedringsfunksjoner for CV-innhold (tone, klarhet og lokalisering)",
+        "Auto-mapping mellom CV-data og stillingstekst for å identifisere treff, gap og forslag til tilpasning",
+        "CI/CD: GitHub for kildekode og automatisert bygg/deploy, GitHub Actions",
+        "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "name": "Kunstnernettverk",
+      "startDate": "2025-10-05",
+      "description": "Prosjektets mandat er å utarbeide et utkast til felles strategi for KN inklusive, prioritering av hvilke saker som skal frontes. Utarbeide forslag til hvordan KN kan synliggjøre og kommunisere verdien av arbeidet sitt overfor medlemsorganisasjonene, og lage en handlingsplan for de neste 2 årene for hvordan KN skal prioritere og lykkes med strategien.",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektmentor"
+      ],
+      "highlights": [
+        "1:1-coaching av prosjektleder og styreleder med tydelige læringsmål per sprint.",
+        "Sparring på problemformulering, hypoteser og prioriteringskriterier før beslutninger.",
+        "Kvalitetssikring av leveranser med sjekklister, malverk og akseptansekriterier.",
+        "Plan for kompetanseoverføring slik at teamet kan drive prosessen selvstendig videre."
+      ]
+    },
+    {
+      "name": "Innføring av eADM",
+      "startDate": "2025-09-05",
+      "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektdeltager"
+      ],
+      "highlights": [
+        "Plan for integrasjoner mot HR, AD/Azure AD og fagsystemer med automatisert provisjonering."
+      ]
+    },
+    {
+      "name": "Strategi for tjenesteutvikling",
+      "startDate": "2025-08-05",
+      "description": "Prosjektet skal utarbeide en overordnet strategi for tjenesteutvikling i Enebakk kommune. Strategien skal bidra til å sikre at kommunen utvikler tjenester som er i tråd med innbyggernes behov og forventninger, samtidig som den tar hensyn til kommunens ressurser og kapasiteter. Strategien skal også legge til rette for innovasjon og kontinuerlig forbedring av tjenestene.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Leverte målbildet for innbygger- og ansattopplevelse med tilhørende måleindikatorer.",
+        "Innførte prioriteringsmodell for tiltak basert på nytte, kost og kapasitet.",
+        "Standardiserte tjenesteutviklingsløp med innsikt, prototyping, test og skalering.",
+        "Etablerte styringsstruktur og porteføljekobling med gevinstplaner.",
+        "Plan for kompetansebygging i tjenestedesign og forbedringsarbeid."
+      ]
+    },
+    {
+      "name": "Plan for boligsosial virksomhet",
+      "startDate": "2025-06-10",
+      "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Gjennomførte interessent- og behovsanalyse på tvers av sektorer.",
+        "Definerte målgrupper, brukerreiser og målindikatorer for tiltak.",
+        "Plan for virkemiddelbruk, samarbeidsmodeller og ansvarslinjer.",
+        "Gevinstkart og oppfølgingsregime for effektmåling og rapportering.",
+        "Risikoanalyse og tiltak for etterlevelse, personvern og datasikkerhet."
+      ]
+    },
+    {
+      "name": "Prosjekt Nexus - Nytt intranett",
+      "startDate": "2025-06-13",
+      "description": "Prosjektet har som mål å tilrettelegge en teknisk plattform for nytt intranett i Enebakk kommune. Dette skal være en plattform som er brukervennlig, tilgjengelig og som legger til rette for samarbeid og deling av informasjon på tvers av organisasjonen.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Valgte plattform og arkitektur med fokus på søk, tilgangsstyring og universell utforming.",
+        "Informasjonsarkitektur, taksonomi og innholdsforvaltning med klare eierskap.",
+        "Migreringsplan fra eksisterende kanaler med kvalitetskriterier og cutoff.",
+        "Adopsjonsplan med opplæring, superbrukernettverk og måling av bruk.",
+        "Drifts- og forvaltningsmodell med SLA og endringshåndtering."
+      ]
+    },
+    {
+      "name": "Innkjøp, konfigurering og utrulling av nye trygghetsalarmer",
+      "startDate": "2025-06-20",
+      "description": "Prosjektet har som mål å innføre nye trygghetsalarmer i Enebakk kommune. Dette inkluderer innkjøp, konfigurering og utrulling av alarmene, samt opplæring av ansatte i bruk av systemet.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Kommune",
+      "endDate": "2030-12-31",
+      "roles": [
+        "prosjektkoordinator"
+      ],
+      "highlights": [
+        "Utrullingsplan, logistikk og konfigurasjonsstyring per bruker.",
+        "Opplæringsprogram for hjemmetjenesten og responssenter."
+      ]
+    },
+    {
+      "name": "RELOVE V25",
+      "startDate": "2025-02-01",
+      "description": "RELOVE trenger effektive metoder for å dokumentere og synliggjøre sin samfunnsverdi. ...",
+      "url": "https://www.relove.info",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2025-06-01",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet et team på 5 personer i et prosjekt for å utvikle en ny strategi for RELOVE.",
+        "Sikret at prosjektet ble levert innen tidsrammen og budsjettet.",
+        "Utvikling av ny kommunikasjonsstrategi som økte synligheten til RELOVE.",
+        "Etablerte enkel effektmåling for samfunnsbidrag og rapporteringsrutiner.",
+        "Definerte KPI-er knyttet til tekstilvolum og overgang til arbeid."
+      ]
+    },
+    {
+      "name": "OOF H24 - Økonomi og Virksomhetsstyring",
+      "startDate": "2024-10-01",
+      "description": "Formålet med dette prosjektet er å bistå OOF i utvelgelse og implementering av digitale verktøy ...",
+      "url": "https://www.osloogomlandfriluftsrad.no/",
+      "entity": "Prosperastiftelsen",
+      "endDate": "2025-01-01",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet prosjektet for å digitalisere administrative prosesser hos OOF, med fokus på timeføring, budsjettering og prosjektstyring.",
+        "Gjennomførte behovsanalyse og evaluering av digitale verktøy som best kunne møte organisasjonens behov.",
+        "Koordinerte implementeringen av nye systemer som resulterte i 30% reduksjon i manuelt administrativt arbeid.",
+        "Utformet opplæringsløp, dataflyt og tilgangsmodell for rollestyring."
+      ]
+    },
+    {
+      "name": "Sanering av gammelt loggverktøy og utrulling av agenter",
+      "startDate": "2020-07-01",
+      "description": "Prosjektets mandat er å få sanert gammel maskinvare, sette opp ny maskinvare ...",
+      "url": "https://harry.solsem.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet sanering av utdatert maskinvare og implementering av nye sikkerhetsløsninger på flere tusen servere.",
+        "Koordinerte tverrfaglige team i en fullt digital arbeidsmodell under pandemien via Microsoft Teams.",
+        "Rapporterte jevnlig til styringsgruppe og porteføljestyrer, med 100% oppnåelse av prosjektets milepæler.",
+        "Etablerte driftsrutiner og dokumentasjon for agentlivssyklus og patching."
+      ]
+    },
+    {
+      "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
+      "startDate": "2020-07-01",
+      "description": "Prosjektets mandat er å avklare behov, anskaffe, implementere og få på plass styringsdokumenter ...",
+      "url": "https://harry.solsem.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Utviklet og implementerte omfattende sikkerhetsfokuserte styringsdokumenter for programvareutvikling i DNB.",
+        "Gjennomførte leverandørevalueringer og etablerte nye sikkerhetskrav for eksterne utviklingspartnere.",
+        "Oppnådde betydelig forbedring i sikkerhetsfokus gjennom hele programvarelivssyklusen ved å implementere nye verktøy og rutiner.",
+        "Etablerte målt modenhetsløft og opplæringsløp for utviklingsteam."
+      ]
+    },
+    {
+      "name": "IAM - Cleanup and Compliance",
+      "startDate": "2020-06-01",
+      "description": "Prosjekt som har som mandat å implementere en utvidet automasjon av tilgangsstyring ...",
+      "url": "https://harry.solsem.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet implementeringen av automatisert tilgangsstyring med ServiceNow og IIQ, som resulterte i 40% reduksjon i manuelle tilgangsprosesser.",
+        "Sikret compliance med interne og eksterne reguleringer gjennom forbedret dokumentasjon og prosesser.",
+        "Koordinerte interessenter på tvers av avdelinger for å sikre optimal implementering av IAM-løsningen.",
+        "Definerte kontrollpunkter for periodisk resertifisering av tilganger."
+      ]
+    },
+    {
+      "name": "Penetrasjonstesting",
+      "startDate": "2019-08-01",
+      "description": "Dette prosjektet har som mandat å legge til rette for penetrasjonstesting av DNBse systemer.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Etablerte og ledet et omfattende program for penetrasjonstesting av kritiske systemer i DNB.",
+        "Koordinerte interne sikkerhetseksperter og eksterne partnere for å gjennomføre grundige sikkerhetstester.",
+        "Utviklet protokoller for systematisk oppfølging av funn, som resulterte i 85% reduksjon i kritiske sårbarheter.",
+        "Integrerte sikkerhetstesting i release-prosessen med klar prioritering av tiltak."
+      ]
+    },
+    {
+      "name": "Implementere DDoS-beskyttelse for en spesifikk del av DNBs systemportefølje",
+      "startDate": "2019-07-01",
+      "description": "Prosjektets mandat er å flytte deler av DNBs systemportefølje bak forsterket DDoS-beskyttelse.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet implementeringen av forsterket DDoS-beskyttelse for kritiske systemkomponenter i DNB.",
+        "Utarbeidet omfattende migreringsstrategi som minimerte nedetid under flytting av systemer.",
+        "Koordinerte tekniske ressurser på tvers av team for å sikre sømløs integrasjon med eksisterende infrastruktur.",
+        "Definerte overvåkings- og hendelseshåndteringsprosedyrer etter innføring."
+      ]
+    },
+    {
+      "name": "Ny bedriftsportal",
+      "startDate": "2018-01-01",
+      "description": "Scrum Master for dette utviklingsprosjektet. ...",
+      "url": "https://harry.solsem.no",
+      "endDate": "2019-01-01",
+      "entity": "DNB",
+      "roles": [
+        "Scrum master"
+      ],
+      "highlights": [
+        "Fungerte som Scrum Master for et tverrfaglig team på 8 personer som utviklet DNBs nye bedriftsportal.",
+        "Gjennomførte grundig opplæring i smidig metodikk for både IT-utviklere og forretningsrepresentanter.",
+        "Fasiliterte daglige stand-ups, sprint planning og retrospektiver som bidro til 30% økt utviklingseffektivitet.",
+        "Etablerte kontinuerlig leveranse med måling av lead time og kvalitet."
+      ]
+    },
+    {
+      "name": "GDPR i DNB Liv",
+      "startDate": "2018-01-01",
+      "description": "Compliance-prosjekt som hadde til mandat å sørge for at systemene til DNB-Liv møter GDPR-kravene.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2018-03-01",
+      "entity": "DNB",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Ledet GDPR-implementeringsprosjektet for DNB Liv, som sikret full compliance innen fristen mai 2018.",
+        "Koordinerte tverrfaglig team bestående av juridiske eksperter, IT-spesialister og forretningsanalytikere.",
+        "Implementerte nye systemer og prosesser for å håndtere personvernrettigheter og datasletting.",
+        "Etablerte dokumentasjons- og revisjonsløp for etterlevelse."
+      ]
+    },
+    {
+      "name": "Supplier Catalogue",
+      "startDate": "2014-09-01",
+      "description": "Tilpasning og implementering av Sharecats katalog-tjenester hos global oljeleverandør.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2015-04-01",
+      "entity": "Sharecat Solutions AS",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Overtok et komplekst internasjonalt prosjekt og stabiliserte leveransene med detaljert planverk.",
+        "Ledet distribuert team på tvers av land og disipliner til ferdig implementering.",
+        "Leverte på budsjett og tidsplan med strukturert endringskontroll."
+      ]
+    },
+    {
+      "name": "Utvidelse av vCRM",
+      "startDate": "2011-03-01",
+      "description": "Utvidelse og forbedring av Ventelos CRM-system basert på analyse av støttehenvendelser.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2011-10-01",
+      "entity": "Ventelo",
+      "roles": [
+        "prosjektleder",
+        "programvareingeniør"
+      ],
+      "highlights": [
+        "Identifiserte fem kritiske gap og leverte målrettede funksjonsutvidelser.",
+        "Reduserte IT-støttehenvendelser med 25% etter produksjonssetting.",
+        "Kombinerte prosjektledelse og utvikling for sømløs gjennomføring."
+      ]
+    },
+    {
+      "name": "IRIS - Rapportdistribuerings-system",
+      "startDate": "2007-02-01",
+      "description": "Distribusjon av rapporter med bruker- og rapportadministrasjon, abonnement og AD-integrasjon.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2007-06-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Leverte C#/MS SQL-basert løsning med AD-integrasjon for automatisk brukerhåndtering.",
+        "Abonnementsmotor med tidsstyring og fleksible leveransekanaler.",
+        "Full dokumentasjon og opplæring for drift og bruk."
+      ]
+    },
+    {
+      "name": "ULV - utlevering av verktøy",
+      "startDate": "2005-03-01",
+      "description": "System for administrasjon av ut- og innlevering av verktøy, inkl. e-signatur og rapporter.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2006-05-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Leverte C#/MS SQL-løsning med AD-integrasjon og elektronisk signatur.",
+        "Sikret sporbarhet og revisjonslogg for utstyrslivssyklus.",
+        "Plan for drift, backup og kontinuerlige forbedringer."
+      ]
+    },
+    {
+      "name": "tiUM - timeregistrering Umoe Mandal",
+      "startDate": "2004-05-01",
+      "description": "Helhetlig implementering av timeregistreringssystem med integrasjoner og automatisering.",
+      "url": "https://harry.solsem.no",
+      "endDate": "2007-08-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "prosjektleder"
+      ],
+      "highlights": [
+        "Leverte VB.Net/WinForms-løsning med MS SQL og e-postvarsling for godkjenning.",
+        "Integrerte mot stemplingssystem og lønn med kvalitetssikret dataflyt.",
+        "Omfattende bruker- og systemdokumentasjon samt opplæring."
+      ]
+    }
+  ],
   "awards": [],
   "work": [
     {
@@ -705,7 +789,7 @@
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2025-10-01",
       "summary": "Som prosjektmentor i Prosperastiftelsen har jeg hatt gleden av å veilede og støtte prosjektledere i gjennomføringen av viktige initiativer som fremmer stiftelsens samfunnsoppdrag. I denne rollen har jeg bidratt med min erfaring innen prosjektledelse, strategisk planlegging og teamutvikling for å sikre at prosjektene ikke bare når sine mål, men også skaper varig verdi for samfunnet. Jeg har fokusert på å styrke prosjektledernes ferdigheter gjennom individuell coaching, deling av beste praksis og utvikling av skreddersydde verktøy og metoder som passer stiftelsens unike behov. Gjennom tett samarbeid med prosjektteamene har jeg hjulpet til med å identifisere og overvinne utfordringer, optimalisere ressursbruk og sikre effektiv kommunikasjon med interessenter. Jeg er stolt av å kunne bidra til Prosperastiftelsens viktige arbeid ved å styrke deres evne til å gjennomføre prosjekter som gjør en reell forskjell i samfunnet.",
-        "highlights": [
+      "highlights": [
         "Mentorering i planverk, milepælsstyring og risikoregister.",
         "Innføring av effektkartlegging og enkel gevinstplan pr. initiativ.",
         "Rådgivning i interessenthåndtering og beslutningsfora.",
@@ -718,7 +802,7 @@
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2024-10-01",
       "summary": "Innleid prosjektleder hos Prosperastiftelsen med ansvar for prosjektteamledelse, planlegging, prioritering og beslutningstaking. Overordnet ansvar for å sikre kvaliteten på leveranser, opprettholde tidsfrister og forankre prosjektene hos mottakere. I rollen drar jeg nytte av sertifiseringer innen Prosci endringsledelse og Prince2 prosjektmetodikk, kombinert med verdifull erfaring fra Lean og Agile. Jeg har bygget og ledet flere team på opptil fem personer, med fokus på å skape en sterk teamfølelse og psykologisk trygghet. Alle prosjekter har levert i henhold til mål for kvalitet og innen de fastsatte tidsfrister.",
-       "highlights": [
+      "highlights": [
         "Operativ ledelse av tverrfaglige team (1–5 FTE) og tydelig milepælsplan.",
         "Prince2-styring: business case, beslutningslogg og avviksstyring.",
         "Agil gjennomføring med sprintplan, demo og retrospektiv.",
@@ -732,7 +816,7 @@
       "startDate": "2023-09-01",
       "summary": "Som mangfoldsleder for tekniske ressurser i Riverty har jeg oppnådd betydelige resultater gjennom strategisk personalledelse og organisasjonsutvikling. Jeg utviklet et høytpresterende lederteam bestående av 5 teamledere som konsekvent oppnådde økt tilfredshet på medarbeiderundersøkelser. Gjennom strukturerte utviklingssamtaler og individuelt tilpassede karriereplaner for mine 15 direkterapporterende ingeniører og for min ledergruppe reduserte jeg turnover med 20%, noe som skapte stabilitet og kontinuitet i avdelingen. For de 50 medarbeiderne jeg hadde overordnet ansvar for, implementerte jeg månedlige fagdager og sosiale arrangementer som målbart styrket både teamfølelse og tverrfaglig samarbeid. På rekrutteringssiden lyktes jeg med å tiltrekke og ansette 5 topptalenter med en økende retensjon. Dette ble oppnådd gjennom et tett og velstrukturert samarbeid med People & Culture, hvor vi sammen utviklet et rekrutteringsprogram som reduserte time-to-hire med 20% uten å kompromisse på kvalitet. For nyansatte skapte jeg et strukturert onboarding-program som reduserte tiden til full produktivitet fra 4 til 2 måneder. Et av mine viktigste bidrag var standardiseringen av utviklingsprosesser på tvers av alle fire Tech Hubs i Europa (Oslo, Stockholm, Tallin og Berlin). Denne harmoniseringen resulterte i 30% økt leveransekapasitet og muliggjorde en felles teknisk plattform som akselererte time to market. Gjennom systematisk arbeid med å skape et arbeidsmiljø preget av psykologisk trygghet og en sunn feilkultur, økte meg medarbeidertilfredsheten i forhold til tidligere rapporterte erdier. Dette fremmet også innovasjon i organisasjonen. Min vektlegging av fysisk tilstedeværelse på kontoret, kombinert med strukturert kunnskapsdeling gjennom blant annet Atlassian Confluence, har skapt et dynamisk arbeidsmiljø hvor både individer og team kan utvikle seg og levere resultater av høy kvalitet.",
       "endDate": "2024-06-01",
-       "highlights": [
+      "highlights": [
         "Bygget lederteam og innførte målstyring med tydelige KPI-er.",
         "Standardiserte utviklingsprosesser på tvers av Tech Hubs (+30% kapasitet).",
         "Reduserte turnover med 20% via karriereplaner og 1:1-oppfølging.",
@@ -769,25 +853,25 @@
       "startDate": "2021-02-01",
       "summary": "Konsulent med spesialisering i prosjektledelse og smidige metodikker, med fokus på effektivisering av prosesser og optimalisering av teamytelse.",
       "endDate": "2021-08-01",
- "highlights": [
+      "highlights": [
         "Rådgivning i PMO-oppsett, porteføljestyring og gevinstrealisering.",
         "Agil transformasjon: rammeverk, kapabilitetsbygging og målstyring.",
         "Modenhetsanalyse av prosesser med tiltaksplan og quick wins."
-      ]      
+      ]
     },
     {
       "name": "DNB",
       "position": "Prosjektleder",
       "url": "https://www.dbn.no",
       "startDate": "2020-05-01",
-      "summary": "Mitt bidrag resulterte i raskere prosjektleveranser og forbedrede sluttresultater for brukerne, samtidig som investerte midler ga økt verdi. Som prosjektleder i DNBs IT-sikkerhetsavdeling hadde jeg ansvar for fem prosjekter, inkludert deres daglige ledelse. Jeg rapporterte til styringsgruppene og fulgte opp både leveranser og økonomi. Prosjektene omfattet IAM-compliance, implementering av DDOS-beskyttelse for utvalgte deler av DNBs systemportefølje, økt sikkerhetsfokus i programvarelivssyklusen samt sanering av gamle felles logging-løsninger. Arbeidet ble støttet av verktøy som Microsoft Project, ServiceNow og Microsoft Office.",
+      "summary": "Mitt bidrag resulterte i raskere prosjektleveranser og forbedrede sluttresultater for brukerne, samtidig som investerte midler ga økt verdi. Som prosjektleder i DNBs IT-sikkerhetsavdeling hadde jeg ansvar for fem prosjekter, inkludert deres daglige ledelse. Jeg rapporterte til styringsgruppene og fulgte opp både leveranser og økonomi. Prosjektene omfattet IAM-compliance, implementering av DDoS-beskyttelse for utvalgte deler av DNBs systemportefølje, økt sikkerhetsfokus i programvarelivssyklusen samt sanering av gamle felles loggløsninger. Arbeidet ble støttet av verktøy som Microsoft Project, ServiceNow og Microsoft Office.",
       "endDate": "2021-01-01",
       "highlights": [
-        "Ledet IAM-compliance, DDOS-innføring og sikker SDLC-tiltak.",
+        "Ledet IAM-compliance, DDoS-innføring og sikker SDLC-tiltak.",
         "Styringsgrupperapportering, kost/nytte og risikostyring.",
         "Plan-/ressursstyring i MS Project og oppfølging i ServiceNow.",
         "Sanering av legacy logging med kontrollert migrasjonsløp."
-      ]      
+      ]
     },
     {
       "name": "DNB",
@@ -796,7 +880,7 @@
       "startDate": "2017-10-01",
       "summary": "Bidro til å transformere arbeidsmetodikken i prosjekter fra fossefall til en smidig tilnærming gjennom implementering av Scrum. Hadde ansvar for opplæring av kollegaer i smidige metodikker, inkludert både tekniske IT-ressurser og medarbeidere fra andre avdelinger, og sikret dermed en effektiv og helhetlig tilpasning til den nye arbeidsmetoden.",
       "endDate": "2020-05-01",
-       "highlights": [
+      "highlights": [
         "Rullet ut Scrum og Lean-praksis i tverrfaglige team.",
         "Holdt opplæring og coaching i smidig metodikk og verktøy.",
         "Innførte kontinuerlig forbedring, CI/CD og kodepraksis."
@@ -809,7 +893,7 @@
       "startDate": "2015-05-01",
       "summary": "Ansvarlig for design, implementasjon og vedlikehold av en effektiv CI/CD-verdikjede ved hjelp av TeamCity og OctoDeploy. Utførte migrering av en Java-applikasjon til C#, JavaScript og XSL/XML, noe som resulterte i forbedret funksjonalitet og økt kompatibilitet. Tilrettela opplæring og veiledning i bruk av Microsoft-utviklingsverktøy, inkludert Visual Studio, for å styrke teamets produktivitet og kompetanse.",
       "endDate": "2017-09-01",
-       "highlights": [
+      "highlights": [
         "Bygget CI/CD i TeamCity og Octopus Deploy med versjonsstrategi.",
         "Migrerte Java-løsning til C#/JS/XSL for bedre vedlikeholdbarhet.",
         "Release-styring, miljøstandardisering og monitorering."
@@ -822,7 +906,7 @@
       "startDate": "2013-02-01",
       "summary": "Jeg fungerer som senior programvareutvikler med dyp ekspertise innen Microsoft-teknologistacken, samtidig som jeg innehar rollene som Scrum Master og Agile Coach med ansvar for å implementere og forankre Scrum som prosjektgjennomføringsmetodikk i organisasjonen. I tillegg har jeg ledet leveranseprosjekter i rollen som prosjektleder hvor jeg har anvendt Prince2-metodikk for å sikre strukturert planlegging, effektiv ressursstyring og gjennomgående høy kvalitet på leveransene. Denne kombinasjonen av teknisk utviklingskompetanse og prosjektledelseserfaring gjør at jeg kan bidra både på operativt og strategisk nivå i komplekse IT-prosjekter.",
       "endDate": "2015-04-01",
-       "highlights": [
+      "highlights": [
         "Scrum Master for distribuerte team med kontinuerlige leveranser.",
         "Prince2-planverk og ressursstyring for internasjonal implementering.",
         "Kundedialog, kravprioritering og demonstrerbare inkrementer."
@@ -835,7 +919,7 @@
       "startDate": "2010-03-01",
       "summary": "Jeg har ansvar for utvikling av sofistikerte støtte- og front-end systemer for Ventelo, med hovedvekt på web-applikasjoner som gir kundene mulighet til å selvstendig administrere sine kundeforhold og abonnementer gjennom en intuitiv digital plattform. Parallelt arbeider jeg med kontinuerlig videreutvikling og forbedring av Ventelos interne CRM-systemer for å optimalisere kundebehandlingsprosesser. I dette utviklingsarbeidet følger jeg Ventelos tjenesteorienterte arkitektur (SOA) og anvender smidige utviklingsmetoder sammen med continuous integration for å sikre høy kvalitet og rask leveranse. Teknisk sett benytter jeg C# og ASP.NET for applikasjonsutvikling, Microsoft SQL Server for databasehåndtering, og følger testdrevet utviklingsmetodikk (TDD) med FakeItEasy som rammeverk for enhetstesting.",
       "endDate": "2012-06-01",
-       "highlights": [
+      "highlights": [
         "Ledet leveranser på SOA-plattform for selvbetjeningsløsninger.",
         "Forvaltet og utvidet CRM-funksjonalitet mot prioriterte behov.",
         "TDD med FakeItEasy, CI og automatisert bygg/deploy.",
@@ -866,9 +950,9 @@
         "Design og utvikling av WinForms-basert kalkylesystem i C#.",
         "Datamodellering og T-SQL for rapportering og analyse.",
         "Brukerorienterte skjermbilder med validering og eksport."
-      ]      
+      ]
     },
-     {
+    {
       "name": "Solsem Consulting",
       "position": "Entrepreneur / Software Developer/Advisor",
       "url": "https://sc.solsem.no",
@@ -887,7 +971,7 @@
         "Full livssyklusleveranse: krav, utvikling, utrulling og drift.",
         "Mellomvare for Oracle↔MS SQL dataintegrasjon.",
         "Løsninger for rapportdistribusjon, tidsregistrering og AD-integrasjon."
-      ]      
+      ]
     },
     {
       "name": "Intershare AS",
@@ -900,7 +984,7 @@
         "Videreutviklet utleiesystem i C++/MFC og SQL Anywhere.",
         "Kundespesifikke tilpasninger, feilretting og ytelsesforbedringer.",
         "Migreringsløp og dataoppgraderinger med minimal nedetid."
-      ]      
+      ]
     },
     {
       "name": "Edb Avdelingen Sør AS",
@@ -923,7 +1007,7 @@
       "startDate": "1994-08-01",
       "summary": "Jeg yter omfattende brukerstøtte for Windows 95-operativsystemer og har medansvar for den daglige driften av Token-Ring nettverk, en oppgave som krever spesialisert teknisk kompetanse innen eldre nettverksteknologi. I tillegg har jeg ansvar for oppsett og løpende vedlikehold av Windows-klienter, der jeg sørger for optimal konfigurasjon, oppdatering og problemløsning for å sikre stabil og effektiv drift av klientmaskiner i virksomhetens IT-miljø.",
       "endDate": "1997-07-01",
-        "highlights": [
+      "highlights": [
         "Support på Windows 95 og klientstandarder i produksjon.",
         "Token-Ring drift og feilsøking.",
         "Klientutrulling"
@@ -940,7 +1024,7 @@
         "FoxPro-utvikling med datamodellering og skjermbilder.",
         "Rapporter og spørringer for forretningsbehov.",
         "Versjonskontroll og enkel distribusjon."
-      ]      
+      ]
     },
     {
       "name": "Total Consept Development",
@@ -949,7 +1033,7 @@
       "startDate": "1994-08-01",
       "summary": "Hovedansvar for utvikling av administrative systemer for resturantbranje og jukebox-databaser. Utviklet i Visual Basic",
       "endDate": "1994-11-30",
-       "highlights": [
+      "highlights": [
         "Visual Basic-løsninger for restaurantadministrasjon.",
         "Design av jukebox-databaser og CRUD-funksjoner.",
         "Kravinnhenting"
@@ -962,7 +1046,7 @@
       "startDate": "1994-06-01",
       "summary": "Hovedansvar for utarbeidelse av ethernett, klientoppsett av Windows for Workgroups 11 og brukerstøtte",
       "endDate": "1994-07-31",
-       "highlights": [
+      "highlights": [
         "Nettverksdesign og etablering av Ethernet-infrastruktur.",
         "Opplæring av Windows for Workgroups 3.11 klienter."
       ]
@@ -974,7 +1058,7 @@
       "startDate": "1994-01-01",
       "summary": "Veileder i faget Algoritmer og datastrukturer",
       "endDate": "1994-06-01",
-       "highlights": [
+      "highlights": [
         "Veiledning i algoritmeanalyse og datastrukturer."
       ]
     },
@@ -985,7 +1069,7 @@
       "startDate": "1992-02-17",
       "summary": "Forefallende kontoroppgaver",
       "endDate": "1992-07-17",
-       "highlights": [
+      "highlights": [
         "Arkiv, postjournal og saksflyt.",
         "Møtebookinger og dokumenthåndtering.",
         "Publikumsservice ved skranke."
