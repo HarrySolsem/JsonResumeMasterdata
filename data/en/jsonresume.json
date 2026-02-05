@@ -1,4 +1,4 @@
-{
+﻿{
 "awards": [],
  "basics": {
     "name": "Harry Solsem",
@@ -26,7 +26,7 @@
   },
    "certificates": [
     {
-      "name": "Prince2 Management of Portfolios, MoP®",
+      "name": "PRINCE2 Management of Portfolios, MoP®",
       "date": "2025-11-12",
       "issuer": "PeopleCert Group",
       "url": "https://dev2.axelos.com/certifications/propath/mop-portfolio-management"
@@ -50,19 +50,19 @@
       "url": "https://agileleanhouse.com/en/cspo"
     },
     {
-      "name": "Prince2Agile",
+      "name": "PRINCE2 Agile",
       "date": "2019-01-01",
       "issuer": "Axelos Global Best Practice",
       "url": "https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-foundation"
     },
     {
-      "name": "Prince2 Registered Practitioner",
+      "name": "PRINCE2 Registered Practitioner",
       "date": "2016-11-01",
       "issuer": "APMG International",
       "url": "https://www.axelos.com/certifications/propath/prince2-project-management/prince2-practitioner"
     },
     {
-      "name": "Prince2 Foundation",
+      "name": "PRINCE2 Foundation",
       "date": "2014-08-01",
       "issuer": "Adding Value Consulting AB",
       "url": "https://www.axelos.com/certifications/propath/prince2-project-management/prince2-foundation"
@@ -235,12 +235,12 @@
     {
       "name": "Artists network (KN)",
       "startDate": "2025-10-05",
-      "description": "The project’s mandate is to prepare a draft for a joint strategy for KN, including prioritizing which issues should be promoted. It will also develop proposals for how KN can demonstrate and communicate the value of its work to its member organizations, and create a two-year action plan outlining how KN should prioritize and succeed in implementing the strategy.",
+      "description": "The project's mandate is to prepare a draft for a joint strategy for KN, including prioritizing which issues should be promoted. It will also develop proposals for how KN can demonstrate and communicate the value of its work to its member organizations, and create a two-year action plan outlining how KN should prioritize and succeed in implementing the strategy.",
       "url": "https://www.prosperastiftelsen.no",
       "entity": "Prosperastiftelsen",
       "endDate": "2030-12-31",
       "roles": [
-        "project mentor"
+        "Project Mentor"
       ],
       "highlights": [
         "highlights",
@@ -256,7 +256,7 @@
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "project participant"
+        "Project Participant"
       ],
       "highlights": [
         "highlights",
@@ -267,12 +267,12 @@
     ,{
       "name": "Strategy for service development and innovation",
       "startDate": "2025-08-05",
-      "description": "The project will develop an overall strategy for service development in Enebakk Municipality. The strategy will help ensure that the municipality develops services aligned with the needs and expectations of its residents, while also taking into account the municipality’s resources and capacities. It will also aim to promote innovation and continuous improvement of services.",
+      "description": "The project will develop an overall strategy for service development in Enebakk Municipality. The strategy will help ensure that the municipality develops services aligned with the needs and expectations of its residents, while also taking into account the municipality's resources and capacities. It will also aim to promote innovation and continuous improvement of services.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "highlights",
@@ -288,7 +288,7 @@
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "highlights",
@@ -304,7 +304,7 @@
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "highlights",
@@ -320,7 +320,7 @@
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "highlights",
@@ -336,7 +336,7 @@
       "entity": "Prosperastiftelsen",
       "endDate": "2025-06-01",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led a team of 5 people in a project to develop a new strategy for RELOVE.",
@@ -352,7 +352,7 @@
       "entity": "Prosperastiftelsen",
       "endDate": "2025-01-01",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the project to digitize administrative processes at Oslo og Omland Friluftsråd, focusing on time tracking, budgeting, and project management.",
@@ -361,14 +361,14 @@
       ]
     },
     {
-      "name": "Sanitation of old Log tool and seployment of agents",
+      "name": "Sanitation of old log tool and deployment of agents",
       "startDate": "2020-07-01",
       "description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the decommissioning of outdated hardware and implementation of new security solutions on thousands of servers.",
@@ -384,7 +384,7 @@
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Developed and implemented comprehensive security-focused governance documents for software development at DNB.",
@@ -400,7 +400,7 @@
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the implementation of automated access management with ServiceNow and IIQ, resulting in a 40% reduction in manual access processes.",
@@ -416,7 +416,7 @@
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Established and led a comprehensive program for penetration testing of critical systems at DNB.",
@@ -425,17 +425,17 @@
       ]
     },
     {
-      "name": "Implementing DDOS protection for a defined part of DNB's system portfolio",
+      "name": "Implementing DDoS protection for a defined part of DNB's system portfolio",
       "startDate": "2019-07-01",
-      "description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDOS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDoS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
-        "Led the implementation of enhanced DDOS protection for critical system components at DNB.",
+        "Led the implementation of enhanced DDoS protection for critical system components at DNB.",
         "Developed a comprehensive migration strategy that minimized downtime during system transitions.",
         "Coordinated technical resources across teams to ensure seamless integration with existing infrastructure."
       ]
@@ -464,7 +464,7 @@
       "endDate": "2018-03-01",
       "entity": "DNB",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the GDPR implementation project for DNB Liv, ensuring full compliance by the May 2018 deadline.",
@@ -480,7 +480,7 @@
       "endDate": "2015-04-01",
       "entity": "Sharecat Solutions AS",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Took over a complex international project and developed a detailed project plan that ensured successful delivery.",
@@ -496,7 +496,7 @@
       "endDate": "2011-10-01",
       "entity": "Ventelo",
       "roles": [
-        "project manager",
+        "Project Manager",
         "software engineer"
       ],
       "highlights": [
@@ -513,7 +513,7 @@
       "endDate": "2007-06-01",
       "entity": "Umoe Mandal",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Developed and implemented a complete report distribution system using C# and MS SQL Server.",
@@ -529,7 +529,7 @@
       "endDate": "2006-05-01",
       "entity": "Umoe Mandal",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the project from requirements specification to implementation and operation.",
@@ -545,7 +545,7 @@
       "endDate": "2007-08-01",
       "entity": "Umoe Mandal",
       "roles": [
-        "project manager"
+        "Project Manager"
       ],
       "highlights": [
         "Led the project from requirements specification to implementation and operation.",
@@ -897,13 +897,13 @@
   ],
   "work": [
     {
-      "name": "Enebakk municipality",
-      "position": "Projectmanager digitalization",
+      "name": "Enebakk Municipality",
+      "position": "Advisor digital transformation and portfolio management",
       "url": "https://www.enebakk.kommune.no",
       "startDate": "2025-06-04",
-      "summary": "As Digitalization Project Manager at Enebakk municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
+      "summary": "As advisor at Enebakk Municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality's project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I'm building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I'm passionate about translating digital potential into real-world improvements  and helping shape a modern, efficient, and attractive public sector.",
       "highlights": [
-        "Management of digitalization projects in Enebakk municipality, focusing on streamlining and improving municipal services through digitalization.",
+        "Management of digitalization projects in Enebakk Municipality, focusing on streamlining and improving municipal services through digitalization.",
         "Leader of the portfolio team coordinating and prioritizing digitalization initiatives to ensure alignment with the municipality's strategic goals.",
         "Head of the PMO (Project Management Office), establishing and maintaining project management standards and procedures to ensure successful project delivery."
       ]
@@ -920,7 +920,7 @@
       "position": "Project Manager",
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2024-10-01",
-      "summary": "Hired as a project manager at Prosperastiftelsen. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and Prince2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
+      "summary": "Hired as a project manager at Prosperastiftelsen. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and PRINCE2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
       "highlights": [
         "Being asked to manage several projects indicates that Prosperastiftelsen are happy with my performance as project manager"
       ]
@@ -962,7 +962,7 @@
       "position": "Project Manager",
       "url": "https://www.dbn.no",
       "startDate": "2020-05-01",
-      "summary": "My contributions here led to projects being delivered faster and with better end results for users, in addition to increased value for the funds invested in the projects. As a project manager in DNB's IT Security department, I was responsible for 5 projects and their daily management, reported to steering committees, and followed up on deliveries and finances. These include an IAM compliance project, implementation of DDOS protection for a selection of DNB's system portfolio, increased security focus within DNB's software lifecycle, and the decommissioning of an old shared logging solution. Tools used include Microsoft Project, ServiceNow, and Microsoft Office.",
+      "summary": "My contributions here led to projects being delivered faster and with better end results for users, in addition to increased value for the funds invested in the projects. As a project manager in DNB's IT Security department, I was responsible for 5 projects and their daily management, reported to steering committees, and followed up on deliveries and finances. These include an IAM compliance project, implementation of DDoS protection for a selection of DNB's system portfolio, increased security focus within DNB's software lifecycle, and the decommissioning of an old shared logging solution. Tools used include Microsoft Project, ServiceNow, and Microsoft Office.",
       "endDate": "2021-01-01"
     },
     {
@@ -986,7 +986,7 @@
       "position": "Project Manager/Scrum Master/Senior Software Developer",
       "url": "https://home.sharecat.com/",
       "startDate": "2013-02-01",
-      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using Prince2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
+      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using PRINCE2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
       "endDate": "2015-04-01"
     },
     {
@@ -1062,7 +1062,7 @@
       "endDate": "1994-11-30"
     },
     {
-      "name": "BÅDE OG RADIOREKLAMEBYRÅ",
+      "name": "B�.DE OG RADIOREKLAMEBYR�.",
       "position": "IT Consultant",
       "url": "https://www.ikke.no",
       "startDate": "1994-06-01",
