@@ -1,7 +1,7 @@
 {
   "certificates": [
     {
-      "name": "Prince2 MoP, Management of Portfolios Foundation",
+      "name": "PRINCE2 MoP, Management of Portfolios Foundation",
       "date": "2025-11-12",
       "issuer": "PeopleCert",
       "url": "https://www.credly.com/badges/3f2e9c94-582a-4b9f-ba7a-df65c303ee1b/linked_in_profile"
@@ -25,19 +25,19 @@
       "url": "https://agileleanhouse.com/en/cspo"
     },
     {
-      "name": "Prince2Agile",
+      "name": "PRINCE2 Agile",
       "date": "2019-01-01",
       "issuer": "Axelos Global Best Practice",
       "url": "https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-foundation"
     },
     {
-      "name": "Prince2 Registered Practitioner",
+      "name": "PRINCE2 Registered Practitioner",
       "date": "2016-11-01",
       "issuer": "APMG International",
       "url": "https://www.axelos.com/certifications/propath/prince2-project-management/prince2-practitioner"
     },
     {
-      "name": "Prince2 Foundation",
+      "name": "PRINCE2 Foundation",
       "date": "2014-08-01",
       "issuer": "Adding Value Consulting AB",
       "url": "https://www.axelos.com/certifications/propath/prince2-project-management/prince2-foundation"
@@ -87,7 +87,7 @@
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "harrysolsem",
         "url": "https://www.linkedin.com/in/harrysolsem"
       },
@@ -390,6 +390,8 @@
     {
       "name": "Karemo",
       "description": "Karemo er en CRM for jobbsøkere som hjelper brukere med å håndtere søknader, stillingsannonser, kontakter, dokumenter, intervjuer, oppgaver og oppfølging i ett system. Prosjektet fokuserer på en enkel og rask brukeropplevelse, strukturerte domenemoduler (tidslinje, påminnelser/oppgaver, dokumenter, intervjulogger, lønnsforhandling, kompetansepunkter) og stabil lokal persistens. Løsningen er bygget som en modulær .NET-desktopapplikasjon med tydelig separasjon mellom domenelogikk, datalag og UI, og er tiltenkt god integrasjon med eksterne profil-/CV-ressurser (f.eks. CVSmia) via lenker og felles informasjonsarkitektur.",
+      "url": "https://solsem.karemo.no",
+      "entity": "Solsem Consulting",
       "roles": [
         "prosjektleder",
         "produkteier",
@@ -411,6 +413,8 @@
     {
       "name": "CVSmia",
       "description": "CVSmia er et digitalt prosjekt for å utvikle og drifte et moderne system for CV-håndtering for jobbsøkere, konsulenter og rådgivere. Prosjektet fokuserer på strukturert innhold (JsonResume-basert CV-data), gjenbrukbare komponenter og tydelig presentasjon av profil, ferdigheter og prosjekter. Løsningen er bygget for å hjelpe jobbsøkere, konsulenter og rådgivere å opprette, forvalte og dele CV-er i et digitalt format som er lett å lese og forstå for rekrutterere og arbeidsgivere.",
+      "url": "https://solsem.cvsmia.no",
+      "entity": "Solsem Consulting",
       "roles": [
         "prosjektleder",
         "produkteier",
@@ -534,7 +538,7 @@
     {
       "name": "RELOVE V25",
       "startDate": "2025-02-01",
-      "description": "RELOVE trenger effektive metoder for å dokumentere og synliggjøre sin samfunnsverdi. ...",
+      "description": "RELOVE needs effective methods to document and showcase its societal value. This is crucial both to ensure continued support and to communicate the organization's significance in the local community. In the long term, RELOVE aims to qualify for a permanent position in the state budget. The pro bono team will therefore assist RELOVE in articulating their core business and identity in a clear and concise manner. The team will develop a few concise statements that capture the essence of RELOVE's operations, define the concrete value creation from RELOVE's various activity areas, and establish systematic measurement routines to document the organization's impact and results going forward, for example, through structured registration of recycled textile volumes or the number of young people entering employment.",
       "url": "https://www.relove.info",
       "entity": "Prosperastiftelsen",
       "endDate": "2025-06-01",
@@ -552,7 +556,7 @@
     {
       "name": "OOF H24 - Økonomi og Virksomhetsstyring",
       "startDate": "2024-10-01",
-      "description": "Formålet med dette prosjektet er å bistå OOF i utvelgelse og implementering av digitale verktøy ...",
+"description": "The purpose of this project is to assist OOF in selecting and implementing digital tools that will streamline and simplify administrative and operational processes. OOF aims to minimize manual tasks while strengthening its ability to maintain oversight and control within key functions such as time tracking, budget management, accounting, and project management.",
       "url": "https://www.osloogomlandfriluftsrad.no/",
       "entity": "Prosperastiftelsen",
       "endDate": "2025-01-01",
@@ -569,7 +573,7 @@
     {
       "name": "Sanering av gammelt loggverktøy og utrulling av agenter",
       "startDate": "2020-07-01",
-      "description": "Prosjektets mandat er å få sanert gammel maskinvare, sette opp ny maskinvare ...",
+"description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -586,7 +590,7 @@
     {
       "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
       "startDate": "2020-07-01",
-      "description": "Prosjektets mandat er å avklare behov, anskaffe, implementere og få på plass styringsdokumenter ...",
+"description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDoS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -603,7 +607,7 @@
     {
       "name": "IAM - Cleanup and Compliance",
       "startDate": "2020-06-01",
-      "description": "Prosjekt som har som mandat å implementere en utvidet automasjon av tilgangsstyring ...",
+      "description": "The project's mandate is to implement extended automation of access management using ServiceNow, IIQ, and other relevant tools. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -654,7 +658,7 @@
     {
       "name": "Ny bedriftsportal",
       "startDate": "2018-01-01",
-      "description": "Scrum Master for dette utviklingsprosjektet. ...",
+      "description": "Scrum Master for this development project. Performed the tasks associated with the role according to the Scrum Guide. Additionally, introduced and trained participants in agile methodologies, both within the IT organization and among participants from other business areas.",
       "url": "https://harry.solsem.no",
       "endDate": "2019-01-01",
       "entity": "DNB",
@@ -776,7 +780,7 @@
       "startDate": "2025-06-04",
       "summary": "Som rådgiver i Enebakk kommune har jeg en nøkkelrolle i å drive frem digital utvikling som gir konkrete resultater for både innbyggere og ansatte. Jeg leder initiativer som effektiviserer tjenester, styrker brukeropplevelsen og moderniserer arbeidsprosesser – alltid med et blikk for bærekraft, gevinstrealisering og forankring i organisasjonen. Jeg har også ansvar som teamleder for kommunens prosjektporteføljeteam. Her koordinerer jeg pågående prosjekter, prioriterer ressurser og bidrar til strukturert porteføljestyring på tvers av fagområder. Gjennom dette sikrer jeg bedre samspill, økt gjennomføringsevne og målrettet utvikling. Parallelt bygger jeg opp og skal lede et nytt prosjektkontor (PMO) for kommunen. Målet er å etablere en profesjonell prosjektplattform med felles metodikk, verktøy og støttefunksjoner – som gir ledelsen oversikt og trygghet, og prosjektledere de beste forutsetninger for å lykkes. Jeg kombinerer strategisk forståelse med operativ kraft. Med solid erfaring fra komplekse prosjekter og en god evne til å skape tverrfaglig samhandling, er jeg opptatt av å realisere verdien av teknologi i praksis – og å bidra til en moderne, effektiv og attraktiv offentlig sektor.",
       "highlights": [
-        "Etablering av PMO: felles metodikk, malverk og styringsstruktur (Prince2/Agile hybrid).",
+        "Etablering av PMO: felles metodikk, malverk og styringsstruktur (PRINCE2/Agile hybrid).",
         "Porteføljestyring med prioriteringskriterier, kapasitetsplan og gevinstkart.",
         "Tjenesteutvikling med innsiktsbasert tjenestedesign og målbilder (KPI/OKR).",
         "Gevinstrealisering: måleplan, baseline og effektoppfølging mot politiske mål.",
@@ -801,10 +805,10 @@
       "position": "Prosjektleder",
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2024-10-01",
-      "summary": "Innleid prosjektleder hos Prosperastiftelsen med ansvar for prosjektteamledelse, planlegging, prioritering og beslutningstaking. Overordnet ansvar for å sikre kvaliteten på leveranser, opprettholde tidsfrister og forankre prosjektene hos mottakere. I rollen drar jeg nytte av sertifiseringer innen Prosci endringsledelse og Prince2 prosjektmetodikk, kombinert med verdifull erfaring fra Lean og Agile. Jeg har bygget og ledet flere team på opptil fem personer, med fokus på å skape en sterk teamfølelse og psykologisk trygghet. Alle prosjekter har levert i henhold til mål for kvalitet og innen de fastsatte tidsfrister.",
+      "summary": "Innleid prosjektleder hos Prosperastiftelsen med ansvar for prosjektteamledelse, planlegging, prioritering og beslutningstaking. Overordnet ansvar for å sikre kvaliteten på leveranser, opprettholde tidsfrister og forankre prosjektene hos mottakere. I rollen drar jeg nytte av sertifiseringer innen Prosci endringsledelse og PRINCE2 prosjektmetodikk, kombinert med verdifull erfaring fra Lean og Agile. Jeg har bygget og ledet flere team på opptil fem personer, med fokus på å skape en sterk teamfølelse og psykologisk trygghet. Alle prosjekter har levert i henhold til mål for kvalitet og innen de fastsatte tidsfrister.",
       "highlights": [
         "Operativ ledelse av tverrfaglige team (1–5 FTE) og tydelig milepælsplan.",
-        "Prince2-styring: business case, beslutningslogg og avviksstyring.",
+        "PRINCE2-styring: business case, beslutningslogg og avviksstyring.",
         "Agil gjennomføring med sprintplan, demo og retrospektiv.",
         "Leveranser på tid og budsjett med dokumentert effekt hos mottaker."
       ]
@@ -904,11 +908,11 @@
       "position": "Prosjektleder/Scrum Master/Senior programvareutvikler",
       "url": "https://home.sharecat.com/",
       "startDate": "2013-02-01",
-      "summary": "Jeg fungerer som senior programvareutvikler med dyp ekspertise innen Microsoft-teknologistacken, samtidig som jeg innehar rollene som Scrum Master og Agile Coach med ansvar for å implementere og forankre Scrum som prosjektgjennomføringsmetodikk i organisasjonen. I tillegg har jeg ledet leveranseprosjekter i rollen som prosjektleder hvor jeg har anvendt Prince2-metodikk for å sikre strukturert planlegging, effektiv ressursstyring og gjennomgående høy kvalitet på leveransene. Denne kombinasjonen av teknisk utviklingskompetanse og prosjektledelseserfaring gjør at jeg kan bidra både på operativt og strategisk nivå i komplekse IT-prosjekter.",
+      "summary": "Jeg fungerer som senior programvareutvikler med dyp ekspertise innen Microsoft-teknologistacken, samtidig som jeg innehar rollene som Scrum Master og Agile Coach med ansvar for å implementere og forankre Scrum som prosjektgjennomføringsmetodikk i organisasjonen. I tillegg har jeg ledet leveranseprosjekter i rollen som prosjektleder hvor jeg har anvendt PRINCE2-metodikk for å sikre strukturert planlegging, effektiv ressursstyring og gjennomgående høy kvalitet på leveransene. Denne kombinasjonen av teknisk utviklingskompetanse og prosjektledelseserfaring gjør at jeg kan bidra både på operativt og strategisk nivå i komplekse IT-prosjekter.",
       "endDate": "2015-04-01",
       "highlights": [
         "Scrum Master for distribuerte team med kontinuerlige leveranser.",
-        "Prince2-planverk og ressursstyring for internasjonal implementering.",
+        "PRINCE2-planverk og ressursstyring for internasjonal implementering.",
         "Kundedialog, kravprioritering og demonstrerbare inkrementer."
       ]
     },
@@ -1223,8 +1227,8 @@
       "name": "Prosjekt- og porteføljestyring",
       "level": "Expert",
       "keywords": [
-        "Prince2",
-        "Prince2 Agile",
+        "PRINCE2",
+        "PRINCE2 Agile",
         "prosjektplanlegging",
         "gevinstrealisering",
         "risikostyring",
@@ -1243,7 +1247,7 @@
         "ressursstyring",
         "beslutningslogg",
         "milepælsstyring",
-        "Prince2/Agile hybrid"
+        "PRINCE2/Agile hybrid"
       ]
     },
     {
@@ -1460,3 +1464,6 @@
     }
   ]
 }
+
+
+

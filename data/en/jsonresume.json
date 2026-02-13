@@ -89,7 +89,7 @@
     {
       "institution": "BI Norwegian Business School",
       "area": "Management",
-      "url": "https://wwww.bi.no",
+      "url": "https://www.bi.no",
       "studyType": "Bachelor",
       "startDate": "2018-01-01",
       "score": "",
@@ -242,7 +242,7 @@
       "startDate": "2024-01-01",
       "description": "Karemo is a job-seeker CRM designed to help users manage applications, job postings, contacts, documents, interviews, tasks, and follow-ups in one place. The project focuses on a simple and fast user experience, structured domain modules (timeline, reminders/tasks, documents, interview logs, salary negotiations, competence items), and reliable local persistence. The solution is built as a modular .NET desktop application with clear separation between domain logic, data access, and UI, and is intended to integrate well with external profile/CV assets (e.g., CVSmia) through links and shared information architecture.",
       "url": "https://karemo.solsem.no",
-      "entity": "Karemo",
+      "entity": "Solsem Consulting",
       "endDate": "2026-12-31",
       "roles": [
         "project lead",
@@ -265,7 +265,7 @@
       "startDate": "2025-01-01",
       "description": "CVSmia is a digital project to develop and operate a modern CV management system for job seekers, consultants, and advisors. The project focuses on structured content (JsonResume-based CV data), reusable components, and clear presentation of profiles, skills, and projects. The solution is built to help job seekers, consultants, and advisors create, manage, and share their CVs in a digital format that is easy for recruiters and employers to read.",
       "url": "https://cvsmia.solsem.no",
-      "entity": "CVSmia",
+      "entity": "Solsem Consulting",
       "endDate": "2026-12-31",
       "roles": [
         "project lead",
@@ -355,7 +355,7 @@
     {
       "name": "Project Nexus - New intranet",
       "startDate": "2025-06-13",
-      "description": "beskrivelse",
+      "description": "The project aims to establish a technical platform for a new intranet in Enebakk Municipality. This platform should be user-friendly, accessible, and enable collaboration and information sharing across the organization.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
@@ -378,7 +378,7 @@
       "entity": "Enebakk Municipality",
       "endDate": "2030-12-31",
       "roles": [
-        "Project Manager"
+        "Project Coordinator"
       ],
       "highlights": [
         "Created a rollout plan, logistics, and configuration management per user.",
@@ -450,7 +450,8 @@
       "highlights": [
         "Developed and implemented comprehensive security-focused governance documents for software development at DNB.",
         "Conducted supplier evaluations and established new security requirements for external development partners.",
-        "Achieved significant improvement in security focus throughout the software lifecycle by implementing new tools and routines."
+        "Achieved significant improvement in security focus throughout the software lifecycle by implementing new tools and routines.",
+        "Established measurable maturity improvements and training paths for development teams."
       ]
     },
     {
@@ -534,7 +535,8 @@
       "highlights": [
         "Led the GDPR implementation project for DNB Liv, ensuring full compliance by the May 2018 deadline.",
         "Coordinated a cross-functional team consisting of legal experts, IT specialists, and business analysts.",
-        "Implemented new systems and processes to manage data privacy rights and data deletion."
+        "Implemented new systems and processes to manage data privacy rights and data deletion.",
+        "Established documentation and audit tracks for compliance."
       ]
     },
     {
@@ -637,9 +639,10 @@
   "skills": [
     {
       "name": "Project and portfolio management",
+      "level": "Advanced",
       "keywords": [
-        "Prince2",
-        "Prince2 Agile",
+        "PRINCE2",
+        "PRINCE2 Agile",
         "project planning",
         "benefits realization",
         "risk management",
@@ -658,11 +661,12 @@
         "resource management",
         "decision log",
         "milestone management",
-        "Prince2/Agile hybrid"
+        "PRINCE2/Agile hybrid"
       ]
     },
     {
       "name": "Change leadership and organizational development",
+      "level": "Advanced",
       "keywords": [
         "PROSCI",
         "ADKAR",
@@ -686,6 +690,7 @@
     },
     {
       "name": "Digitalization and service development",
+      "level": "Advanced",
       "keywords": [
         "service design",
         "user journeys",
@@ -707,6 +712,7 @@
     },
     {
       "name": "Agile methodologies",
+      "level": "Advanced",
       "keywords": [
         "Scrum",
         "Kanban",
@@ -732,6 +738,7 @@
     },
     {
       "name": "Enterprise architecture and IT governance",
+      "level": "Advanced",
       "keywords": [
         "TOGAF",
         "architecture principles",
@@ -753,6 +760,7 @@
     },
     {
       "name": "Technology leadership and software development",
+      "level": "Advanced",
       "keywords": [
         "C#",
         "ASP.NET",
@@ -783,6 +791,7 @@
     },
     {
       "name": "Leadership and HR",
+      "level": "Advanced",
       "keywords": [
         "team leadership",
         "management by objectives",
@@ -803,6 +812,7 @@
     },
     {
       "name": "Communication and stakeholder management",
+      "level": "Advanced",
       "keywords": [
         "communication plan",
         "influence analysis",
@@ -823,6 +833,7 @@
     },
     {
       "name": "Technical tools and platforms",
+      "level": "Advanced",
       "keywords": [
         "Microsoft 365",
         "SharePoint",
@@ -848,6 +859,7 @@
     },
     {
       "name": "IT service management and operations",
+      "level": "Advanced",
       "keywords": [
         "ITIL",
         "incident management",
@@ -884,7 +896,12 @@
       "startDate": "2024-09-01",
       "summary": "I coordinate board meetings, annual meetings, prepare agendas, and follow up on decisions made. I also represent the club externally in meetings with the municipality, sports associations, and the Norwegian Table Tennis Federation. Good financial management is a central part of my role, where I am responsible for budgeting, reporting, and applying for financial support. I organize training sessions, recruit qualified coaches, and facilitate player development at all levels. Planning and executing club tournaments as well as coordinating participation in external tournaments also fall under my responsibilities. I actively work to recruit new members through marketing and various recruitment activities. Furthermore, I ensure the maintenance of equipment, tables, and training facilities. An important part of my leadership is creating a positive environment in the club through social activities and good communication among members.",
       "highlights": [
-        "Reelected for this position is an indication that the members are pleased with how I am performing my duties"
+        "Planned and led the annual meeting with complete case documentation and minutes.",
+        "Budget management, accounting follow-up, and grant applications to NIF and the municipality.",
+        "Sports plan, coach agreements, and court time allocation in the hall.",
+        "Organized club tournaments and coordinated league play and licensing.",
+        "Recruitment through school collaboration and open-day events.",
+        "Equipment management: tables, rubbers, barriers, and secure storage."
       ]
     },
     {
@@ -893,7 +910,11 @@
       "startDate": "2021-07-01",
       "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
       "highlights": [
-        "Reelected for this position on several occations, is an indication that the members are pleased with how I am performing my duties"
+        "Annual cycle for operations, budgeting, and liquidity forecasts.",
+        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
+        "Maintenance plan with FM documentation and financial provisions.",
+        "Case handling and resident communication through digital channels.",
+        "Planning and execution of the annual meeting with minutes."
       ]
     },
     {
@@ -1142,10 +1163,11 @@
       "startDate": "2025-06-04",
       "summary": "As advisor at Enebakk municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
       "highlights": [
-        "Management of digitalization projects in Enebakk Municipality, focusing on streamlining and improving municipal services through digitalization.",
-        "Leader of the portfolio team coordinating and prioritizing digitalization initiatives to ensure alignment with the municipality's strategic goals.",
-        "Head of the PMO (Project/Portfolio Management Office), establishing and maintaining project management standards and procedures to ensure successful project delivery.",
-        "Heading the work on enterprise architecture in Enebakk municipality, ensuring that IT systems and infrastructure are aligned with the municipality's strategic goals and support efficient service delivery."
+        "Established a PMO with shared methodology, templates, and governance structure (PRINCE2/Agile hybrid).",
+        "Portfolio management with prioritization criteria, capacity planning, and benefit mapping.",
+        "Service development using insight-based service design and target states (KPI/OKR).",
+        "Benefits realization with measurement plans, baseline, and effect tracking against political goals.",
+        "Integrated information security and privacy into the project lifecycle (ISO 27001/GDPR)."
       ]
     },
     {
@@ -1168,7 +1190,10 @@
       "startDate": "2024-10-01",
       "summary": "Hired as a project manager at Prosperastiftelsen. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and PRINCE2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
       "highlights": [
-        "Being asked to manage several projects indicates that Prosperastiftelsen are happy with my performance as project manager"
+        "Operational leadership of cross-functional teams (1-5 FTE) with a clear milestone plan.",
+        "PRINCE2 governance: business case, decision log, and deviation management.",
+        "Agile execution with sprint planning, demo, and retrospective.",
+        "Deliveries on time and budget with documented impact for the recipient."
       ]
     },
     {
@@ -1266,7 +1291,7 @@
       "position": "Project Manager/Scrum Master/Senior Software Developer",
       "url": "https://home.sharecat.com/",
       "startDate": "2013-02-01",
-      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using Prince2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
+      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using PRINCE2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
       "endDate": "2015-04-01",
       "highlights": [
         "Scrum Master for distributed teams with continuous delivery.",
@@ -1402,7 +1427,7 @@
       ]
     },
     {
-      "name": "B�.DE OG RADIOREKLAMEBYR�.",
+      "name": "BÅDE OG RADIOREKLAMEBYRÅ",
       "position": "IT Consultant",
       "url": "https://www.ikke.no",
       "startDate": "1994-06-01",
@@ -1439,3 +1464,6 @@
     }
   ]
 }
+
+
+
