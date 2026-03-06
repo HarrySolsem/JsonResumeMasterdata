@@ -243,7 +243,7 @@
       "description": "Karemo is a job-seeker CRM designed to help users manage applications, job postings, contacts, documents, interviews, tasks, and follow-ups in one place. The project focuses on a simple and fast user experience, structured domain modules (timeline, reminders/tasks, documents, interview logs, salary negotiations, competence items), and reliable local persistence. The solution is built as a modular .NET desktop application with clear separation between domain logic, data access, and UI, and is intended to integrate well with external profile/CV assets (e.g., CVSmia) through links and shared information architecture.",
       "url": "https://karemo.solsem.no",
       "entity": "Solsem Consulting",
-      "endDate": "2026-12-31",
+      "endDate": "2030-12-31",
       "roles": [
         "project lead",
         "product owner",
@@ -266,7 +266,7 @@
       "description": "CVSmia is a digital project to develop and operate a modern CV management system for job seekers, consultants, and advisors. The project focuses on structured content (JsonResume-based CV data), reusable components, and clear presentation of profiles, skills, and projects. The solution is built to help job seekers, consultants, and advisors create, manage, and share their CVs in a digital format that is easy for recruiters and employers to read.",
       "url": "https://cvsmia.solsem.no",
       "entity": "Solsem Consulting",
-      "endDate": "2026-12-31",
+      "endDate": "2030-12-31",
       "roles": [
         "project lead",
         "product owner",
@@ -1348,7 +1348,12 @@
       "url": "https://sc.solsem.no",
       "startDate": "2008-03-01",
       "summary": "Consulting services in software development, organizational development, business development, and related services.",
-      "endDate": "2070-06-13"
+      "endDate": "2070-06-13",
+      "highlights": [
+        "Provided software development and organizational consulting services.",
+        "Advised on business development strategies and operational improvements.",
+        "Delivered services in software development to Umoe Mandal AS over a period of 20 years."
+      ]
     },
     {
       "name": "Umoe Mandal AS",
@@ -1467,6 +1472,3 @@
     }
   ]
 }
-
-
-

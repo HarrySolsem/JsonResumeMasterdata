@@ -391,7 +391,7 @@
     {
       "name": "Karemo",
       "description": "Karemo er en CRM for jobbsøkere som hjelper brukere med å håndtere søknader, stillingsannonser, kontakter, dokumenter, intervjuer, oppgaver og oppfølging i ett system. Prosjektet fokuserer på en enkel og rask brukeropplevelse, strukturerte domenemoduler (tidslinje, påminnelser/oppgaver, dokumenter, intervjulogger, lønnsforhandling, kompetansepunkter) og stabil lokal persistens. Løsningen er bygget som en modulær .NET-desktopapplikasjon med tydelig separasjon mellom domenelogikk, datalag og UI, og er tiltenkt god integrasjon med eksterne profil-/CV-ressurser (f.eks. CVSmia) via lenker og felles informasjonsarkitektur.",
-      "url": "https://solsem.karemo.no",
+      "url": "https://karemo.solsem.no",
       "entity": "Solsem Consulting",
       "roles": [
         "prosjektleder",
@@ -409,12 +409,12 @@
         "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
       ],
       "startDate": "2024-01-01",
-      "endDate": "2026-12-31"
+      "endDate": "2030-12-31"
     },
     {
       "name": "CVSmia",
       "description": "CVSmia er et digitalt prosjekt for å utvikle og drifte et moderne system for CV-håndtering for jobbsøkere, konsulenter og rådgivere. Prosjektet fokuserer på strukturert innhold (JsonResume-basert CV-data), gjenbrukbare komponenter og tydelig presentasjon av profil, ferdigheter og prosjekter. Løsningen er bygget for å hjelpe jobbsøkere, konsulenter og rådgivere å opprette, forvalte og dele CV-er i et digitalt format som er lett å lese og forstå for rekrutterere og arbeidsgivere.",
-      "url": "https://solsem.cvsmia.no",
+      "url": "https://cvsmia.solsem.no",
       "entity": "Solsem Consulting",
       "roles": [
         "prosjektleder",
@@ -434,7 +434,7 @@
         "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
       ],
       "startDate": "2025-01-01",
-      "endDate": "2026-12-31"
+      "endDate": "2030-12-31"
     },
     {
       "name": "Kunstnernettverk",
@@ -965,7 +965,13 @@
       "url": "https://sc.solsem.no",
       "startDate": "2008-03-01",
       "summary": "Konsulenttjenester innen programvareutvikling, organisasjonsutvikling, bedriftsutvikling og relaterte tjenester",
-      "endDate": "2070-06-13"
+      "endDate": "2070-06-13",
+      "highlights": [
+        "Programvareutvikling: design, implementering og vedlikehold av skreddersydde løsninger.",
+        "Organisasjonsutvikling: rådgivning og støtte for å forbedre struktur, kultur og prosesser.",
+        "Bedriftsutvikling: strategisk rådgivning for vekst, innovasjon og konkurranseevne.",
+        "Leverte konsulenttjenester til Umoe Mandal AS over en periode på 20 år"
+      ]
     },
     {
       "name": "Umoe Mandal AS",
@@ -1467,6 +1473,3 @@
     }
   ]
 }
-
-
-
