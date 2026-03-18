@@ -1,6 +1,12 @@
 {
   "certificates": [
     {
+      "name": "DI2X Train the Trainer",
+      "date": "2026-03-16",
+      "issuer": "DI2X Institute",
+      "url": "https://app.diplomasafe.com/en-US/certificates/dd0e91811ffe2fd82660033f698c587061697ecb1"      
+    },
+    {
       "name": "PRINCE2 MoP, Management of Portfolios Foundation",
       "date": "2025-11-12",
       "issuer": "PeopleCert",
