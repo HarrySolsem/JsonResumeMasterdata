@@ -4,13 +4,12 @@
     "name": "Harry Solsem",
     "label": "Technologist | Leadership | ISO27001 | Team Leader | Project Manager | Digital Product Development | Change Management | Enterprise Architect",
     "summary": "With over 30 years of leadership experience, including technical and administrative roles in companies such as DNB, Riverty, Neonomics, and Enebakk Municipality. I have Leadership experience: Led teams of up to 50 employees, Managed full responsibility for personnel, budget, and results, provided leadership across multiple organizations. Key areas of expertise: Team leadership, Product development, IT project management. Notable Companies: DNB, Riverty, Neonomics, Sharecat Solutions",
-    "picture": "https://avatars.githubusercontent.com/u/2042298?v=4",
     "image": "https://avatars.githubusercontent.com/u/2042298?v=4",
     "email": "harry.solsem@solsem.no",
     "phone": "+47 91 60 46 00",
     "url": "https://harry.solsem.no",
     "location": {
-      "address": "Teglverksfaret 16",
+      "address": "Hilda Langhusvei 7",
       "postalCode": "1405",
       "city": "Langhus",
       "countryCode": "NO",
@@ -30,6 +29,12 @@
     ]
   },
   "certificates": [
+    {
+      "name": "DI2X Train the Trainer",
+      "date": "2026-03-16",
+      "issuer": "DI2X Institute",
+      "url": "https://app.diplomasafe.com/en-US/certificates/dd0e91811ffe2fd82660033f698c587061697ecb1"      
+    },
     {
       "name": "PRINCE2 Management of Portfolios, MoP®",
       "date": "2025-11-12",
@@ -622,20 +627,7 @@
     }
   ],
   "publications": [],
-  "references": [
-    {
-      "name": "Thor Milde",
-      "reference": "Harry is engaged, outgoing, and knowledgeable. As a project manager in a fast-paced and complex organization, he skillfully navigated projects involving multiple suppliers, deliveries, and locations. Harry is engaged, outgoing, and knowledgeable. As a project manager in a fast-paced and complex organization, he skillfully navigated projects involving multiple suppliers, deliveries, and locations."
-    },
-    {
-      "name": "Tom Kenneth Fossheim",
-      "reference": "Harry contributed well in our company by filling several roles, including senior developer, scrum master and project manager. He helped improve our processes and worked dilligently to ensure compliance with best practise methodologies. As project manager he contributed on one of our largest implementation projects to date. Harry was a loyal and talented employee who always strove to improve the way we work"
-    },
-    {
-      "name": "Lars Søraas",
-      "reference": "Harry is an experienced scrum master and agile practitioner. He is very professional, and efficiently keeps the team focused and on track. It is always a pleasure working with him, and he has my recommendations."
-    }
-  ],
+  "references": [],
   "skills": [
     {
       "name": "Project and portfolio management",
@@ -906,9 +898,23 @@
       ]
     },
     {
+      "organization": "JM Hilda Langhus vei 7-9 Housing Association",
+      "position": "Board Member",
+      "startDate": "2026-05-27",
+      "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
+      "highlights": [
+        "Annual cycle for operations, budgeting, and liquidity forecasts.",
+        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
+        "Maintenance plan with FM documentation and financial provisions.",
+        "Case handling and resident communication through digital channels.",
+        "Planning and execution of the annual meeting with minutes."
+      ]
+    },
+    {
       "organization": "Langhus 1405 Housing Association",
       "position": "Board Member",
       "startDate": "2021-07-01",
+      "endDate": "2026-04-13",      
       "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
       "highlights": [
         "Annual cycle for operations, budgeting, and liquidity forecasts.",
@@ -1190,6 +1196,7 @@
       "position": "Project Manager",
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2024-10-01",
+      "endDate": "2025-10-01",
       "summary": "Hired as a project manager at Prosperastiftelsen. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and PRINCE2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
       "highlights": [
         "Operational leadership of cross-functional teams (1-5 FTE) with a clear milestone plan.",
