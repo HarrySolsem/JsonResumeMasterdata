@@ -464,7 +464,7 @@
       "startDate": "2025-09-05",
       "description": "Prosjekt som som har som mandat å innføre eADM i Enebakk kommune. eADM er et verktøy for identifisering og tilgangsstyring. Dette skal være et verktøy for automatisering av tilgangsstyring i kommunen.",
       "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
+      "entity": "Enebakk Kommune",
       "endDate": "2030-12-31",
       "roles": [
         "prosjektdeltager"
@@ -545,7 +545,7 @@
     {
       "name": "RELOVE V25",
       "startDate": "2025-02-01",
-      "description": "RELOVE needs effective methods to document and showcase its societal value. This is crucial both to ensure continued support and to communicate the organization's significance in the local community. In the long term, RELOVE aims to qualify for a permanent position in the state budget. The pro bono team will therefore assist RELOVE in articulating their core business and identity in a clear and concise manner. The team will develop a few concise statements that capture the essence of RELOVE's operations, define the concrete value creation from RELOVE's various activity areas, and establish systematic measurement routines to document the organization's impact and results going forward, for example, through structured registration of recycled textile volumes or the number of young people entering employment.",
+      "description": "RELOVE trenger gode metoder for å dokumentere og synliggjøre hvilken verdi organisasjonen skaper for samfunnet. Dette er viktig både for å sikre videre støtte og for å tydeliggjøre hvilken betydning RELOVE har i lokalsamfunnet. På lengre sikt er målet at RELOVE skal kunne kvalifisere for en fast bevilgning over statsbudsjettet. Pro bono-teamet skal derfor hjelpe RELOVE med å formulere tydelig hva organisasjonen er, hva den gjør og hvilken verdi den skaper. Teamet skal utvikle noen korte og presise budskap som beskriver kjernen i RELOVEs virksomhet, konkretisere verdien som skapes gjennom de ulike aktivitetene og etablere systematiske rutiner for å måle og dokumentere resultater og samfunnseffekt over tid. Dette kan for eksempel være å registrere hvor store mengder tekstiler som blir gjenbrukt, eller hvor mange unge som kommer i arbeid som følge av RELOVEs aktiviteter.",
       "url": "https://www.relove.info",
       "entity": "Prosperastiftelsen",
       "endDate": "2025-06-01",
@@ -563,7 +563,7 @@
     {
       "name": "OOF H24 - Økonomi og Virksomhetsstyring",
       "startDate": "2024-10-01",
-"description": "The purpose of this project is to assist OOF in selecting and implementing digital tools that will streamline and simplify administrative and operational processes. OOF aims to minimize manual tasks while strengthening its ability to maintain oversight and control within key functions such as time tracking, budget management, accounting, and project management.",
+      "description": "Formålet med dette prosjektet er å bistå OOF med å velge og ta i bruk digitale verktøy som kan effektivisere og forenkle administrative og operative prosesser. OOF ønsker å redusere omfanget av manuelle oppgaver, samtidig som organisasjonens evne til å sikre god oversikt og kontroll innen sentrale områder som timeføring, budsjettstyring, regnskap og prosjektstyring styrkes.",
       "url": "https://www.osloogomlandfriluftsrad.no/",
       "entity": "Prosperastiftelsen",
       "endDate": "2025-01-01",
@@ -580,7 +580,7 @@
     {
       "name": "Sanering av gammelt loggverktøy og utrulling av agenter",
       "startDate": "2020-07-01",
-"description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "description": "Prosjektets mandat var å sanere gammel maskinvare, etablere ny maskinvare og rulle ut ulike sikkerhetsrelaterte agenter på flere tusen servere. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Jeg koordinerte ressurser både internt og hos våre samarbeidspartnere. Som følge av situasjonen i landet ble arbeidet i stor grad gjennomført via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -597,7 +597,7 @@
     {
       "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
       "startDate": "2020-07-01",
-"description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDoS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "description": "Prosjektets mandat er å identifisere behov, anskaffe og implementere løsninger samt etablere styringsdokumenter som bidrar til økt oppmerksomhet på sikkerhet gjennom hele livssyklusen til programvare som utvikles internt og av våre samarbeidspartnere. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Jeg koordinerte ressurser både internt og hos våre samarbeidspartnere. Leverandørdialogen omfattet blant annet beskrivelse av krav og gjennomføring av leverandørvurderinger. På grunn av situasjonen i landet ble disse oppgavene i stor grad gjennomført via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -612,9 +612,9 @@
       ]
     },
     {
-      "name": "IAM - Cleanup and Compliance",
+      "name": "IAM - Opprydding og etterlevelse",
       "startDate": "2020-06-01",
-      "description": "The project's mandate is to implement extended automation of access management using ServiceNow, IIQ, and other relevant tools. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "description": "Prosjektets mandat var å implementere økt automatisering av tilgangsstyring ved hjelp av ServiceNow, IIQ og andre relevante verktøy. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Som følge av situasjonen i landet ble arbeidet i stor grad gjennomført via Microsoft Teams.",
       "url": "https://harry.solsem.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
@@ -665,7 +665,7 @@
     {
       "name": "Ny bedriftsportal",
       "startDate": "2018-01-01",
-      "description": "Scrum Master for this development project. Performed the tasks associated with the role according to the Scrum Guide. Additionally, introduced and trained participants in agile methodologies, both within the IT organization and among participants from other business areas.",
+      "description": "Scrum Master for dette utviklingsprosjektet, med ansvar for oppgavene som følger rollen i henhold til Scrum Guide. I tillegg introduserte og lærte jeg opp deltakerne i smidige arbeidsmetoder, både i IT-organisasjonen og blant deltakere fra andre deler av virksomheten.",
       "url": "https://harry.solsem.no",
       "endDate": "2019-01-01",
       "entity": "DNB",
@@ -967,7 +967,7 @@
     },
     {
       "name": "Solsem Consulting",
-      "position": "Entrepreneur / Software Developer/Advisor",
+      "position": "Entreprenør / Programvareutvikler / Rådgiver",
       "url": "https://sc.solsem.no",
       "startDate": "2002-08-01",
       "summary": "Konsulenttjenester innen programvareutvikling, organisasjonsutvikling, bedriftsutvikling og relaterte tjenester",
@@ -1108,7 +1108,7 @@
     },
     {
       "language": "Engelsk",
-      "fluency": "Full professional proficiency",
+      "fluency": "Profesjonelt nivå",
       "native": false,
       "keywords": [
         "Engelsk",
@@ -1120,7 +1120,7 @@
   "education": [
     {
       "institution": "Handelshøyskolen BI",
-      "area": "Management",
+      "area": "Ledelse",
       "url": "https://www.bi.no",
       "studyType": "Bachelor",
       "startDate": "2018-01-01",
@@ -1134,7 +1134,7 @@
     },
     {
       "institution": "Universitetet i Agder (UiA)",
-      "area": "Software Engineering",
+      "area": "Programvareutvikling",
       "url": "https://www.uia.no",
       "studyType": "Bachelor",
       "startDate": "1999-08-01",
@@ -1149,7 +1149,7 @@
     },
     {
       "institution": "NHI, Norges Høyskole for Informasjonsteknologi",
-      "area": "Computer Science",
+      "area": "Informatikk",
       "studyType": "Linje for administrativ databehandling",
       "startDate": "1992-08-01",
       "score": "",
