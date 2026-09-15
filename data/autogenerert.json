@@ -1,1 +1,399 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "basics": {
+    "name": "Harry Solsem",
+    "label": "Teknologileder og IT-prosjektleder",
+    "summary": "Teknologileder med erfaring fra personalledelse, smidig prosjektgjennomføring og systemutvikling. Har ledet utviklingsteam, rekruttering og kompetanseutvikling, og arbeidet med betalingsløsninger, bank, telekommunikasjon og systemer for olje- og gassindustrien. Har også erfaring med tariffarbeid, veiledning og prosjektledelse for ideelle organisasjoner.",
+    "location": {
+      "city": "Langhus",
+      "postalCode": "1405",
+      "countryCode": "NO"
+    }
+  },
+  "work": [
+    {
+      "name": "Riverty Group Norway AS",
+      "position": "Tech Hub Lead",
+      "startDate": "2023-09-18",
+      "endDate": "2024-05-31",
+      "location": "Oslo",
+      "summary": "Ansvar for å utvikle Oslo Tech Hub og følge opp fagmiljøet innen programvareutvikling og kvalitetssikring.",
+      "highlights": [
+        "Rekrutterte teknologer i samarbeid med People & Culture og bidro til arbeid med arbeidsgiverprofilering.",
+        "Hadde ansvar for introduksjon av nyansatte og integrering i tverrfaglige produktteam.",
+        "Veiledet medarbeidere og støttet læring, utvikling og prestasjoner.",
+        "Representerte Riverty i fintech-miljøet i Oslo og samarbeidet med selskapets øvrige teknologimiljøer."
+      ]
+    },
+    {
+      "name": "Neonomics AS",
+      "position": "Engineering Manager og Scrum Master",
+      "startDate": "2021-08-01",
+      "endDate": "2023-03-31",
+      "summary": "Ledet to team og hadde personalansvar og ansvar for rekruttering.",
+      "highlights": [
+        "Var Scrum Master for prosjektteamet som utviklet Checkout MVP.",
+        "Ledet deretter betalingsteamet som tok løsningen fra MVP til produksjon."
+      ]
+    },
+    {
+      "name": "KPMG AS",
+      "position": "Senior Manager",
+      "location": "Oslo",
+      "startDate": "2021-02-01",
+      "endDate": "2021-06-30",
+      "summary": "Arbeidet i Advisory innen tjenesteområdet Digital Platforms.",
+      "highlights": [
+        "Hadde ansvar for å videreutvikle KPMGs rammeverk for smidig prosjektgjennomføring.",
+        "Arbeidet med kundetilbud og bidro på tvers av fagavdelinger.",
+        "Anvendte kompetanse innen smidig utvikling og Scrum."
+      ]
+    },
+    {
+      "name": "DNB Bank ASA",
+      "position": "IT-prosjektleder",
+      "startDate": "2017-10-09",
+      "endDate": "2021-01-31",
+      "summary": "IT-prosjektleder ved Security Services i Technology & Services."
+    },
+    {
+      "name": "Web Services Technology AS",
+      "position": "Systemutvikler",
+      "startDate": "2015-05-01",
+      "endDate": "2017-10-06",
+      "summary": "Videreutviklet eksisterende systemer og utførte oppgaver knyttet til drift av løsningene."
+    },
+    {
+      "name": "Sharecat Solutions AS",
+      "position": "Senior Developer, Project Manager og Scrum Master",
+      "startDate": "2013-02-04",
+      "endDate": "2015-04-30",
+      "summary": "Innleid fra 4. februar 2013 og fast ansatt fra 1. april 2013. Arbeidet med systemer for informasjonshåndtering i olje- og gassindustrien.",
+      "highlights": [
+        "Utviklet kjernesystemer i .NET og Visual Basic 6.",
+        "Var Scrum Master for flere team og bidro til å forbedre arbeidsmetodikken.",
+        "Ledet et større implementeringsprosjekt for selskapets største kunde."
+      ]
+    },
+    {
+      "name": "Ventelo",
+      "position": "Softwareutvikler",
+      "startDate": "2010-03-08",
+      "endDate": "2012-06-30",
+      "summary": "Utviklet programvare for støttesystemer og front-end-løsninger.",
+      "highlights": [
+        "Utviklet kundeapplikasjoner for abonnementsoversikt, bestillinger og tjenester.",
+        "Arbeidet med interne kunde- og ordresystemer."
+      ]
+    },
+    {
+      "name": "Engineering Systems AS",
+      "position": "Software Engineer",
+      "startDate": "2008-09-01",
+      "endDate": "2010-03-05",
+      "summary": "Utviklet applikasjoner for prosjektgjennomføring hos leverandører til olje- og gassindustrien.",
+      "highlights": [
+        "Utviklet nye applikasjoner med .NET, C# og Windows SharePoint Services.",
+        "Utviklet tilleggsfunksjoner og rapportering for eksisterende applikasjoner."
+      ]
+    },
+    {
+      "name": "Comunic AS",
+      "position": "Utvikler",
+      "startDate": "2008-03-01",
+      "endDate": "2008-08-31",
+      "summary": "Deltok i utvikling av interne systemer og kundeprosjekter. Utførte også support og rutineoppgaver knyttet til utviklingsarbeidet."
+    },
+    {
+      "name": "Intershare Systems",
+      "position": "Utvikler",
+      "startDate": "2001-10-29",
+      "endDate": "2002-08-31",
+      "highlights": [
+        "Arbeidet med analyse, design, databasemodellering og brukergrensesnitt.",
+        "Programmerte i Microsoft Visual C++ og utførte kundesupport."
+      ]
+    },
+    {
+      "name": "IT-Vikar AS",
+      "position": "Innleid systemutvikler",
+      "startDate": "2000-08-14",
+      "endDate": "2001-10",
+      "summary": "Dokumenterte kundeoppdrag hos Allianse Intersoft og Sense Technology.",
+      "highlights": [
+        "Allianse Intersoft, 14.08.2000–30.04.2001: videreutvikling av utleiesystemer i Microsoft Visual C++, analyse og design samt databaser i Sybase SQL Anywhere.",
+        "Sense Technology, mai–oktober 2001: systemutvikling i Microsoft Visual Basic, OCX-utvikling i Microsoft Visual C++ og brukergrensesnittdesign."
+      ]
+    },
+    {
+      "name": "EDB-Avdelingen Sør AS",
+      "position": "EDB-konsulent",
+      "startDate": "1997-08-01",
+      "endDate": "2001-08-31",
+      "highlights": [
+        "Utførte systemutvikling i VBA og deltok i programmeringsprosjekter i ANSI C.",
+        "Feilsøkte og vedlikeholdt databasesystemer.",
+        "Installerte og vedlikeholdt datasystemer og nettverk for kunder."
+      ]
+    },
+    {
+      "name": "Manpower AS",
+      "position": "Brukerstøtte og IT-drift",
+      "startDate": "1995-03-01",
+      "endDate": "1997-06",
+      "summary": "Arbeidet i avdeling EDB-Drift med brukerstøtte og drift av nettverk og arbeidsstasjoner.",
+      "highlights": [
+        "Driftet NetWare WAN i et miljø med over 300 brukere fordelt på 26 kontorer.",
+        "Implementerte Windows 95, installerte Windows NT Server og konfigurerte nettverksskrivere med HP JetDirect."
+      ]
+    },
+    {
+      "name": "PC Land Software",
+      "position": "Prosjektdeltaker",
+      "startDate": "1995-02",
+      "endDate": "1995-03",
+      "summary": "Deltok i oppstarten av Winlønn, et Windows-basert lønnssystem utviklet i Microsoft Visual FoxPro 3.0."
+    },
+    {
+      "name": "Total Consept AS",
+      "position": "Systemutvikler",
+      "startDate": "1994-08",
+      "endDate": "1994-11",
+      "highlights": [
+        "Utviklet databaser og brukergrensesnitt og fulgte opp kunder.",
+        "Implementerte løsninger fra kravspesifikasjoner i Visual Basic."
+      ]
+    },
+    {
+      "name": "Baade Og Radioreklamebyrå AS",
+      "position": "EDB-konsulent",
+      "startDate": "1994-06",
+      "endDate": "1994-07",
+      "summary": "Planla og installerte nettverk, konfigurerte PC-er og standardprogramvare og ga brukerstøtte."
+    },
+    {
+      "name": "NHI-Datahøgskolen",
+      "position": "Veileder og lærerassistent",
+      "startDate": "1994",
+      "endDate": "1994",
+      "summary": "Veileder og lærerassistent i algoritmer og datastrukturer våren 1994. Bidro til undervisning og hjalp medstudenter."
+    },
+    {
+      "name": "Luftforsvaret",
+      "position": "LKR-assistent i førstegangstjeneste",
+      "startDate": "1990-06-25",
+      "endDate": "1991-06-07",
+      "highlights": [
+        "Deltok i driften av bataljonens luftvernkontrollrom med operative meldinger, loggføring og sambandskontroll.",
+        "Hadde kommando over underlagt personell i LKR-laget og tjenestegjorde som sjåfør i avdelingen."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Prosperastiftelsen",
+      "position": "Pro bono-prosjektleder for RELOVE",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "Ledet prosjektet for RELOVE våren 2025 med mål om å tydeliggjøre budskap og synliggjøre samfunnsnytte.",
+      "highlights": [
+        "Teamet utarbeidet en impactrapport som konkretiserte verdien av RELOVEs arbeid.",
+        "Oppdraget omfattet grafisk profil, beskrivelse av aktivitetenes verdi og rutiner for videre måling av samfunnseffekt."
+      ]
+    },
+    {
+      "organization": "Prosperastiftelsen",
+      "position": "Pro bono-prosjektleder for Oslo og Omland Friluftsråd",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Ledet prosjektet for Oslo og Omland Friluftsråd høsten 2024. Oppdraget gjaldt digitale verktøy for administrasjon og drift.",
+      "highlights": [
+        "Prosjektmandatet omfattet behovskartlegging, vurdering av Tripletex og plan for implementering og opplæring."
+      ]
+    },
+    {
+      "organization": "NITO",
+      "position": "Medlem av tariffutvalget NITO Privat",
+      "startDate": "2015-03-05",
+      "endDate": "2023-12-31",
+      "highlights": [
+        "Forberedte og gjennomførte sentrale tariffavtaleforhandlinger i privat sektor.",
+        "Bidro til utforming av tariffpolitikk og krav og ga råd til hovedstyret i tariffrelaterte saker.",
+        "Bisto lokale tariffledd og bidro på møteplasser med tariffrelatert innhold."
+      ]
+    },
+    {
+      "organization": "Sharecat Solutions AS",
+      "position": "Tillitsvalgt",
+      "summary": "Attesten fra 30. april 2015 oppgir tillitsvalgt blant rollene. Egen periode for vervet er ikke angitt."
+    },
+    {
+      "organization": "Agder Fotballkrets",
+      "position": "Dommerinstruktør, dommerveileder og mentor",
+      "startDate": "2001",
+      "summary": "Engasjert som dommerinstruktør etter gjennomført kurs i 2001. Veiledet nye og etablerte dommere og var mentor for rekrutteringsdommere. Dokumentert i attest datert 11. mai 2012; sluttdato er ikke oppgitt."
+    }
+  ],
+  "education": [
+    {
+      "institution": "NITO",
+      "area": "Lederskolen",
+      "studyType": "Fullført kurs",
+      "endDate": "2024-08-15",
+      "courses": [
+        "God ledelse – hva skal til for å lykkes?",
+        "Selvledelse",
+        "Teamledelse",
+        "Kommunikasjon",
+        "Stress – din venn eller fiende?"
+      ]
+    },
+    {
+      "institution": "NHI-Datahøgskolen",
+      "area": "Databehandling",
+      "studyType": "Toårig grunnstudium",
+      "startDate": "1992",
+      "endDate": "1994",
+      "courses": [
+        "Programmering og datamaskinlære",
+        "Algoritmer og datastrukturer",
+        "Databaser",
+        "Systemutvikling og applikasjonsutvikling",
+        "Datakommunikasjon og operativsystemer",
+        "Organisasjon, samarbeid og ledelse",
+        "Administrasjonslære, bedriftsøkonomi og markedsføring",
+        "Prosjektoppgave"
+      ]
+    },
+    {
+      "institution": "Eu Da",
+      "area": "Salgstekniker EDB",
+      "studyType": "Kurs på 715 timer",
+      "courses": [
+        "PC-montering, feilsøking og installasjon",
+        "Nettverk og nettverksservere",
+        "Kontorprogramvare og planleggingsverktøy",
+        "Salgskurs"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "PRINCE2 Foundation Examination",
+      "date": "2014-09-03",
+      "issuer": "APMG International"
+    },
+    {
+      "name": "ITIL Foundation Certificate in IT Service Management",
+      "date": "2012-11-14",
+      "issuer": "PEOPLECERT"
+    },
+    {
+      "name": "Certified ScrumMaster (CSM) – dokumentert gyldig til 29.01.2016",
+      "date": "2010-01-27",
+      "issuer": "Scrum Alliance"
+    },
+    {
+      "name": "Dommerinstruktørkurs",
+      "date": "2001",
+      "issuer": "Norges Fotballforbund"
+    },
+    {
+      "name": "Grunnkurs for vektere – kurs II/90, 91 undervisningstimer",
+      "date": "1991-04-02",
+      "issuer": "Norsk Sikkerhetsinstitutt"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Ledelse og prosjektgjennomføring",
+      "keywords": [
+        "IT-prosjektledelse",
+        "Personalledelse",
+        "Teamledelse",
+        "Rekruttering",
+        "Introduksjon av nyansatte",
+        "Kompetanseutvikling",
+        "Scrum",
+        "Smidig utvikling",
+        "Prosessforbedring"
+      ]
+    },
+    {
+      "name": "Systemutvikling",
+      "keywords": [
+        "C#",
+        ".NET",
+        "Visual Basic",
+        "VBA",
+        "Visual C++",
+        "ANSI C",
+        "Visual FoxPro",
+        "Windows SharePoint Services",
+        "Analyse og design",
+        "Brukergrensesnittdesign"
+      ]
+    },
+    {
+      "name": "Databaser",
+      "keywords": [
+        "Databasemodellering",
+        "Microsoft Access",
+        "Oracle",
+        "Sybase SQL Anywhere",
+        "Rapportutvikling",
+        "Feilsøking og vedlikehold"
+      ]
+    },
+    {
+      "name": "IT-drift og brukerstøtte",
+      "keywords": [
+        "Systemdrift",
+        "Nettverksdrift",
+        "Programvareinstallasjon",
+        "Brukerstøtte",
+        "Windows NT Server",
+        "NetWare"
+      ]
+    },
+    {
+      "name": "Veiledning og organisasjonsarbeid",
+      "keywords": [
+        "Undervisning",
+        "Mentorarbeid",
+        "Kommunikasjon",
+        "Tarifforhandlinger",
+        "Partssamarbeid"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Databaseutvikling for Kværner Mandal",
+      "entity": "Kværner Mandal AS",
+      "roles": [
+        "Innleid systemutvikler"
+      ],
+      "startDate": "1998-01",
+      "endDate": "1999-02",
+      "description": "Modellerte databaser og implementerte Microsoft Access-front-end mot Oracle. Utviklet i VBA og arbeidet med brukergrensesnitt, brukerinteraksjon og rapportdesign.",
+      "type": "Kundeoppdrag"
+    },
+    {
+      "name": "Programvareutvikling hos Sivilingeniør Kjell G. Knutsen",
+      "entity": "Sivilingeniør Kjell G. Knutsen AS",
+      "roles": [
+        "Prosjektdeltaker innen programvareutvikling"
+      ],
+      "startDate": "1998-02",
+      "endDate": "1998-05",
+      "description": "Utviklet programvare i ANSI C på Sun SPARC/Solaris. Brukte MKS Source Integrity, MKS Visual Difference og Purify.",
+      "type": "Kundeoppdrag"
+    }
+  ],
+  "meta": {
+    "language": "nb",
+    "version": "1.0.0"
+  }
+}
 
