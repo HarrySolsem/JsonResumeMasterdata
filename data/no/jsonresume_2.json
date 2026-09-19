@@ -127,8 +127,8 @@
     {
       "organization": "Prosperastiftelsen",
       "position": "Pro bono-prosjektleder for RELOVE",
-      "startDate": "2025",
-      "endDate": "2025",
+      "startDate": "2025-02-01",
+      "endDate": "2025-06-01",
       "summary": "Ledet prosjektet for RELOVE våren 2025 med mål om å tydeliggjøre budskap og synliggjøre samfunnsnytte.",
       "highlights": [
         "Teamet utarbeidet en impactrapport som konkretiserte verdien av RELOVEs arbeid.",
@@ -140,7 +140,7 @@
       "position": "Pro-bono konsulent",
       "url": "https://www.prosperastiftelsen.no",
       "startDate": "2024-10-01",
-      "endDate": "2026-02-29",
+      "endDate": "2026-06-01",
       "summary": "Prosjektmentor og prosjektleder for en rekke prosjekter innen organisasjonsutvikling og digitalisering. Arbeidet innebærer å gi veiledning og støtte til prosjektledere og team for å sikre vellykket planlegging, gjennomføring og fullføring av prosjekter. Jeg deler beste praksis innen prosjektledelse, gir råd om hvordan",
       "highlights": [
         "Prosjektleder for to prosjekter innen organisasjonsutvikling og digitalisering.",
@@ -390,7 +390,7 @@
     {
       "organization": "NFF Agder",
       "position": "Fotballdommerinstruktør",
-      "url": "https://nito.no/",
+      "url": "https://fotball.no/",
       "startDate": "2001-01-01",
       "endDate": "2012-05-11",
       "summary": "Fotballdommerinstruktør i NFF Agder. Ansvarlig for å planlegge og holde dommerkurs og rekruttering, utføre kampobservasjoner med strukturert tilbakemelding og oppfølge dommerutviklingsplaner.",
@@ -465,7 +465,6 @@
       "description": "Prosjektet skal utarbeide en overordnet strategi for tjenesteutvikling i Enebakk kommune. Strategien skal bidra til å sikre at kommunen utvikler tjenester som er i tråd med innbyggernes behov og forventninger, samtidig som den tar hensyn til kommunens ressurser og kapasiteter. Strategien skal også legge til rette for innovasjon og kontinuerlig forbedring av tjenestene.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
-      "endDate": "2030-12-31",
       "roles": [
         "prosjektleder"
       ],
@@ -483,7 +482,7 @@
       "description": "Prosjektet har som mål å innføre nye trygghetsalarmer i Enebakk kommune. Dette inkluderer innkjøp, konfigurering og utrulling av alarmene, samt opplæring av ansatte i bruk av systemet.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
-      "endDate": "2030-12-31",
+      "endDate": "2025-12-31",
       "roles": [
         "prosjektkoordinator"
       ],
@@ -498,7 +497,7 @@
       "description": "Prosjektet har som mål å tilrettelegge en teknisk plattform for nytt intranett i Enebakk kommune. Dette skal være en plattform som er brukervennlig, tilgjengelig og som legger til rette for samarbeid og deling av informasjon på tvers av organisasjonen.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
-      "endDate": "2030-12-31",
+      "endDate": "2026-09-15",
       "roles": [
         "prosjektleder"
       ],
@@ -516,7 +515,7 @@
       "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
-      "endDate": "2030-12-31",
+      "endDate": "2026-09-15",
       "roles": [
         "prosjektleder"
       ],
@@ -568,8 +567,7 @@
         "CI/CD: GitHub for kildekode og automatisert bygg/deploy, GitHub Actions",
         "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
       ],
-      "startDate": "2025-01-01",
-      "endDate": "2030-12-31"
+      "startDate": "2025-01-01"
     },
     {
       "name": "OOF H24 - Økonomi og Virksomhetsstyring",
@@ -608,14 +606,13 @@
         "Leveranse: GitHub Actions bygg-/deploy-pipeline med enhetlig versjonering på tvers av prosjekter",
         "Flerspråklig nettside med produktinfo, lisensinformasjon, dokumentasjon og nedlastingslenker på privat domene"
       ],
-      "startDate": "2024-01-01",
-      "endDate": "2030-12-31"
+      "startDate": "2024-01-01"
     },
     {
       "name": "Sanering av gammelt loggverktøy og utrulling av agenter",
       "startDate": "2020-07-01",
       "description": "Prosjektets mandat var å sanere gammel maskinvare, etablere ny maskinvare og rulle ut ulike sikkerhetsrelaterte agenter på flere tusen servere. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Jeg koordinerte ressurser både internt og hos våre samarbeidspartnere. Som følge av situasjonen i landet ble arbeidet i stor grad gjennomført via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
@@ -632,7 +629,7 @@
       "name": "Implementere utvidet sikkerhetsfokus i DNB programvarelivssyklus",
       "startDate": "2020-07-01",
       "description": "Prosjektets mandat er å identifisere behov, anskaffe og implementere løsninger samt etablere styringsdokumenter som bidrar til økt oppmerksomhet på sikkerhet gjennom hele livssyklusen til programvare som utvikles internt og av våre samarbeidspartnere. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Jeg koordinerte ressurser både internt og hos våre samarbeidspartnere. Leverandørdialogen omfattet blant annet beskrivelse av krav og gjennomføring av leverandørvurderinger. På grunn av situasjonen i landet ble disse oppgavene i stor grad gjennomført via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
@@ -649,7 +646,7 @@
       "name": "IAM - Opprydding og etterlevelse",
       "startDate": "2020-06-01",
       "description": "Prosjektets mandat var å implementere økt automatisering av tilgangsstyring ved hjelp av ServiceNow, IIQ og andre relevante verktøy. Mine oppgaver i prosjektet omfattet løpende oppfølging, interessenthåndtering, planlegging, rapportering til porteføljeledelsen og styringsgruppen samt håndtering av prosjektdokumentasjon. Som følge av situasjonen i landet ble arbeidet i stor grad gjennomført via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
@@ -666,7 +663,7 @@
       "name": "Penetrasjonstesting",
       "startDate": "2019-08-01",
       "description": "Dette prosjektet har som mandat å legge til rette for penetrasjonstesting av DNBse systemer.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
@@ -683,7 +680,7 @@
       "name": "Implementere DDoS-beskyttelse for en spesifikk del av DNBs systemportefølje",
       "startDate": "2019-07-01",
       "description": "Prosjektets mandat er å flytte deler av DNBs systemportefølje bak forsterket DDoS-beskyttelse.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2020-11-01",
       "entity": "DNB",
       "roles": [
@@ -700,7 +697,7 @@
       "name": "Ny bedriftsportal",
       "startDate": "2018-01-01",
       "description": "Scrum Master for dette utviklingsprosjektet, med ansvar for oppgavene som følger rollen i henhold til Scrum Guide. I tillegg introduserte og lærte jeg opp deltakerne i smidige arbeidsmetoder, både i IT-organisasjonen og blant deltakere fra andre deler av virksomheten.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2019-01-01",
       "entity": "DNB",
       "roles": [
@@ -717,7 +714,7 @@
       "name": "GDPR i DNB Liv",
       "startDate": "2018-01-01",
       "description": "Compliance-prosjekt som hadde til mandat å sørge for at systemene til DNB-Liv møter GDPR-kravene.",
-      "url": "https://harry.solsem.no",
+      "url": "https://dnb.no",
       "endDate": "2018-03-01",
       "entity": "DNB",
       "roles": [
@@ -734,7 +731,7 @@
       "name": "Supplier Catalogue",
       "startDate": "2014-09-01",
       "description": "Tilpasning og implementering av Sharecats katalog-tjenester hos global oljeleverandør.",
-      "url": "https://harry.solsem.no",
+      "url": "https://www.sharecat.com",
       "endDate": "2015-04-01",
       "entity": "Sharecat Solutions AS",
       "roles": [
@@ -750,7 +747,7 @@
       "name": "Utvidelse av vCRM",
       "startDate": "2011-03-01",
       "description": "Utvidelse og forbedring av Ventelos CRM-system basert på analyse av støttehenvendelser.",
-      "url": "https://harry.solsem.no",
+      "url": "https://harry.ventelo.no",
       "endDate": "2011-10-01",
       "entity": "Ventelo",
       "roles": [
@@ -767,7 +764,7 @@
       "name": "IRIS - Rapportdistribuerings-system",
       "startDate": "2007-02-01",
       "description": "Distribusjon av rapporter med bruker- og rapportadministrasjon, abonnement og AD-integrasjon.",
-      "url": "https://harry.solsem.no",
+      "url": "https://um.no",
       "endDate": "2007-06-01",
       "entity": "Umoe Mandal",
       "roles": [
@@ -783,7 +780,7 @@
       "name": "ULV - utlevering av verktøy",
       "startDate": "2005-03-01",
       "description": "System for administrasjon av ut- og innlevering av verktøy, inkl. e-signatur og rapporter.",
-      "url": "https://harry.solsem.no",
+      "url": "https://um.no",
       "endDate": "2006-05-01",
       "entity": "Umoe Mandal",
       "roles": [
@@ -799,7 +796,7 @@
       "name": "tiUM - timeregistrering Umoe Mandal",
       "startDate": "2004-05-01",
       "description": "Helhetlig implementering av timeregistreringssystem med integrasjoner og automatisering.",
-      "url": "https://harry.solsem.no",
+      "url": "https://um.no",
       "endDate": "2007-08-01",
       "entity": "Umoe Mandal",
       "roles": [
@@ -942,7 +939,7 @@
     {
       "name": "DNB",
       "position": "Prosjektleder",
-      "url": "https://www.dbn.no",
+      "url": "https://www.dnb.no",
       "startDate": "2020-05-01",
       "summary": "Mitt bidrag resulterte i raskere prosjektleveranser og forbedrede sluttresultater for brukerne, samtidig som investerte midler ga økt verdi. Som prosjektleder i DNBs IT-sikkerhetsavdeling hadde jeg ansvar for fem prosjekter, inkludert deres daglige ledelse. Jeg rapporterte til styringsgruppene og fulgte opp både leveranser og økonomi. Prosjektene omfattet IAM-compliance, implementering av DDoS-beskyttelse for utvalgte deler av DNBs systemportefølje, økt sikkerhetsfokus i programvarelivssyklusen samt sanering av gamle felles loggløsninger. Arbeidet ble støttet av verktøy som Microsoft Project, ServiceNow og Microsoft Office.",
       "endDate": "2021-01-01",
@@ -957,7 +954,7 @@
     {
       "name": "DNB",
       "position": "Teknisk leder",
-      "url": "https://www.dbn.no",
+      "url": "https://www.dnb.no",
       "startDate": "2017-10-01",
       "summary": "Bidro til å transformere arbeidsmetodikken i prosjekter fra fossefall til en smidig tilnærming gjennom implementering av Scrum. Hadde ansvar for opplæring av kollegaer i smidige metodikker, inkludert både tekniske IT-ressurser og medarbeidere fra andre avdelinger, og sikret dermed en effektiv og helhetlig tilpasning til den nye arbeidsmetoden.",
       "endDate": "2020-05-01",
@@ -969,7 +966,7 @@
     },
     {
       "name": "Web Services Technology AS",
-      "position": "Plattformingeniør",
+      "position": "Developer Productivity Engineer",
       "url": "https://wst.no",
       "startDate": "2015-05-01",
       "summary": "Ansvarlig for design, implementasjon og vedlikehold av en effektiv CI/CD-verdikjede ved hjelp av TeamCity og OctoDeploy. Utførte migrering av en Java-applikasjon til C#, JavaScript og XSL/XML, noe som resulterte i forbedret funksjonalitet og økt kompatibilitet. Tilrettela opplæring og veiledning i bruk av Microsoft-utviklingsverktøy, inkludert Visual Studio, for å styrke teamets produktivitet og kompetanse.",
@@ -1059,7 +1056,6 @@
       "url": "https://sc.solsem.no",
       "startDate": "2002-08-01",
       "summary": "Konsulenttjenester innen programvareutvikling, organisasjonsutvikling, bedriftsutvikling og relaterte tjenester",
-      "endDate": "2070-06-13",
       "highlights": [
         "Programvareutvikling: design, implementering og vedlikehold av skreddersydde løsninger.",
         "Organisasjonsutvikling: rådgivning og støtte for å forbedre struktur, kultur og prosesser.",
@@ -1179,7 +1175,7 @@
     {
       "name": "Bø kommune, sosialkontor",
       "position": "Kontorassistent",
-      "url": "https://www.ikke.no",
+      "url": "https://boe.kommune.no",
       "startDate": "1992-02-17",
       "summary": "Forefallende kontoroppgaver",
       "endDate": "1992-07-17",
