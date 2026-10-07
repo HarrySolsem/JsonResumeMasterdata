@@ -1,39 +1,10 @@
 {
-  "awards": [],
-  "basics": {
-    "name": "Harry Solsem",
-    "label": "Technologist | Leadership | ISO27001 | Team Leader | Project Manager | Digital Product Development | Change Management | Enterprise Architect",
-    "summary": "With over 30 years of leadership experience, including technical and administrative roles in companies such as DNB, Riverty, Neonomics, and Enebakk Municipality. I have Leadership experience: Led teams of up to 50 employees, Managed full responsibility for personnel, budget, and results, provided leadership across multiple organizations. Key areas of expertise: Team leadership, Product development, IT project management. Notable Companies: DNB, Riverty, Neonomics, Sharecat Solutions",
-    "image": "https://avatars.githubusercontent.com/u/2042298?v=4",
-    "email": "harry.solsem@solsem.no",
-    "phone": "+47 91 60 46 00",
-    "url": "https://harry.solsem.no",
-    "location": {
-      "address": "Hilda Langhusvei 7",
-      "postalCode": "1405",
-      "city": "Langhus",
-      "countryCode": "NO",
-      "region": "Akershus"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "harrysolsem",
-        "url": "https://www.linkedin.com/in/harrysolsem"
-      },
-      {
-        "network": "GitHub",
-        "username": "harrysolsem",
-        "url": "https://github.com/harrysolsem"
-      }
-    ]
-  },
   "certificates": [
     {
       "name": "DI2X Train the Trainer",
       "date": "2026-03-16",
       "issuer": "DI2X Institute",
-      "url": "https://app.diplomasafe.com/en-US/certificates/dd0e91811ffe2fd82660033f698c587061697ecb1"      
+      "url": "https://app.diplomasafe.com/en-US/certificates/dd0e91811ffe2fd82660033f698c587061697ecb1"
     },
     {
       "name": "PRINCE2 Management of Portfolios, MoP®",
@@ -88,9 +59,1165 @@
       "date": "2010-01-01",
       "issuer": "Scrum Alliance",
       "url": "https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster"
+    },
+    {
+      "name": "Referee Instructor Course",
+      "date": "2001",
+      "issuer": "Norwegian Football Federation"
+    },
+    {
+      "name": "Basic Security Guard Course – Course II/90, 91 instructional hours",
+      "date": "1991-04-02",
+      "issuer": "Norwegian Security Institute"
+    }
+  ],
+  "references": [],
+  "basics": {
+    "name": "Harry Solsem",
+    "label": "Technology Professional | Leadership | ISO 27001 | Team Leadership | Project Management | Digital Product Development | Change Management | Enterprise Architecture",
+    "summary": "More than 30 years of leadership experience across technical and administrative roles at organisations including DNB, Riverty, Neonomics, and Enebakk Municipality. Led teams of up to 50 employees with full responsibility for people, budgets, and results, while providing leadership across multiple organisations. Core expertise includes team leadership, product development, and IT project management. Key organisations include DNB, Riverty, Neonomics, and Sharecat Solutions.",
+    "image": "https://avatars.githubusercontent.com/u/2042298?v=4",
+    "email": "harry.solsem@solsem.no",
+    "phone": "+47 91 60 46 00",
+    "url": "https://harry.solsem.no",
+    "location": {
+      "address": "Hilda Langhusvei 7",
+      "postalCode": "1405",
+      "city": "Langhus",
+      "countryCode": "NO",
+      "region": "Akershus"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "harrysolsem",
+        "url": "https://www.linkedin.com/in/harrysolsem"
+      },
+      {
+        "network": "GitHub",
+        "username": "harrysolsem",
+        "url": "https://github.com/harrysolsem"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Table Tennis",
+        "Running",
+        "Liverpool FC"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "JM Hilda Langhus vei 7-9 Housing Association",
+      "position": "Board Member",
+      "startDate": "2026-05-27",
+      "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
+      "highlights": [
+        "Annual cycle for operations, budgeting, and liquidity forecasts.",
+        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
+        "Maintenance plan with FM documentation and financial provisions.",
+        "Case handling and resident communication through digital channels.",
+        "Planning and execution of the annual meeting with minutes."
+      ]
+    },
+    {
+      "organization": "The Prospera Foundation",
+      "position": "Pro Bono Project Manager for RELOVE",
+      "startDate": "2025-02-01",
+      "endDate": "2025-06-01",
+      "summary": "Led the RELOVE project in spring 2025, aiming to clarify its message and demonstrate its social impact.",
+      "highlights": [
+        "The team produced an impact report that demonstrated the value of RELOVE's work.",
+        "The engagement covered visual identity, articulation of the value created by the activities, and procedures for continued impact measurement."
+      ]
+    },
+    {
+      "organization": "The Prospera Foundation",
+      "position": "Pro-bono Consultant",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2024-10-01",
+      "endDate": "2026-06-01",
+      "summary": "Project mentor and project manager for a number of projects in organizational development and digitalization. The work involves providing guidance and support to project managers and teams to ensure successful planning, execution, and completion of projects. I share best practices in project management, provide advice on how to",
+      "highlights": [
+        "Project manager for two projects in organizational development and digitalization.",
+        "Project mentor for a project that helps the Artist Network with strategy and visibility."
+      ]
+    },
+    {
+      "organization": "Langhus IL Table Tennis",
+      "position": "Group Leader and Chairman",
+      "url": "https://www.langhusil.no/bordtennis",
+      "startDate": "2024-09-01",
+      "summary": "I coordinate board meetings, annual meetings, prepare agendas, and follow up on decisions made. I also represent the club externally in meetings with the municipality, sports associations, and the Norwegian Table Tennis Federation. Good financial management is a central part of my role, where I am responsible for budgeting, reporting, and applying for financial support. I organize training sessions, recruit qualified coaches, and facilitate player development at all levels. Planning and executing club tournaments as well as coordinating participation in external tournaments also fall under my responsibilities. I actively work to recruit new members through marketing and various recruitment activities. Furthermore, I ensure the maintenance of equipment, tables, and training facilities. An important part of my leadership is creating a positive environment in the club through social activities and good communication among members.",
+      "highlights": [
+        "Planned and led the annual meeting with complete case documentation and minutes.",
+        "Budget management, accounting follow-up, and grant applications to NIF and the municipality.",
+        "Sports plan, coach agreements, and court time allocation in the hall.",
+        "Organized club tournaments and coordinated league play and licensing.",
+        "Recruitment through school collaboration and open-day events.",
+        "Equipment management: tables, rubbers, barriers, and secure storage."
+      ]
+    },
+    {
+      "organization": "The Prospera Foundation",
+      "position": "Pro Bono Project Manager for Oslo and Surrounding Areas Outdoor Recreation Council",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Led the project for Oslo and Surrounding Areas Outdoor Recreation Council in autumn 2024. The engagement focused on digital tools for administration and operations.",
+      "highlights": [
+        "The project mandate covered needs assessment, evaluation of Tripletex, and an implementation and training plan."
+      ]
+    },
+    {
+      "organization": "Langhus 1405 Housing Association",
+      "position": "Board Member",
+      "startDate": "2021-07-01",
+      "endDate": "2026-04-13",
+      "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
+      "highlights": [
+        "Annual cycle for operations, budgeting, and liquidity forecasts.",
+        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
+        "Maintenance plan with FM documentation and financial provisions.",
+        "Case handling and resident communication through digital channels.",
+        "Planning and execution of the annual meeting with minutes."
+      ]
+    },
+    {
+      "organization": "The Norwegian Thyroid Association",
+      "position": "Board Member",
+      "url": "https://stofo.no/",
+      "startDate": "2020-11-01",
+      "summary": "As a board member of the Norwegian Thyroid Association, I contribute to promoting the association's work for people with thyroid disorders. I participate in planning and conducting meetings, develop strategies, and ensure follow-up on decisions. I contribute to financial management, participate in budgeting, and follow up on financial reports. Additionally, I work on communication and information, helping to reach out to members and partners. Through my engagement, I contribute to an inclusive environment that promotes knowledge, support, and development for members.",
+      "highlights": [
+        "Board work with strategy, objectives, and risk management.",
+        "Budgeting and periodic reporting with variance handling.",
+        "Recruitment and hiring of the secretary general.",
+        "Communication planning toward members and partners.",
+        "Follow-up of resolutions and reporting to the annual meeting."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Chair, local negotiations committee (Private sector)",
+      "url": "https://nito.no/",
+      "startDate": "2019-02-19",
+      "endDate": "2020-06-21",
+      "summary": "Chair of the local negotiations committee for the private sector in NITO Hordaland. In this role, I led local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance. Additionally, I assisted members in cases related to pay and working conditions.",
+      "highlights": [
+        "Led local negotiations and consultations in line with the Basic Agreement.",
+        "Prepared claims, data basis, and mandate for the committee.",
+        "Drafted minutes and ensured deadline compliance.",
+        "Assisted members in cases related to pay and working conditions."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Chair, election committee",
+      "url": "https://nito.no/",
+      "startDate": "2019-02-08",
+      "endDate": "2020-06-21",
+      "summary": "Chair of the election committee for NITO Hordaland. In this role, I planned candidate outreach and evaluation criteria, conducted interviews, made recommendations, and presented results to the annual meeting. I ensured impartiality and a transparent process throughout the election.",
+      "highlights": [
+        "Planned candidate outreach and evaluation criteria.",
+        "Conducted interviews, recommendations, and presentation to the annual meeting.",
+        "Ensured impartiality and a transparent process."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Member, ICT professional group",
+      "url": "https://nito.no/",
+      "startDate": "2018-04-19",
+      "endDate": "2019-05-29",
+      "summary": "Member of network group for members working in ICT. In this role, I contributed to discussions on professional development, industry trends, and challenges in the ICT sector. I helped organize events and knowledge-sharing sessions for members and provided input on policy and consultations related to ICT.",
+      "highlights": [
+        "Provided professional input to policy and consultations within ICT.",
+        "Built programs for professional evenings and knowledge sharing.",
+        "Contributed to member recruitment in tech environments."
+      ]
+    },
+    {
+      "organization": "DNB BANK ASA",
+      "position": "Chair, company group",
+      "url": "https://nito.no/",
+      "startDate": "2017-11-06",
+      "endDate": "2021-01-31",
+      "summary": "Chair of the company group for DNB Bank ASA. In this role, I led the company group and maintained dialogue with management. I handled local pay negotiations and consultation meetings, supported members, recruitment, and information work, and managed cases in restructuring processes.",
+      "highlights": [
+        "Led the company group and maintained dialogue with management.",
+        "Handled local pay negotiations and consultation meetings.",
+        "Supported members, recruitment, and information work.",
+        "Managed cases in restructuring processes."
+      ]
+    },
+    {
+      "organization": "The Norwegian Thyroid Association",
+      "position": "Peer Supporter",
+      "url": "https://stofo.no/",
+      "startDate": "2017-03-01",
+      "summary": "As a peer supporter in the Norwegian Thyroid Association, I offer support and guidance to individuals living with thyroid disorders. I share experiences, listen to others' challenges, and help create a safe space where members can exchange advice and find motivation. Through my engagement, I contribute to strengthening the community and promoting understanding of the condition.",
+      "highlights": [
+        "Provided individual guidance following ethical guidelines.",
+        "Used structured conversation methods and needs mapping.",
+        "Referred members to professional resources and services when needed.",
+        "Shared anonymized experiences back to the organization."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Member, local negotiations committee",
+      "url": "https://nito.no/",
+      "startDate": "2017-03-01",
+      "endDate": "2017-05-31",
+      "summary": "Member of the local negotiations committee for NITO Hordaland. In this role, I contributed to local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
+      "highlights": [
+        "Prepared negotiation basis and salary statistics.",
+        "Participated in consultations and recorded agreements.",
+        "Contributed to member information meetings."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Division board member",
+      "url": "https://nito.no/",
+      "startDate": "2017-03-01",
+      "endDate": "2017-05-31",
+      "summary": "Division board member for NITO Vest-Agder. In this role, I participated in board meetings covering budgets and activity plans, organized member meetings and courses, and contributed to recruitment and communication work.",
+      "highlights": [
+        "Participated in board meetings covering budgets and activity plans.",
+        "Organized member meetings and courses.",
+        "Contributed to recruitment and communication work."
+      ]
+    },
+    {
+      "organization": "NITO",
+      "position": "Board member, private tariff committee",
+      "url": "https://nito.no/",
+      "startDate": "2015-03-05",
+      "endDate": "2024-03-13",
+      "summary": "Board member of the private tariff committee for NITO. In this role, I handled claims and strategies for the private tariff area, analyzed statistics and wage frameworks under the Norwegian front-runner model, and prepared recommendations for the national board.",
+      "highlights": [
+        "Handled claims and strategies for the private tariff area.",
+        "Analyzed statistics and wage frameworks under the Norwegian front-runner model",
+        "Prepared recommendations for the national board.",
+        "Prepared and conducted central collective bargaining negotiations in the private sector.",
+        "Helped formulate collective bargaining policy and demands and advised the executive board on labour-relations matters.",
+        "Supported local bargaining units and contributed to forums covering collective bargaining topics."
+      ]
+    },
+    {
+      "organization": "NITO Hordaland",
+      "position": "Member, local private tariff committee",
+      "url": "https://nito.no/",
+      "startDate": "2014-03-21",
+      "endDate": "2016-12-31",
+      "summary": "Member of local tariff committee for the private sector in NITO Hordaland. In this role, I contributed to local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
+      "highlights": [
+        "Drafted local demands and priorities.",
+        "Maintained dialogue with union reps and employer.",
+        "Followed up on tariff results and implementation."
+      ]
+    },
+    {
+      "organization": "Sharecat Solutions AS",
+      "position": "Chair, company group",
+      "url": "https://nito.no/",
+      "startDate": "2013-07-30",
+      "endDate": "2015-02-15",
+      "summary": "Chair of the company group for Sharecat Solutions AS. In this role, I led the company group and maintained dialogue with management. I handled local pay negotiations and consultation meetings, supported members, recruitment, and information work, and managed cases in restructuring processes.",
+      "highlights": [
+        "Established the company group and elected union representatives.",
+        "Conducted local negotiations and information meetings.",
+        "Handled cases on working hours and competence development."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Division board member",
+      "url": "https://nito.no/",
+      "startDate": "2012-03-21",
+      "endDate": "2012-06-30",
+      "summary": "Division board member for NITO Vest-Agder. In this role, I participated in board meetings covering budgets and activity plans, organized member meetings and courses, and contributed to recruitment and communication work.",
+      "highlights": [
+        "Board participation in a short period focused on events.",
+        "Adjusted budgets and selected vendors for courses.",
+        "Communicated with members in the region."
+      ]
+    },
+    {
+      "organization": "NITO",
+      "position": "Board member, tariff committee (Spekter)",
+      "url": "https://nito.no/",
+      "startDate": "2012-03-09",
+      "endDate": "2012-06-30",
+      "summary": "Board member of the tariff committee for the Spekter area in NITO. In this role, I contributed to tariff strategy, assessed claims and financial frameworks, and prepared material for negotiations and consultations.",
+      "highlights": [
+        "Contributed to tariff strategy for the Spekter area.",
+        "Assessed claims and financial frameworks.",
+        "Prepared material for negotiations and consultations."
+      ]
+    },
+    {
+      "organization": "NITO Vest-Agder",
+      "position": "Chair, local negotiations committee (Spekter)",
+      "url": "https://nito.no/",
+      "startDate": "2011-03-25",
+      "endDate": "2012-06-13",
+      "summary": "Chair of the local negotiations committee for the Spekter area in NITO Vest-Agder. In this role, I led local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
+      "highlights": [
+        "Led negotiations in the Spekter area.",
+        "Coordinated input from member organizations.",
+        "Recorded outcomes and informed members."
+      ]
+    },
+    {
+      "organization": "GlobalConnect AS, Kristiansand",
+      "position": "Chair, local group",
+      "url": "https://nito.no/",
+      "startDate": "2010-09-15",
+      "endDate": "2012-04-26",
+      "summary": "Chair of the local group for GlobalConnect AS Avd Kristiansand. In this role, I led the local group and maintained dialogue with HR. I handled local cases on pay, working environment, and restructuring, and recorded minutes and followed up on actions.",
+      "highlights": [
+        "Led the local committee and maintained dialogue with HR.",
+        "Handled local cases on pay, working environment, and restructuring.",
+        "Recorded minutes and followed up on actions."
+      ]
+    },
+    {
+      "organization": "NFF Agder",
+      "position": "Football referee instructor",
+      "url": "https://fotball.no/",
+      "startDate": "2001-01-01",
+      "endDate": "2012-05-11",
+      "summary": "Football referee instructor for NFF Agder. In this role, I planned and delivered referee courses and recruitment, observed matches with structured feedback, and followed up referee development plans.",
+      "highlights": [
+        "Planned and delivered referee courses and recruitment.",
+        "Observed matches with structured feedback.",
+        "Followed up referee development plans."
+      ]
+    },
+    {
+      "organization": "Rødberg og Gjedeland residents’ association",
+      "position": "Chair",
+      "url": "https://www.ikke.no",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Chair of the Rødberg og Gjedeland residents’ association, with overall responsibility for board governance, external representation, follow-up of board resolutions, and sound financial management.",
+      "highlights": [
+        "Constituted the board and meeting plan.",
+        "Worked on bylaws and prioritization of measures.",
+        "Served as point of contact with the municipality and residents."
+      ]
+    },
+    {
+      "organization": "IL Giv Akt",
+      "position": "Referee liaison",
+      "url": "https://www.givakt.no",
+      "startDate": "1998-01-01",
+      "endDate": "2012-05-11",
+      "summary": "Referee liaison for IL Giv Akt. In this role, I coordinated referees for matches, recruited and followed up new referees, and maintained dialogue with the district association and team leaders.",
+      "highlights": [
+        "Set up and coordinated referees for matches.",
+        "Recruited and followed up new referees.",
+        "Maintained dialogue with the district association and team leaders."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Artists' network (KN)",
+      "startDate": "2025-10-05",
+      "description": "The project's mandate is to prepare a draft for a joint strategy for KN, including prioritizing which issues should be promoted. It will also develop proposals for how KN can demonstrate and communicate the value of its work to its member organizations, and create a two-year action plan outlining how KN should prioritize and succeed in implementing the strategy.",
+      "url": "https://www.prosperastiftelsen.no",
+      "entity": "The Prospera Foundation",
+      "endDate": "2026-02-28",
+      "roles": [
+        "Project Mentor"
+      ],
+      "highlights": [
+        "Provided 1:1 coaching for the project lead and chair with clear learning goals per sprint.",
+        "Sparred on problem statements, hypotheses, and prioritization criteria before decisions.",
+        "Quality assured deliverables with checklists, templates, and acceptance criteria.",
+        "Created a knowledge-transfer plan so the team can run the process independently."
+      ]
+    },
+    {
+      "name": "Strategy for service development and innovation",
+      "startDate": "2025-08-05",
+      "description": "The project will develop an overall strategy for service development in Enebakk Municipality. The strategy will help ensure that the municipality develops services aligned with the needs and expectations of its residents, while also taking into account the municipality's resources and capacities. It will also aim to promote innovation and continuous improvement of services.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Delivered the target state for citizen and employee experience with measurement indicators.",
+        "Introduced a prioritization model based on value, cost, and capacity.",
+        "Standardized the service development lifecycle with insight, prototyping, testing, and scaling.",
+        "Established governance structure and portfolio linkage with benefit plans.",
+        "Created a capability-building plan for service design and improvement work."
+      ]
+    },
+    {
+      "name": "Safety alarms",
+      "startDate": "2025-06-20",
+      "description": "The project aims to implement new safety alarms in Enebakk Municipality. This includes the procurement, configuration, and rollout of the alarms, as well as training staff in how to use the system.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "endDate": "2025-12-31",
+      "roles": [
+        "Project Coordinator"
+      ],
+      "highlights": [
+        "Created a rollout plan, logistics, and configuration management per user.",
+        "Delivered a training program for home care services and the response center."
+      ]
+    },
+    {
+      "name": "Project Nexus - New intranet",
+      "startDate": "2025-06-13",
+      "description": "The project aims to establish a technical platform for a new intranet in Enebakk Municipality. This platform should be user-friendly, accessible, and enable collaboration and information sharing across the organization.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "endDate": "2026-09-15",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Selected platform and architecture with focus on search, access control, and universal design.",
+        "Defined information architecture, taxonomy, and content governance with clear ownership.",
+        "Created a migration plan from existing channels with quality criteria and cutover.",
+        "Built an adoption plan with training, a super-user network, and usage metrics.",
+        "Established an operations and governance model with SLA and change management."
+      ]
+    },
+    {
+      "name": "Plan for social housing initiatives",
+      "startDate": "2025-06-10",
+      "description": "The project aims to develop a comprehensive plan for housing and social services in Enebakk Municipality. The plan will help ensure that residents have access to the services the municipality is responsible for providing within the field of housing and social work. It will also facilitate collaboration between different actors and sectors, and ensure the efficient use of resources.",
+      "url": "https://www.enebakk.kommune.no",
+      "entity": "Enebakk Municipality",
+      "endDate": "2026-09-15",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Conducted stakeholder and needs analysis across sectors.",
+        "Defined target groups, user journeys, and outcome indicators for initiatives.",
+        "Planned use of policy instruments, collaboration models, and lines of responsibility.",
+        "Created a benefit map and follow-up regime for impact measurement and reporting.",
+        "Completed risk analysis and measures for compliance, privacy, and data security."
+      ]
+    },
+    {
+      "name": "RELOVE V25",
+      "startDate": "2025-02-01",
+      "description": "RELOVE needs effective methods to document and showcase its societal value. This is crucial both to ensure continued support and to communicate the organization's significance in the local community. In the long term, RELOVE aims to qualify for a permanent position in the state budget. The pro bono team will therefore assist RELOVE in articulating their core business and identity in a clear and concise manner. The team will develop a few concise statements that capture the essence of RELOVE's operations, define the concrete value creation from RELOVE's various activity areas, and establish systematic measurement routines to document the organization's impact and results going forward, for example, through structured registration of recycled textile volumes or the number of young people entering employment.",
+      "url": "https://www.relove.info",
+      "entity": "The Prospera Foundation",
+      "endDate": "2025-06-01",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led a team of 5 people in a project to develop a new strategy for RELOVE.",
+        "Ensured the project was delivered within the timeframe and budget.",
+        "Developed a new communication strategy that increased RELOVE's visibility.",
+        "Established lightweight impact measurement for social contribution and reporting routines.",
+        "Defined KPIs linked to textile volume and transition to employment."
+      ]
+    },
+    {
+      "name": "CVSmia",
+      "description": "CVSmia is a digital project to develop and operate a modern CV management system for job seekers, consultants, and advisors. The project focuses on structured content (JsonResume-based CV data), reusable components, and clear presentation of profiles, skills, and projects. The solution is built to help job seekers, consultants, and advisors create, manage, and share their CVs in a digital format that is easy for recruiters and employers to read.",
+      "url": "https://cvsmia.solsem.no",
+      "entity": "Solsem Consulting",
+      "roles": [
+        "project manager",
+        "product owner",
+        "developer"
+      ],
+      "highlights": [
+        "Data standard: CV data structured according to JsonResume for portability across systems and views",
+        "Backend/tooling: C#/.NET for data modeling, transformation, and generation/validation of JsonResume content",
+        "Serialization: JSON serialization and DTO modeling to ensure a stable contract between the data layer and the presentation layer",
+        "Frontend: Windows desktop application built with C#/.NET WinForms for editing and managing JsonResume content",
+        "Modular architecture with licensed, module-based extensions (feature toggles and entitlement-driven capabilities)",
+        "Export capabilities to recruitment/ATS systems (structured output and system-specific mappings)",
+        "Language enhancement features for CV content (tone, clarity, and localization support)",
+        "Auto-mapping between CV data and job posting text to identify matches, gaps, and tailored content suggestions",
+        "CI/CD: GitHub used for source control and automated build/deployment pipelines, GitHub Actions",
+        "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
+      ],
+      "startDate": "2025-01-01"
+    },
+    {
+      "name": "OOF H24 - Finance and Business Management",
+      "startDate": "2024-10-01",
+      "description": "The purpose of this project is to assist OOF in selecting and implementing digital tools that will streamline and simplify administrative and operational processes. OOF aims to minimize manual tasks while strengthening its ability to maintain oversight and control within key functions such as time tracking, budget management, accounting, and project management.",
+      "url": "https://www.osloogomlandfriluftsrad.no/",
+      "entity": "The Prospera Foundation",
+      "endDate": "2025-01-01",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the project to digitize administrative processes at Oslo og Omland Friluftsråd, focusing on time tracking, budgeting, and project management.",
+        "Conducted needs analysis and evaluation of digital tools that best met the organization's requirements.",
+        "Coordinated the implementation of new systems, resulting in a 30% reduction in manual administrative work.",
+        "Designed the training plan, data flow, and role-based access model."
+      ]
+    },
+    {
+      "name": "Karemo",
+      "description": "Karemo is a job-seeker CRM designed to help users manage applications, job postings, contacts, documents, interviews, tasks, and follow-ups in one place. The project focuses on a simple and fast user experience, structured domain modules (timeline, reminders/tasks, documents, interview logs, salary negotiations, competence items), and reliable local persistence. The solution is built as a modular .NET desktop application with clear separation between domain logic, data access, and UI, and is intended to integrate well with external profile/CV assets (e.g., CVSmia) through links and shared information architecture.",
+      "url": "https://karemo.solsem.no",
+      "entity": "Solsem Consulting",
+      "roles": [
+        "project manager",
+        "product owner",
+        "developer"
+      ],
+      "highlights": [
+        "Platform: .NET desktop application (Windows) with modular UI (tab-based modules) and shared navigation/commands",
+        "Architecture: clear separation of concerns (Domain layer per module + Data layer + UI layer) with DTOs for stable contracts",
+        "Persistence: local SQLite database with Entity Framework Core migrations and schema mapping control",
+        "Core modules: job postings, applications, application stage history (timeline), case tasks/reminders, documents/links, interview logs, salary negotiation, competence tracking",
+        "Reliability: extensive logging (file/console/debug) and defensive error handling around data loading and queries",
+        "Licensing/modularity: optional module enablement controlled via licensing/module identifiers",
+        "Delivery: GitHub Actions build/deploy pipeline with unified versioning across multiple projects",
+        "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
+      ],
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Decommissioning of legacy log tool and deployment of agents",
+      "startDate": "2020-07-01",
+      "description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "url": "https://dnb.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the decommissioning of outdated hardware and implementation of new security solutions on thousands of servers.",
+        "Coordinated cross-functional teams in a fully digital work model during the pandemic via Microsoft Teams.",
+        "Regularly reported to the steering group and portfolio management, achieving 100% of the project's milestones.",
+        "Established operational routines and documentation for the agent lifecycle and patching."
+      ]
+    },
+    {
+      "name": "Implementing extended security focus in DNB software lifecycle",
+      "startDate": "2020-07-01",
+      "description": "The project's mandate is to identify needs, procure, implement, and establish governance documents for solutions that increase focus on security aspects throughout the software lifecycle for software developed internally and by our partners. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Supplier dialogue included describing requirements, conducting supplier evaluations. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "url": "https://dnb.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Developed and implemented comprehensive security-focused governance documents for software development at DNB.",
+        "Conducted supplier evaluations and established new security requirements for external development partners.",
+        "Achieved significant improvement in security focus throughout the software lifecycle by implementing new tools and routines.",
+        "Established measurable maturity improvements and training paths for development teams."
+      ]
+    },
+    {
+      "name": "IAM - Cleanup and Compliance",
+      "startDate": "2020-06-01",
+      "description": "The project's mandate is to implement extended automation of access management using ServiceNow, IIQ, and other relevant tools. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "url": "https://dnb.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the implementation of automated access management with ServiceNow and IIQ, resulting in a 40% reduction in manual access processes.",
+        "Ensured compliance with internal and external regulations through improved documentation and processes.",
+        "Coordinated stakeholders across departments to ensure optimal implementation of the IAM solution.",
+        "Defined control points for periodic access recertification."
+      ]
+    },
+    {
+      "name": "Penetration testing",
+      "startDate": "2019-08-01",
+      "description": "The project's mandate was to facilitate penetration testing of DNB's systems. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "url": "https://dnb.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Established and led a comprehensive program for penetration testing of critical systems at DNB.",
+        "Coordinated internal security experts and external partners to conduct thorough security tests.",
+        "Developed protocols for systematic follow-up of findings, resulting in an 85% reduction in critical vulnerabilities.",
+        "Integrated security testing into the release process with clear prioritization of actions."
+      ]
+    },
+    {
+      "name": "Implementing DDoS protection for a defined part of DNB's system portfolio",
+      "startDate": "2019-07-01",
+      "description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDoS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
+      "url": "https://dnb.no",
+      "endDate": "2020-11-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the implementation of enhanced DDoS protection for critical system components at DNB.",
+        "Developed a comprehensive migration strategy that minimized downtime during system transitions.",
+        "Coordinated technical resources across teams to ensure seamless integration with existing infrastructure.",
+        "Defined monitoring and incident response procedures after go-live."
+      ]
+    },
+    {
+      "name": "New business portal",
+      "startDate": "2018-01-01",
+      "description": "Scrum Master for this development project. Performed the tasks associated with the role according to the Scrum Guide. Additionally, introduced and trained participants in agile methodologies, both within the IT organization and among participants from other business areas.",
+      "url": "https://dnb.no",
+      "endDate": "2019-01-01",
+      "entity": "DNB",
+      "roles": [
+        "Scrum Master"
+      ],
+      "highlights": [
+        "Served as Scrum Master for a cross-functional team of 8 people developing DNB's new business portal.",
+        "Conducted thorough training in agile methodologies for both IT developers and business representatives.",
+        "Facilitated daily stand-ups, sprint planning, and retrospectives, contributing to a 30% increase in development efficiency.",
+        "Established continuous delivery with lead-time and quality measurement."
+      ]
+    },
+    {
+      "name": "GDPR at DNB Liv",
+      "startDate": "2018-01-01",
+      "description": "Compliance project with the mandate to ensure that DNB Liv's systems meet GDPR requirements. In this project, I served as Scrum Master, performing tasks as described in the Scrum Guide.",
+      "url": "https://dnb.no",
+      "endDate": "2018-03-01",
+      "entity": "DNB",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the GDPR implementation project for DNB Liv, ensuring full compliance by the May 2018 deadline.",
+        "Coordinated a cross-functional team consisting of legal experts, IT specialists, and business analysts.",
+        "Implemented new systems and processes to manage data privacy rights and data deletion.",
+        "Established documentation and audit tracks for compliance."
+      ]
+    },
+    {
+      "name": "Supplier catalogue",
+      "startDate": "2014-09-01",
+      "description": "The project's mandate was to adapt and implement Sharecat's family of catalog services to be used by one of the world's largest oil suppliers. I took over the project as project manager after it had been ongoing for a few months. My tasks included tying up all loose ends, creating a detailed project plan for the remaining deliverables, and daily follow-up. The project was carried out with multi-disciplinary resources and participants in several countries. Planning, execution, and follow-up were carried out using MS Project 2013.",
+      "url": "https://www.sharecat.com",
+      "endDate": "2015-04-01",
+      "entity": "Sharecat Solutions AS",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Took over a complex international project and developed a detailed project plan that ensured successful delivery.",
+        "Led a geographically distributed team across multiple countries in implementing Sharecat's catalog services.",
+        "Managed the project's resources and schedule using MS Project 2013, delivering within the original budget."
+      ]
+    },
+    {
+      "name": "Expansion of vCRM",
+      "startDate": "2011-03-01",
+      "description": "The project's mandate was to expand and improve Ventelo's CRM system. Based on an analysis of incoming requests to the IT department, five critical areas were identified where the existing system lacked support for business needs. The task was to analyze these needs and implement solutions that addressed the defined business cases.",
+      "url": "https://harry.ventelo.no",
+      "endDate": "2011-10-01",
+      "entity": "Ventelo",
+      "roles": [
+        "project manager",
+        "Software Engineer"
+      ],
+      "highlights": [
+        "Led and developed extensions to Ventelo's CRM system based on a thorough analysis of IT support requests.",
+        "Identified and implemented solutions for 5 critical business areas that lacked system support.",
+        "Performed both project manager and developer roles, resulting in seamless implementation and a 25% reduction in IT support requests."
+      ]
+    },
+    {
+      "name": "IRIS - Report Distribution System",
+      "startDate": "2007-02-01",
+      "description": "A system developed for the distribution of reports, with functionality for managing users and report objects to be distributed. The solution includes setting up subscriptions, scheduling distribution times and frequencies, and seamless integration with Active Directory (AD) for efficient user management. The system is built with C#, ADO.Net, and MS SQL Server as the database solution.",
+      "url": "https://um.no",
+      "endDate": "2007-06-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Developed and implemented a complete report distribution system using C# and MS SQL Server.",
+        "Implemented advanced AD integration for automated user management.",
+        "Designed a flexible subscription solution that allowed users to schedule and receive reports based on individual needs."
+      ]
+    },
+    {
+      "name": "ULV - Tool delivery",
+      "startDate": "2005-03-01",
+      "description": "A system designed to manage the delivery and return of tools. The solution is developed in C# with MS SQL Server as the database and ADO.Net for data access. The system includes functionality for electronic signatures, generation of customized reports, and seamless integration with Active Directory (AD) for efficient user management.",
+      "url": "https://um.no",
+      "endDate": "2006-05-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the project from requirements specification to implementation and operation.",
+        "Developed a C# application with MS SQL Server as the database.",
+        "Implemented AD integration and electronic signature functionality."
+      ]
+    },
+    {
+      "name": "tiUM - Time Registration Umoe Mandal",
+      "startDate": "2004-05-01",
+      "description": "Led a comprehensive implementation of a modern time registration system for Umoe Mandal, where I was responsible for all project phases from requirements analysis to deployment. The project included preparing a detailed requirements specification, designing a tailored solution architecture, technical implementation, coordinating rollout, and thorough training of both end-users and technical personnel. Additionally, I developed extensive user and system documentation to ensure sustainable future operations. The system was developed in VB.Net with a Winforms interface and MS SQL Server as the database solution. The solution included advanced functionality such as seamless integration with the existing time-stamping system, automatic email notifications for timesheet approvals, structured data transfer to the payroll system, and intelligent auto-generation of timesheets based on predefined criteria. This resulted in significantly reduced administrative workload and improved data quality in the organization's time registration and payroll processing.",
+      "url": "https://um.no",
+      "endDate": "2007-08-01",
+      "entity": "Umoe Mandal",
+      "roles": [
+        "project manager"
+      ],
+      "highlights": [
+        "Led the project from requirements specification to implementation and operation.",
+        "Developed a VB.Net application with MS SQL Server as the database.",
+        "Implemented integration with the time-stamping system and email notifications."
+      ]
+    },
+    {
+      "name": "Software Development at Sivilingeniør Kjell G. Knutsen",
+      "entity": "Sivilingeniør Kjell G. Knutsen AS",
+      "roles": [
+        "Software Development Project Contributor"
+      ],
+      "startDate": "1998-02",
+      "endDate": "1998-05",
+      "description": "Developed software in ANSI C on Sun SPARC/Solaris. Used MKS Source Integrity, MKS Visual Difference, and Purify.",
+      "type": "Client Engagement"
+    },
+    {
+      "name": "Database Development for Kværner Mandal",
+      "entity": "Kværner Mandal AS",
+      "roles": [
+        "Contract Software Developer"
+      ],
+      "startDate": "1998-01",
+      "endDate": "1999-02",
+      "description": "Modelled databases and implemented a Microsoft Access front end for Oracle. Developed in VBA and worked on user interfaces, user interaction, and report design.",
+      "type": "Client Engagement"
+    }
+  ],
+  "awards": [],
+  "work": [
+    {
+      "name": "The Prospera Foundation",
+      "position": "Project mentor",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2025-10-01",
+      "endDate": "2026-02-28",
+      "summary": "As a project mentor at The Prospera Foundation, I provide guidance and support to project managers and teams to help them successfully plan, execute, and complete their projects. My role involves sharing best practices in project management, offering advice on overcoming challenges, and helping to develop effective strategies for achieving project goals. I work closely with project teams to ensure they have the necessary skills and resources to deliver high-quality results on time and within budget. By fostering a collaborative environment and encouraging continuous learning, I aim to enhance the overall effectiveness of project management within the organization",
+      "highlights": [
+        "Mentored on planning documents, milestone management, and risk registers.",
+        "Introduced impact mapping and a simple benefit plan per initiative.",
+        "Advised on stakeholder management and decision forums.",
+        "Quality assured delivery scope, criteria, and acceptance."
+      ]
+    },
+    {
+      "name": "Enebakk Municipality",
+      "position": "Advisor digital transformation and portfolio management",
+      "url": "https://www.enebakk.kommune.no",
+      "startDate": "2025-06-04",
+      "summary": "As advisor at Enebakk municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
+      "highlights": [
+        "Established a PMO with shared methodology, templates, and governance structure (PRINCE2/Agile hybrid).",
+        "Portfolio management with prioritization criteria, capacity planning, and benefit mapping.",
+        "Service development using insight-based service design and target states (KPI/OKR).",
+        "Benefits realization with measurement plans, baseline, and effect tracking against political goals.",
+        "Integrated information security and privacy into the project lifecycle (ISO 27001/GDPR)."
+      ]
+    },
+    {
+      "name": "The Prospera Foundation",
+      "position": "Project Manager",
+      "url": "https://www.prosperastiftelsen.no",
+      "startDate": "2024-10-01",
+      "endDate": "2025-10-01",
+      "summary": "Hired as a project manager at The Prospera Foundation. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and PRINCE2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
+      "highlights": [
+        "Operational leadership of cross-functional teams (1-5 FTE) with a clear milestone plan.",
+        "PRINCE2 governance: business case, decision log, and deviation management.",
+        "Agile execution with sprint planning, demo, and retrospective.",
+        "Deliveries on time and budget with documented impact for the recipient."
+      ]
+    },
+    {
+      "name": "Riverty",
+      "position": "Department Manager",
+      "url": "https://www.riverty.com",
+      "startDate": "2023-09-01",
+      "summary": "As a diversity leader for technical resources at Riverty, I have achieved significant results through strategic personnel management and organizational development. I developed a high-performing leadership team consisting of 5 team leaders who consistently achieved increased satisfaction in employee surveys. Through structured development conversations and individually tailored career plans for my 15 direct-reporting engineers and my leadership team, I reduced turnover by 20%, creating stability and continuity in the department. For the 50 employees I had overall responsibility for, I implemented monthly professional days and social events that measurably strengthened both team spirit and cross-disciplinary collaboration. On the recruitment side, I successfully attracted and hired 5 top talents with increasing retention. This was achieved through close and well-structured collaboration with People & Culture, where we jointly developed a recruitment program that reduced time-to-hire by 20% without compromising quality. For new hires, I created a structured onboarding program that reduced the time to full productivity from 4 to 2 months. One of my most important contributions was the standardization of development processes across all four Tech Hubs in Europe (Oslo, Stockholm, Tallinn, and Berlin). This harmonization resulted in a 30% increase in delivery capacity and enabled a common technical platform that accelerated time to market. Through systematic work to create a work environment characterized by psychological safety and a healthy error culture, I increased employee satisfaction compared to previously reported values. This also fostered innovation in the organization. My emphasis on physical presence in the office, combined with structured knowledge sharing through tools like Atlassian Confluence, has created a dynamic work environment where both individuals and teams can develop and deliver high-quality results.",
+      "endDate": "2024-06-01",
+      "highlights": [
+        "Built the leadership team and introduced management by objectives with clear KPIs.",
+        "Standardized development processes across Tech Hubs (+30% capacity).",
+        "Reduced turnover by 20% via career plans and 1:1 follow-up.",
+        "Created an onboarding program that halved time to full productivity (4→2 months).",
+        "Partnered with P&C on recruiting, reducing time-to-hire by 20%.",
+        "Recruited technology professionals in partnership with People & Culture and contributed to employer branding.",
+        "Managed onboarding and integration of new employees into cross-functional product teams.",
+        "Coached employees and supported learning, development, and performance.",
+        "Represented Riverty in Oslo's fintech community and collaborated with the company's other technology hubs."
+      ],
+      "location": "Oslo"
+    },
+    {
+      "name": "The Norwegian Thyroid Association",
+      "position": "Consultant",
+      "url": "https://www.stofo.org",
+      "startDate": "2023-05-01",
+      "summary": "Consultant supporting the newly hired Secretary General with strategy clarifications, organizational development, recruitment, onboarding of new employees, and miscellaneous administrative tasks related to the operation of the association.",
+      "endDate": "2023-06-01"
+    },
+    {
+      "name": "Neonomics",
+      "position": "Team Lead | Engineering Manager",
+      "url": "https://www.neonomics.io",
+      "startDate": "2021-08-01",
+      "summary": "As an Engineering Manager at Neonomics, I achieved significant results in personnel management and organizational development. I started as a Team Lead and advanced to Engineering Manager, where I ensured increased employee retention during a period of shifting product focus through targeted efforts. This stability provided a significant competitive advantage in a market characterized by high turnover among technical personnel. In my leadership role, I was responsible for a leadership group of 2 team leaders, where I implemented structured leadership development programs that improved their ability to effectively lead teams and follow up on personnel. This resulted in measurable improvements in team performance and delivery quality. In parallel, I had direct personnel responsibility for 11 engineers, where I increased both productivity and job satisfaction through regular one-on-one meetings and career plans. My present leadership created a work environment characterized by high psychological safety, which led to increased innovation and problem-solving ability within the team. Through strategic communication about the company's direction and future prospects, I built trusting relationships with employees, reducing uncertainty and strengthening engagement even during periods of change. By effectively using tools like Microsoft Office, Atlassian Jira, and Confluence, I optimized project management and knowledge sharing, resulting in more streamlined workflows and better cross-disciplinary collaboration. This contributed to both higher delivery quality and increased employee satisfaction, as documented through improved results in internal surveys.",
+      "endDate": "2023-03-01",
+      "highlights": [
+        "Scaled team leadership with two team leads and 11 direct reports.",
+        "Introduced a 1:1 cadence, career plans, and a skills matrix.",
+        "Improved flow via Scrum/Kanban, Jira boards, and WIP limits.",
+        "Strengthened DevOps practices: release cadence, metrics, and post-mortems.",
+        "Served as Scrum Master for the project team that developed the Checkout MVP.",
+        "Subsequently led the payments team that took the solution from MVP to production."
+      ]
+    },
+    {
+      "name": "KPMG Norway",
+      "position": "Senior Manager",
+      "url": "https://www.kpmg.no",
+      "startDate": "2021-02-01",
+      "summary": "Consultant in project management and agile methodologies.",
+      "endDate": "2021-08-01",
+      "highlights": [
+        "Advised on PMO setup, portfolio management, and benefits realization.",
+        "Agile transformation: framework, capability building, and objectives.",
+        "Process maturity assessment with an action plan and quick wins.",
+        "Developed KPMG's framework for agile project delivery.",
+        "Worked on client proposals and contributed across professional service areas.",
+        "Applied expertise in agile development and Scrum."
+      ],
+      "location": "Oslo"
+    },
+    {
+      "name": "DNB",
+      "position": "Project Manager",
+      "url": "https://www.dnb.no",
+      "startDate": "2020-05-01",
+      "summary": "My contributions here led to projects being delivered faster and with better end results for users, in addition to increased value for the funds invested in the projects. As a project manager in DNB's IT Security department, I was responsible for 5 projects and their daily management, reported to steering committees, and followed up on deliveries and finances. These include an IAM compliance project, implementation of DDoS protection for a selection of DNB's system portfolio, increased security focus within DNB's software lifecycle, and the decommissioning of an old shared logging solution. Tools used include Microsoft Project, ServiceNow, and Microsoft Office.",
+      "endDate": "2021-01-01",
+      "highlights": [
+        "Led IAM compliance, DDoS rollout, and secure SDLC initiatives.",
+        "Steering committee reporting, cost/benefit analysis, and risk management.",
+        "Planning and resource management in MS Project with follow-up in ServiceNow.",
+        "Decommissioned legacy logging with a controlled migration path.",
+        "IT Project Manager in Security Services within Technology & Services."
+      ]
+    },
+    {
+      "name": "DNB",
+      "position": "Technical Lead",
+      "url": "https://www.dnb.no",
+      "startDate": "2017-10-01",
+      "summary": "I contributed to changing the work methodology from using waterfall in projects to adopting an agile approach with the help of Scrum. I was responsible for training colleagues in agile methodologies. This included both technical IT resources and colleagues from other parts of the organization.",
+      "endDate": "2020-05-01",
+      "highlights": [
+        "Rolled out Scrum and Lean practices in cross-functional teams.",
+        "Delivered training and coaching in agile methods and tools.",
+        "Introduced continuous improvement, CI/CD, and coding practices."
+      ]
+    },
+    {
+      "name": "Web Services Technology AS",
+      "position": "Developer Productivity Engineer",
+      "url": "https://wst.no",
+      "startDate": "2015-05-01",
+      "summary": "Responsible for the design, implementation, and maintenance of a CI/CD pipeline using TeamCity and OctoDeploy. The work included porting a Java application to C#, JavaScript, and XSL/XML to ensure compatibility and improved functionality. Provided training and guidance in the use of Microsoft development tools such as Visual Studio.",
+      "endDate": "2017-09-01",
+      "highlights": [
+        "Built CI/CD in TeamCity and Octopus Deploy with a versioning strategy.",
+        "Migrated a Java solution to C#/JS/XSL for better maintainability.",
+        "Release management, environment standardization, and monitoring."
+      ]
+    },
+    {
+      "name": "Sharecat Solutions AS",
+      "position": "Project Manager/Scrum Master/Senior Software Developer",
+      "url": "https://home.sharecat.com/",
+      "startDate": "2013-02-01",
+      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using PRINCE2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
+      "endDate": "2015-04-01",
+      "highlights": [
+        "Scrum Master for distributed teams with continuous delivery.",
+        "PRINCE2 planning and resource management for international rollout.",
+        "Customer dialogue, requirements prioritization, and demonstrable increments.",
+        "Developed core systems in .NET and Visual Basic 6.",
+        "Served as Scrum Master for several teams and helped improve delivery practices.",
+        "Led a major implementation project for the company's largest customer."
+      ]
+    },
+    {
+      "name": "Ventelo",
+      "position": "Technical Project Manager/Service Delivery Manager/Software Engineer",
+      "url": "https://www.ventelo.no",
+      "startDate": "2010-03-01",
+      "summary": "Developed support and front-end systems. This included web applications used by Ventelo's customers to manage their customer relationships/subscriptions with Ventelo, as well as further development of Ventelo's internal CRM systems. Ventelo utilized SOA and developed using agile methods and continuous integration. C#, Asp.net, MS SQL, TDD, FakeItEasy.",
+      "endDate": "2012-06-01",
+      "highlights": [
+        "Led deliveries on an SOA platform for self-service solutions.",
+        "Maintained and expanded CRM functionality against prioritized needs.",
+        "TDD with FakeItEasy, CI, and automated build/deploy.",
+        "SLA follow-up as Service Delivery Manager.",
+        "Developed customer applications for subscription overviews, orders, and services.",
+        "Worked on internal customer and order-management systems."
+      ]
+    },
+    {
+      "name": "Engineering Systems",
+      "position": "Software Developer",
+      "url": "https://www.once.no/",
+      "startDate": "2008-09-01",
+      "summary": "Developed new applications in C#, Windows SharePoint Services, and further developed/expanded existing applications.",
+      "endDate": "2010-03-01",
+      "highlights": [
+        "Developed C# solutions integrated with Windows SharePoint Services.",
+        "Optimized existing apps for performance and maintainability.",
+        "Established build and release practices for the team.",
+        "Developed new applications using .NET, C#, and Windows SharePoint Services.",
+        "Developed additional functionality and reporting for existing applications."
+      ]
+    },
+    {
+      "name": "Comunic AS",
+      "position": "Software Developer",
+      "url": "https://www.comunic.no",
+      "startDate": "2008-03-01",
+      "summary": "Developed a WinForms project calculation system using C# and MS SQL Database.",
+      "endDate": "2008-08-01",
+      "highlights": [
+        "Designed and developed a WinForms-based calculation system in C#.",
+        "Data modeling and T-SQL for reporting and analysis.",
+        "User-focused screens with validation and export."
+      ]
+    },
+    {
+      "name": "Umoe Mandal AS",
+      "position": "Software Developer",
+      "url": "https://www.um.no",
+      "startDate": "2002-10-01",
+      "summary": "Completed all phases of application development, including requirements specification, solution proposals, implementation, deployment, training, and operations. VB.Net, C#, MS SQL, Oracle. Developed middleware for data manipulation for data transfer/modification between Oracle SQL database and MS SQL database.",
+      "endDate": "2008-02-01",
+      "highlights": [
+        "Full lifecycle delivery: requirements, development, rollout, and operations.",
+        "Middleware for Oracle↔MS SQL data integration.",
+        "Solutions for report distribution, time tracking, and AD integration."
+      ]
+    },
+    {
+      "name": "Solsem Consulting",
+      "position": "Entrepreneur / Software Developer/Advisor",
+      "url": "https://sc.solsem.no",
+      "startDate": "2002-08-01",
+      "summary": "Consulting services in software development, organizational development, business development, and related services.",
+      "highlights": [
+        "Provided software development and organizational consulting services.",
+        "Advised on business development strategies and operational improvements.",
+        "Delivered services in software development to Umoe Mandal AS over a period of 20 years.",
+        "Provided consulting services to Umoe Mandal AS over a 20-year period."
+      ]
+    },
+    {
+      "name": "Intershare AS",
+      "position": "Software Consultant",
+      "url": "https://www.intershare.no",
+      "startDate": "2001-10-01",
+      "summary": "I was responsible for the further development of the company's software for rental management, ensuring it met evolving business needs. Additionally, I provided consulting services to the company's customers, delivering tailored solutions and support. My work involved using technologies such as MS Visual C++, MFC, Sybase SQL Anywhere, and MS SQL.",
+      "endDate": "2002-04-01",
+      "highlights": [
+        "Enhanced a rental system in C++/MFC and SQL Anywhere.",
+        "Customer-specific adaptations, bug fixes, and performance improvements.",
+        "Migration paths and data upgrades with minimal downtime.",
+        "Worked on analysis, design, data modelling, and user interfaces.",
+        "Programmed in Microsoft Visual C++ and provided customer support."
+      ]
+    },
+    {
+      "name": "IT-Vikar AS",
+      "position": "Contract Software Developer",
+      "startDate": "2000-08-14",
+      "endDate": "2001-10",
+      "summary": "Worked on documented client assignments at Allianse Intersoft and Sense Technology.",
+      "highlights": [
+        "Allianse Intersoft, 14 August 2000–30 April 2001: enhanced rental-management systems in Microsoft Visual C++, performed analysis and design, and worked with Sybase SQL Anywhere databases.",
+        "Sense Technology, May–October 2001: software development in Microsoft Visual Basic, OCX development in Microsoft Visual C++, and user-interface design."
+      ]
+    },
+    {
+      "name": "Edb Avdelingen Sør AS",
+      "position": "IT Consultant",
+      "url": "https://www.edbavd.no/",
+      "startDate": "1997-08-01",
+      "summary": "Consultant with assignments in user support, network operations (Microsoft and Novell), client configuration for Windows, setup of backup routines. Software development in ANSI C.",
+      "endDate": "2001-08-01",
+      "highlights": [
+        "First- and second-line user support with SLA follow-up.",
+        "Operations of Microsoft/Novell networks, policy, and security routines.",
+        "Backup design, recovery tests, and documentation.",
+        "Scripts/utilities in ANSI C for operational efficiency.",
+        "Performed software development in VBA and contributed to ANSI C programming projects.",
+        "Troubleshot and maintained database systems.",
+        "Installed and maintained computer systems and networks for clients."
+      ]
+    },
+    {
+      "name": "PC-LAND SOFTWARE",
+      "position": "Software Developer",
+      "url": "https://www.ikke.no",
+      "startDate": "1995-02-01",
+      "summary": "Developed software in Microsoft Visual Foxpro 3.0",
+      "endDate": "1995-03-28",
+      "highlights": [
+        "FoxPro development with data modeling and screens.",
+        "Reports and queries for business needs.",
+        "Version control and basic distribution."
+      ]
+    },
+    {
+      "name": "Manpower AS",
+      "position": "User Support",
+      "url": "https://www.manpower.no",
+      "startDate": "1994-08-01",
+      "summary": "User support for Windows 95, operation of Token-Ring networks, setup, and operation of Windows clients.",
+      "endDate": "1997-07-01",
+      "highlights": [
+        "Support on Windows 95 and client standards in production.",
+        "Token Ring operations and troubleshooting.",
+        "Client rollout.",
+        "Operated a NetWare WAN serving more than 300 users across 26 offices.",
+        "Implemented Windows 95, installed Windows NT Server, and configured network printers using HP JetDirect."
+      ]
+    },
+    {
+      "name": "Total Consept Development",
+      "position": "Software Developer",
+      "url": "https://www.ikke.no",
+      "startDate": "1994-08-01",
+      "summary": "Main responsibility for developing administrative systems for restaurant industry and jukebox databases. Developed in Visual Basic",
+      "endDate": "1994-11-30",
+      "highlights": [
+        "Visual Basic solutions for restaurant administration.",
+        "Jukebox database design and CRUD functions.",
+        "Requirements gathering.",
+        "Developed databases and user interfaces and followed up with customers.",
+        "Implemented solutions from requirements specifications in Visual Basic."
+      ]
+    },
+    {
+      "name": "BÅDE OG RADIOREKLAMEBYRÅ",
+      "position": "IT Consultant",
+      "url": "https://www.ikke.no",
+      "startDate": "1994-06-01",
+      "summary": "Main responsibility for development of ethernet network, client setup of Windows for Workgroups 11 and user support",
+      "endDate": "1994-07-31",
+      "highlights": [
+        "Network design and establishment of Ethernet infrastructure.",
+        "Trained Windows for Workgroups 3.11 clients."
+      ]
+    },
+    {
+      "name": "NHI-Datahøgskolen",
+      "position": "Assistant instructor",
+      "url": "https://www.ikke.no",
+      "startDate": "1994-01-01",
+      "summary": "Assistant instructor for the subject Algorithms and Data Structures",
+      "endDate": "1994-06-01",
+      "highlights": [
+        "Tutored in algorithm analysis and data structures."
+      ]
+    },
+    {
+      "name": "Bø Municipality, Social Welfare office",
+      "position": "Office assistant",
+      "url": "https://boe.kommune.no",
+      "startDate": "1992-02-17",
+      "summary": "Typical office assistant chores",
+      "endDate": "1992-07-17",
+      "highlights": [
+        "Archive, mail journal, and case flow.",
+        "Meeting bookings and document handling.",
+        "Front desk public service."
+      ]
+    },
+    {
+      "name": "Royal Norwegian Air Force",
+      "position": "Air Defence Control Room Assistant during Compulsory Military Service",
+      "startDate": "1990-06-25",
+      "endDate": "1991-06-07",
+      "highlights": [
+        "Helped operate the battalion's air-defence control room, handling operational messages, logs, and communications checks.",
+        "Supervised assigned personnel in the air-defence control-room team and served as a unit driver."
+      ]
+    }
+  ],
+  "publications": [],
+  "languages": [
+    {
+      "language": "Norwegian",
+      "fluency": "Native",
+      "native": true,
+      "keywords": [
+        "Norwegian",
+        "Bokmål"
+      ]
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency",
+      "native": false,
+      "keywords": [
+        "English",
+        "American English",
+        "British English"
+      ]
     }
   ],
   "education": [
+    {
+      "institution": "NITO",
+      "area": "School of Leadership",
+      "studyType": "Completed Course",
+      "endDate": "2024-08-15",
+      "courses": [
+        "Good Leadership – What Does It Take to Succeed?",
+        "Self-Leadership",
+        "Team Leadership",
+        "Communication",
+        "Stress – Your Friend or Foe?"
+      ]
+    },
     {
       "institution": "BI Norwegian Business School",
       "area": "Management",
@@ -142,7 +1269,14 @@
         "Mathematical Analysis I",
         "Discrete Mathematics",
         "Operating Systems",
-        "Real-Time Programming"
+        "Real-Time Programming",
+        "Programming and Computer Fundamentals",
+        "Databases",
+        "Systems Development and Application Development",
+        "Data Communications and Operating Systems",
+        "Organisation, Collaboration, and Management",
+        "Administration, Business Economics, and Marketing",
+        "Capstone Project"
       ],
       "endDate": "1994-05-01"
     },
@@ -208,426 +1342,19 @@
         "Word Processing"
       ],
       "endDate": "1988-06-01"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sport",
-      "keywords": [
-        "Table Tennis",
-        "Running",
-        "Liverpool FC"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Norwegian",
-      "fluency": "Native",
-      "native": true,
-      "keywords": [
-        "Norwegian",
-        "Bokmål"
-      ]
     },
     {
-      "language": "English",
-      "fluency": "Full Professional Proficiency",
-      "native": false,
-      "keywords": [
-        "English",
-        "American English",
-        "British English"
+      "institution": "Eu Da",
+      "area": "IT Sales Specialist",
+      "studyType": "715-Hour Course",
+      "courses": [
+        "PC Assembly, Troubleshooting, and Installation",
+        "Networks and Network Servers",
+        "Office Software and Planning Tools",
+        "Sales Training"
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "Karemo",
-      "startDate": "2024-01-01",
-      "description": "Karemo is a job-seeker CRM designed to help users manage applications, job postings, contacts, documents, interviews, tasks, and follow-ups in one place. The project focuses on a simple and fast user experience, structured domain modules (timeline, reminders/tasks, documents, interview logs, salary negotiations, competence items), and reliable local persistence. The solution is built as a modular .NET desktop application with clear separation between domain logic, data access, and UI, and is intended to integrate well with external profile/CV assets (e.g., CVSmia) through links and shared information architecture.",
-      "url": "https://karemo.solsem.no",
-      "entity": "Solsem Consulting",
-      "endDate": "2030-12-31",
-      "roles": [
-        "project lead",
-        "product owner",
-        "developer"
-      ],
-      "highlights": [
-        "Platform: .NET desktop application (Windows) with modular UI (tab-based modules) and shared navigation/commands",
-        "Architecture: clear separation of concerns (Domain layer per module + Data layer + UI layer) with DTOs for stable contracts",
-        "Persistence: local SQLite database with Entity Framework Core migrations and schema mapping control",
-        "Core modules: job postings, applications, application stage history (timeline), case tasks/reminders, documents/links, interview logs, salary negotiation, competence tracking",
-        "Reliability: extensive logging (file/console/debug) and defensive error handling around data loading and queries",
-        "Licensing/modularity: optional module enablement controlled via licensing/module identifiers",
-        "Delivery: GitHub Actions build/deploy pipeline with unified versioning across multiple projects",
-        "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
-      ]
-    },
-    {
-      "name": "CVSmia",
-      "startDate": "2025-01-01",
-      "description": "CVSmia is a digital project to develop and operate a modern CV management system for job seekers, consultants, and advisors. The project focuses on structured content (JsonResume-based CV data), reusable components, and clear presentation of profiles, skills, and projects. The solution is built to help job seekers, consultants, and advisors create, manage, and share their CVs in a digital format that is easy for recruiters and employers to read.",
-      "url": "https://cvsmia.solsem.no",
-      "entity": "Solsem Consulting",
-      "endDate": "2030-12-31",
-      "roles": [
-        "project lead",
-        "product owner",
-        "developer"
-      ],
-      "highlights": [
-        "Data standard: CV data structured according to JsonResume for portability across systems and views",
-        "Backend/tooling: C#/.NET for data modeling, transformation, and generation/validation of JsonResume content",
-        "Serialization: JSON serialization and DTO modeling to ensure a stable contract between the data layer and the presentation layer",
-        "Frontend: Windows desktop application built with C#/.NET WinForms for editing and managing JsonResume content",
-        "Modular architecture with licensed, module-based extensions (feature toggles and entitlement-driven capabilities)",
-        "Export capabilities to recruitment/ATS systems (structured output and system-specific mappings)",
-        "Language enhancement features for CV content (tone, clarity, and localization support)",
-        "Auto-mapping between CV data and job posting text to identify matches, gaps, and tailored content suggestions",
-        "CI/CD: GitHub used for source control and automated build/deployment pipelines, GitHub Actions",
-        "Multilanguage website with product information, licensing information, documentation, and download links hosted on private domain"
-      ]
-    },
-    {
-      "name": "Artists' network (KN)",
-      "startDate": "2025-10-05",
-      "description": "The project's mandate is to prepare a draft for a joint strategy for KN, including prioritizing which issues should be promoted. It will also develop proposals for how KN can demonstrate and communicate the value of its work to its member organizations, and create a two-year action plan outlining how KN should prioritize and succeed in implementing the strategy.",
-      "url": "https://www.prosperastiftelsen.no",
-      "entity": "The Prospera Foundation",
-      "endDate": "2026-02-09",
-      "roles": [
-        "Project Mentor"
-      ],
-      "highlights": [
-        "Provided 1:1 coaching for the project lead and chair with clear learning goals per sprint.",
-        "Sparred on problem statements, hypotheses, and prioritization criteria before decisions.",
-        "Quality assured deliverables with checklists, templates, and acceptance criteria.",
-        "Created a knowledge-transfer plan so the team can run the process independently."
-      ]
-    },
-    {
-      "name": "Implementation of eADM",
-      "startDate": "2025-09-05",
-      "description": "A project with the mandate to implement eADM in Enebakk Municipality. eADM is a tool for identification and access management. It will serve as a system for automating access control within the municipality.",
-      "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
-      "endDate": "2030-12-31",
-      "roles": [
-        "Project Participant"
-      ],
-      "highlights": [
-        "Created an integration plan for HR, AD/Azure AD, and line-of-business systems with automated provisioning."
-      ]
-    },
-    {
-      "name": "Strategy for service development and innovation",
-      "startDate": "2025-08-05",
-      "description": "The project will develop an overall strategy for service development in Enebakk Municipality. The strategy will help ensure that the municipality develops services aligned with the needs and expectations of its residents, while also taking into account the municipality's resources and capacities. It will also aim to promote innovation and continuous improvement of services.",
-      "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
-      "endDate": "2030-12-31",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Delivered the target state for citizen and employee experience with measurement indicators.",
-        "Introduced a prioritization model based on value, cost, and capacity.",
-        "Standardized the service development lifecycle with insight, prototyping, testing, and scaling.",
-        "Established governance structure and portfolio linkage with benefit plans.",
-        "Created a capability-building plan for service design and improvement work."
-      ]
-    },
-    {
-      "name": "Plan for social housing initiatives",
-      "startDate": "2025-06-10",
-      "description": "The project aims to develop a comprehensive plan for housing and social services in Enebakk Municipality. The plan will help ensure that residents have access to the services the municipality is responsible for providing within the field of housing and social work. It will also facilitate collaboration between different actors and sectors, and ensure the efficient use of resources.",
-      "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
-      "endDate": "2030-12-31",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Conducted stakeholder and needs analysis across sectors.",
-        "Defined target groups, user journeys, and outcome indicators for initiatives.",
-        "Planned use of policy instruments, collaboration models, and lines of responsibility.",
-        "Created a benefit map and follow-up regime for impact measurement and reporting.",
-        "Completed risk analysis and measures for compliance, privacy, and data security."
-      ]
-    },
-    {
-      "name": "Project Nexus - New intranet",
-      "startDate": "2025-06-13",
-      "description": "The project aims to establish a technical platform for a new intranet in Enebakk Municipality. This platform should be user-friendly, accessible, and enable collaboration and information sharing across the organization.",
-      "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
-      "endDate": "2030-12-31",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Selected platform and architecture with focus on search, access control, and universal design.",
-        "Defined information architecture, taxonomy, and content governance with clear ownership.",
-        "Created a migration plan from existing channels with quality criteria and cutover.",
-        "Built an adoption plan with training, a super-user network, and usage metrics.",
-        "Established an operations and governance model with SLA and change management."
-      ]
-    },
-    {
-      "name": "Safety alarms",
-      "startDate": "2025-06-20",
-      "description": "The project aims to implement new safety alarms in Enebakk Municipality. This includes the procurement, configuration, and rollout of the alarms, as well as training staff in how to use the system.",
-      "url": "https://www.enebakk.kommune.no",
-      "entity": "Enebakk Municipality",
-      "endDate": "2030-12-31",
-      "roles": [
-        "Project Coordinator"
-      ],
-      "highlights": [
-        "Created a rollout plan, logistics, and configuration management per user.",
-        "Delivered a training program for home care services and the response center."
-      ]
-    },
-    {
-      "name": "RELOVE V25",
-      "startDate": "2025-02-01",
-      "description": "RELOVE needs effective methods to document and showcase its societal value. This is crucial both to ensure continued support and to communicate the organization's significance in the local community. In the long term, RELOVE aims to qualify for a permanent position in the state budget. The pro bono team will therefore assist RELOVE in articulating their core business and identity in a clear and concise manner. The team will develop a few concise statements that capture the essence of RELOVE's operations, define the concrete value creation from RELOVE's various activity areas, and establish systematic measurement routines to document the organization's impact and results going forward, for example, through structured registration of recycled textile volumes or the number of young people entering employment.",
-      "url": "https://www.relove.info",
-      "entity": "The Prospera Foundation",
-      "endDate": "2025-06-01",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led a team of 5 people in a project to develop a new strategy for RELOVE.",
-        "Ensured the project was delivered within the timeframe and budget.",
-        "Developed a new communication strategy that increased RELOVE's visibility.",
-        "Established lightweight impact measurement for social contribution and reporting routines.",
-        "Defined KPIs linked to textile volume and transition to employment."
-      ]
-    },
-    {
-      "name": "OOF H24 - Finance and Business Management",
-      "startDate": "2024-10-01",
-      "description": "The purpose of this project is to assist OOF in selecting and implementing digital tools that will streamline and simplify administrative and operational processes. OOF aims to minimize manual tasks while strengthening its ability to maintain oversight and control within key functions such as time tracking, budget management, accounting, and project management.",
-      "url": "https://www.osloogomlandfriluftsrad.no/",
-      "entity": "The Prospera Foundation",
-      "endDate": "2025-01-01",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the project to digitize administrative processes at Oslo og Omland Friluftsråd, focusing on time tracking, budgeting, and project management.",
-        "Conducted needs analysis and evaluation of digital tools that best met the organization's requirements.",
-        "Coordinated the implementation of new systems, resulting in a 30% reduction in manual administrative work.",
-        "Designed the training plan, data flow, and role-based access model."
-      ]
-    },
-    {
-      "name": "Decommissioning of legacy log tool and deployment of agents",
-      "startDate": "2020-07-01",
-      "description": "The project's mandate is to decommission old hardware, set up new hardware, and deploy various security-related agents on thousands of servers. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2020-11-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the decommissioning of outdated hardware and implementation of new security solutions on thousands of servers.",
-        "Coordinated cross-functional teams in a fully digital work model during the pandemic via Microsoft Teams.",
-        "Regularly reported to the steering group and portfolio management, achieving 100% of the project's milestones.",
-        "Established operational routines and documentation for the agent lifecycle and patching."
-      ]
-    },
-    {
-      "name": "Implementing extended security focus in DNB software lifecycle",
-      "startDate": "2020-07-01",
-      "description": "The project's mandate is to identify needs, procure, implement, and establish governance documents for solutions that increase focus on security aspects throughout the software lifecycle for software developed internally and by our partners. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Supplier dialogue included describing requirements, conducting supplier evaluations. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2020-11-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Developed and implemented comprehensive security-focused governance documents for software development at DNB.",
-        "Conducted supplier evaluations and established new security requirements for external development partners.",
-        "Achieved significant improvement in security focus throughout the software lifecycle by implementing new tools and routines.",
-        "Established measurable maturity improvements and training paths for development teams."
-      ]
-    },
-    {
-      "name": "IAM - Cleanup and Compliance",
-      "startDate": "2020-06-01",
-      "description": "The project's mandate is to implement extended automation of access management using ServiceNow, IIQ, and other relevant tools. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2020-11-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the implementation of automated access management with ServiceNow and IIQ, resulting in a 40% reduction in manual access processes.",
-        "Ensured compliance with internal and external regulations through improved documentation and processes.",
-        "Coordinated stakeholders across departments to ensure optimal implementation of the IAM solution.",
-        "Defined control points for periodic access recertification."
-      ]
-    },
-    {
-      "name": "Penetration testing",
-      "startDate": "2019-08-01",
-      "description": "The project's mandate was to facilitate penetration testing of DNB's systems. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2020-11-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Established and led a comprehensive program for penetration testing of critical systems at DNB.",
-        "Coordinated internal security experts and external partners to conduct thorough security tests.",
-        "Developed protocols for systematic follow-up of findings, resulting in an 85% reduction in critical vulnerabilities.",
-        "Integrated security testing into the release process with clear prioritization of actions."
-      ]
-    },
-    {
-      "name": "Implementing DDoS protection for a defined part of DNB's system portfolio",
-      "startDate": "2019-07-01",
-      "description": "The project's mandate was to move parts of DNB's system portfolio behind enhanced DDoS protection. My tasks in this project included continuous follow-up, stakeholder management, planning, reporting to portfolio management, reporting to the steering group, and handling project documentation. I coordinated resources, both internal and from our partners. Due to the country's situation, these tasks were largely carried out via Microsoft Teams.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2020-11-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the implementation of enhanced DDoS protection for critical system components at DNB.",
-        "Developed a comprehensive migration strategy that minimized downtime during system transitions.",
-        "Coordinated technical resources across teams to ensure seamless integration with existing infrastructure.",
-        "Defined monitoring and incident response procedures after go-live."
-      ]
-    },
-    {
-      "name": "New business portal",
-      "startDate": "2018-01-01",
-      "description": "Scrum Master for this development project. Performed the tasks associated with the role according to the Scrum Guide. Additionally, introduced and trained participants in agile methodologies, both within the IT organization and among participants from other business areas.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2019-01-01",
-      "entity": "DNB",
-      "roles": [
-        "Scrum Master"
-      ],
-      "highlights": [
-        "Served as Scrum Master for a cross-functional team of 8 people developing DNB's new business portal.",
-        "Conducted thorough training in agile methodologies for both IT developers and business representatives.",
-        "Facilitated daily stand-ups, sprint planning, and retrospectives, contributing to a 30% increase in development efficiency.",
-        "Established continuous delivery with lead-time and quality measurement."
-      ]
-    },
-    {
-      "name": "GDPR at DNB Liv",
-      "startDate": "2018-01-01",
-      "description": "Compliance project with the mandate to ensure that DNB Liv's systems meet GDPR requirements. In this project, I served as Scrum Master, performing tasks as described in the Scrum Guide.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2018-03-01",
-      "entity": "DNB",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the GDPR implementation project for DNB Liv, ensuring full compliance by the May 2018 deadline.",
-        "Coordinated a cross-functional team consisting of legal experts, IT specialists, and business analysts.",
-        "Implemented new systems and processes to manage data privacy rights and data deletion.",
-        "Established documentation and audit tracks for compliance."
-      ]
-    },
-    {
-      "name": "Supplier catalogue",
-      "startDate": "2014-09-01",
-      "description": "The project's mandate was to adapt and implement Sharecat's family of catalog services to be used by one of the world's largest oil suppliers. I took over the project as project manager after it had been ongoing for a few months. My tasks included tying up all loose ends, creating a detailed project plan for the remaining deliverables, and daily follow-up. The project was carried out with multi-disciplinary resources and participants in several countries. Planning, execution, and follow-up were carried out using MS Project 2013.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2015-04-01",
-      "entity": "Sharecat Solutions AS",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Took over a complex international project and developed a detailed project plan that ensured successful delivery.",
-        "Led a geographically distributed team across multiple countries in implementing Sharecat's catalog services.",
-        "Managed the project's resources and schedule using MS Project 2013, delivering within the original budget."
-      ]
-    },
-    {
-      "name": "Expansion of vCRM",
-      "startDate": "2011-03-01",
-      "description": "The project's mandate was to expand and improve Ventelo's CRM system. Based on an analysis of incoming requests to the IT department, five critical areas were identified where the existing system lacked support for business needs. The task was to analyze these needs and implement solutions that addressed the defined business cases.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2011-10-01",
-      "entity": "Ventelo",
-      "roles": [
-        "Project Manager",
-        "Software Engineer"
-      ],
-      "highlights": [
-        "Led and developed extensions to Ventelo's CRM system based on a thorough analysis of IT support requests.",
-        "Identified and implemented solutions for 5 critical business areas that lacked system support.",
-        "Performed both project manager and developer roles, resulting in seamless implementation and a 25% reduction in IT support requests."
-      ]
-    },
-    {
-      "name": "IRIS - Report Distribution System",
-      "startDate": "2007-02-01",
-      "description": "A system developed for the distribution of reports, with functionality for managing users and report objects to be distributed. The solution includes setting up subscriptions, scheduling distribution times and frequencies, and seamless integration with Active Directory (AD) for efficient user management. The system is built with C#, ADO.Net, and MS SQL Server as the database solution.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2007-06-01",
-      "entity": "Umoe Mandal",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Developed and implemented a complete report distribution system using C# and MS SQL Server.",
-        "Implemented advanced AD integration for automated user management.",
-        "Designed a flexible subscription solution that allowed users to schedule and receive reports based on individual needs."
-      ]
-    },
-    {
-      "name": "ULV - Tool delivery",
-      "startDate": "2005-03-01",
-      "description": "A system designed to manage the delivery and return of tools. The solution is developed in C# with MS SQL Server as the database and ADO.Net for data access. The system includes functionality for electronic signatures, generation of customized reports, and seamless integration with Active Directory (AD) for efficient user management.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2006-05-01",
-      "entity": "Umoe Mandal",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the project from requirements specification to implementation and operation.",
-        "Developed a C# application with MS SQL Server as the database.",
-        "Implemented AD integration and electronic signature functionality."
-      ]
-    },
-    {
-      "name": "tiUM - Time Registration Umoe Mandal",
-      "startDate": "2004-05-01",
-      "description": "Led a comprehensive implementation of a modern time registration system for Umoe Mandal, where I was responsible for all project phases from requirements analysis to deployment. The project included preparing a detailed requirements specification, designing a tailored solution architecture, technical implementation, coordinating rollout, and thorough training of both end-users and technical personnel. Additionally, I developed extensive user and system documentation to ensure sustainable future operations. The system was developed in VB.Net with a Winforms interface and MS SQL Server as the database solution. The solution included advanced functionality such as seamless integration with the existing time-stamping system, automatic email notifications for timesheet approvals, structured data transfer to the payroll system, and intelligent auto-generation of timesheets based on predefined criteria. This resulted in significantly reduced administrative workload and improved data quality in the organization's time registration and payroll processing.",
-      "url": "https://harry.solsem.no",
-      "endDate": "2007-08-01",
-      "entity": "Umoe Mandal",
-      "roles": [
-        "Project Manager"
-      ],
-      "highlights": [
-        "Led the project from requirements specification to implementation and operation.",
-        "Developed a VB.Net application with MS SQL Server as the database.",
-        "Implemented integration with the time-stamping system and email notifications."
-      ]
-    }
-  ],
-  "publications": [],
-  "references": [],
   "skills": [
     {
       "name": "Project and portfolio management",
@@ -867,614 +1594,72 @@
         "log cleanup",
         "CMDB"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "The Prospera Foundation",
-      "position": "Pro-bono Consultant",
-      "url": "https://www.prosperastiftelsen.no",
-      "startDate": "2024-10-01",
-      "endDate": "2026-02-28",
-      "summary": "Project mentor and project manager for a number of projects in organizational development and digitalization. The work involves providing guidance and support to project managers and teams to ensure successful planning, execution, and completion of projects. I share best practices in project management, provide advice on how to",
-      "highlights": [
-        "Project manager for two projects in organizational development and digitalization.",
-        "Project mentor for a project that helps the Artist Network with strategy and visibility."
+      "name": "Leadership and Project Delivery",
+      "keywords": [
+        "IT Project Management",
+        "People Management",
+        "Team Leadership",
+        "Recruitment",
+        "Employee Onboarding",
+        "Capability Development",
+        "Scrum",
+        "Agile Development",
+        "Process Improvement"
       ]
     },
     {
-      "organization": "Langhus IL Table Tennis",
-      "position": "Group Leader and Chairman",
-      "url": "https://www.langhusil.no/bordtennis",
-      "startDate": "2024-09-01",
-      "summary": "I coordinate board meetings, annual meetings, prepare agendas, and follow up on decisions made. I also represent the club externally in meetings with the municipality, sports associations, and the Norwegian Table Tennis Federation. Good financial management is a central part of my role, where I am responsible for budgeting, reporting, and applying for financial support. I organize training sessions, recruit qualified coaches, and facilitate player development at all levels. Planning and executing club tournaments as well as coordinating participation in external tournaments also fall under my responsibilities. I actively work to recruit new members through marketing and various recruitment activities. Furthermore, I ensure the maintenance of equipment, tables, and training facilities. An important part of my leadership is creating a positive environment in the club through social activities and good communication among members.",
-      "highlights": [
-        "Planned and led the annual meeting with complete case documentation and minutes.",
-        "Budget management, accounting follow-up, and grant applications to NIF and the municipality.",
-        "Sports plan, coach agreements, and court time allocation in the hall.",
-        "Organized club tournaments and coordinated league play and licensing.",
-        "Recruitment through school collaboration and open-day events.",
-        "Equipment management: tables, rubbers, barriers, and secure storage."
+      "name": "Software Development",
+      "keywords": [
+        "C#",
+        ".NET",
+        "Visual Basic",
+        "VBA",
+        "Visual C++",
+        "ANSI C",
+        "Visual FoxPro",
+        "Windows SharePoint Services",
+        "Analysis and Design",
+        "User-Interface Design"
       ]
     },
     {
-      "organization": "JM Hilda Langhus vei 7-9 Housing Association",
-      "position": "Board Member",
-      "startDate": "2026-05-27",
-      "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
-      "highlights": [
-        "Annual cycle for operations, budgeting, and liquidity forecasts.",
-        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
-        "Maintenance plan with FM documentation and financial provisions.",
-        "Case handling and resident communication through digital channels.",
-        "Planning and execution of the annual meeting with minutes."
+      "name": "Databases",
+      "keywords": [
+        "Data Modelling",
+        "Microsoft Access",
+        "Oracle",
+        "Sybase SQL Anywhere",
+        "Report Development",
+        "Troubleshooting and Maintenance"
       ]
     },
     {
-      "organization": "Langhus 1405 Housing Association",
-      "position": "Board Member",
-      "startDate": "2021-07-01",
-      "endDate": "2026-04-13",      
-      "summary": "As a board member of a housing association, I have several responsibilities that contribute to ensuring a well-functioning and harmonious living environment for all residents. I actively participate in board meetings where I help make important decisions regarding the operation, maintenance, and development of the association. I work on budgeting and financial management, and I follow up on accounts and reporting to ensure that the association's funds are used responsibly and effectively. Additionally, I am responsible for entering into agreements with suppliers and service providers to ensure that necessary tasks such as cleaning, maintenance, and repairs are carried out professionally. I also help draft and update the association's statutes and house rules, ensuring they are enforced fairly. I regularly communicate with residents, both by informing them about matters affecting the community and by listening to their input and concerns. Furthermore, I contribute to planning and conducting annual meetings, where I present the association's status, discuss future plans, and ensure that everyone has the opportunity to participate in decision-making processes.",
-      "highlights": [
-        "Annual cycle for operations, budgeting, and liquidity forecasts.",
-        "Procurement and contract follow-up for cleaning, plumbing, and electrical services.",
-        "Maintenance plan with FM documentation and financial provisions.",
-        "Case handling and resident communication through digital channels.",
-        "Planning and execution of the annual meeting with minutes."
+      "name": "IT Operations and User Support",
+      "keywords": [
+        "Systems Operations",
+        "Network Operations",
+        "Software Installation",
+        "User Support",
+        "Windows NT Server",
+        "NetWare"
       ]
     },
     {
-      "organization": "The Norwegian Thyroid Association",
-      "position": "Board Member",
-      "url": "https://stofo.no/",
-      "startDate": "2020-11-01",
-      "summary": "As a board member of the Norwegian Thyroid Association, I contribute to promoting the association's work for people with thyroid disorders. I participate in planning and conducting meetings, develop strategies, and ensure follow-up on decisions. I contribute to financial management, participate in budgeting, and follow up on financial reports. Additionally, I work on communication and information, helping to reach out to members and partners. Through my engagement, I contribute to an inclusive environment that promotes knowledge, support, and development for members.",
-      "highlights": [
-        "Board work with strategy, objectives, and risk management.",
-        "Budgeting and periodic reporting with variance handling.",
-        "Recruitment and hiring of the secretary general.",
-        "Communication planning toward members and partners.",
-        "Follow-up of resolutions and reporting to the annual meeting."
-      ]
-    },
-    {
-      "organization": "The Norwegian Thyroid Association",
-      "position": "Peer Supporter",
-      "url": "https://stofo.no/",
-      "startDate": "2017-03-01",
-      "summary": "As a peer supporter in the Norwegian Thyroid Association, I offer support and guidance to individuals living with thyroid disorders. I share experiences, listen to others' challenges, and help create a safe space where members can exchange advice and find motivation. Through my engagement, I contribute to strengthening the community and promoting understanding of the condition.",
-      "highlights": [
-        "Provided individual guidance following ethical guidelines.",
-        "Used structured conversation methods and needs mapping.",
-        "Referred members to professional resources and services when needed.",
-        "Shared anonymized experiences back to the organization."
-      ]
-    },
-    {
-      "organization": "NITO Hordaland",
-      "position": "Chair, local negotiations committee (Private sector)",
-      "url": "https://nito.no/",
-      "startDate": "2019-02-19",
-      "endDate": "2020-06-21",
-      "summary": "Chair of the local negotiations committee for the private sector in NITO Hordaland. In this role, I led local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance. Additionally, I assisted members in cases related to pay and working conditions.",
-      "highlights": [
-        "Led local negotiations and consultations in line with the Basic Agreement.",
-        "Prepared claims, data basis, and mandate for the committee.",
-        "Drafted minutes and ensured deadline compliance.",
-        "Assisted members in cases related to pay and working conditions."
-      ]
-    },
-    {
-      "organization": "NITO Hordaland",
-      "position": "Chair, election committee",
-      "url": "https://nito.no/",
-      "startDate": "2019-02-08",
-      "endDate": "2020-06-21",
-      "summary": "Chair of the election committee for NITO Hordaland. In this role, I planned candidate outreach and evaluation criteria, conducted interviews, made recommendations, and presented results to the annual meeting. I ensured impartiality and a transparent process throughout the election.",
-      "highlights": [
-        "Planned candidate outreach and evaluation criteria.",
-        "Conducted interviews, recommendations, and presentation to the annual meeting.",
-        "Ensured impartiality and a transparent process."
-      ]
-    },
-    {
-      "organization": "NITO Hordaland",
-      "position": "Member, ICT professional group",
-      "url": "https://nito.no/",
-      "startDate": "2018-04-19",
-      "endDate": "2019-05-29",
-      "summary": "Member of network group for members working in ICT. In this role, I contributed to discussions on professional development, industry trends, and challenges in the ICT sector. I helped organize events and knowledge-sharing sessions for members and provided input on policy and consultations related to ICT.",
-      "highlights": [
-        "Provided professional input to policy and consultations within ICT.",
-        "Built programs for professional evenings and knowledge sharing.",
-        "Contributed to member recruitment in tech environments."
-      ]
-    },
-    {
-      "organization": "DNB BANK ASA",
-      "position": "Chair, company group",
-      "url": "https://nito.no/",
-      "startDate": "2017-11-06",
-      "endDate": "2021-01-31",
-      "summary": "Chair of the company group for DNB Bank ASA. In this role, I led the company group and maintained dialogue with management. I handled local pay negotiations and consultation meetings, supported members, recruitment, and information work, and managed cases in restructuring processes.",
-      "highlights": [
-        "Led the company group and maintained dialogue with management.",
-        "Handled local pay negotiations and consultation meetings.",
-        "Supported members, recruitment, and information work.",
-        "Managed cases in restructuring processes."
-      ]
-    },
-    {
-      "organization": "NITO Hordaland",
-      "position": "Member, local negotiations committee",
-      "url": "https://nito.no/",
-      "startDate": "2017-03-01",
-      "endDate": "2017-05-31",
-      "summary": "Member of the local negotiations committee for NITO Hordaland. In this role, I contributed to local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
-      "highlights": [
-        "Prepared negotiation basis and salary statistics.",
-        "Participated in consultations and recorded agreements.",
-        "Contributed to member information meetings."
-      ]
-    },
-    {
-      "organization": "NITO Vest-Agder",
-      "position": "Division board member",
-      "url": "https://nito.no/",
-      "startDate": "2017-03-01",
-      "endDate": "2017-05-31",
-      "summary": "Division board member for NITO Vest-Agder. In this role, I participated in board meetings covering budgets and activity plans, organized member meetings and courses, and contributed to recruitment and communication work.",
-      "highlights": [
-        "Participated in board meetings covering budgets and activity plans.",
-        "Organized member meetings and courses.",
-        "Contributed to recruitment and communication work."
-      ]
-    },
-    {
-      "organization": "NITO",
-      "position": "Board member, private tariff committee",
-      "url": "https://nito.no/",
-      "startDate": "2015-03-05",
-      "endDate": "2024-03-13",
-      "summary": "Board member of the private tariff committee for NITO. In this role, I handled claims and strategies for the private tariff area, analyzed statistics and wage frameworks under the Norwegian front-runner model, and prepared recommendations for the national board.",
-      "highlights": [
-        "Handled claims and strategies for the private tariff area.",
-        "Analyzed statistics and wage frameworks under the Norwegian front-runner model",
-        "Prepared recommendations for the national board."
-      ]
-    },
-    {
-      "organization": "NITO Hordaland",
-      "position": "Member, local private tariff committee",
-      "url": "https://nito.no/",
-      "startDate": "2014-03-21",
-      "endDate": "2016-12-31",
-      "summary": "Member of local tariff committee for the private sector in NITO Hordaland. In this role, I contributed to local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
-      "highlights": [
-        "Drafted local demands and priorities.",
-        "Maintained dialogue with union reps and employer.",
-        "Followed up on tariff results and implementation."
-      ]
-    },
-    {
-      "organization": "Sharecat Solutions AS",
-      "position": "Chair, company group",
-      "url": "https://nito.no/",
-      "startDate": "2013-07-30",
-      "endDate": "2015-02-15",
-      "summary": "Chair of the company group for Sharecat Solutions AS. In this role, I led the company group and maintained dialogue with management. I handled local pay negotiations and consultation meetings, supported members, recruitment, and information work, and managed cases in restructuring processes.",
-      "highlights": [
-        "Established the company group and elected union representatives.",
-        "Conducted local negotiations and information meetings.",
-        "Handled cases on working hours and competence development."
-      ]
-    },
-    {
-      "organization": "NITO Vest-Agder",
-      "position": "Division board member",
-      "url": "https://nito.no/",
-      "startDate": "2012-03-21",
-      "endDate": "2012-06-30",
-      "summary": "Division board member for NITO Vest-Agder. In this role, I participated in board meetings covering budgets and activity plans, organized member meetings and courses, and contributed to recruitment and communication work.",
-      "highlights": [
-        "Board participation in a short period focused on events.",
-        "Adjusted budgets and selected vendors for courses.",
-        "Communicated with members in the region."
-      ]
-    },
-    {
-      "organization": "NITO",
-      "position": "Board member, tariff committee (Spekter)",
-      "url": "https://nito.no/",
-      "startDate": "2012-03-09",
-      "endDate": "2012-06-30",
-      "summary": "Board member of the tariff committee for the Spekter area in NITO. In this role, I contributed to tariff strategy, assessed claims and financial frameworks, and prepared material for negotiations and consultations.",
-      "highlights": [
-        "Contributed to tariff strategy for the Spekter area.",
-        "Assessed claims and financial frameworks.",
-        "Prepared material for negotiations and consultations."
-      ]
-    },
-    {
-      "organization": "GlobalConnect AS, Kristiansand",
-      "position": "Chair, local group",
-      "url": "https://nito.no/",
-      "startDate": "2010-09-15",
-      "endDate": "2012-04-26",
-      "summary": "Chair of the local group for GlobalConnect AS Avd Kristiansand. In this role, I led the local group and maintained dialogue with HR. I handled local cases on pay, working environment, and restructuring, and recorded minutes and followed up on actions.",
-      "highlights": [
-        "Led the local committee and maintained dialogue with HR.",
-        "Handled local cases on pay, working environment, and restructuring.",
-        "Recorded minutes and followed up on actions."
-      ]
-    },
-    {
-      "organization": "NITO Vest-Agder",
-      "position": "Chair, local negotiations committee (Spekter)",
-      "url": "https://nito.no/",
-      "startDate": "2011-03-25",
-      "endDate": "2012-06-13",
-      "summary": "Chair of the local negotiations committee for the Spekter area in NITO Vest-Agder. In this role, I led local negotiations and consultations in line with the Basic Agreement. I prepared claims, data basis, and mandate for the committee, drafted minutes, and ensured deadline compliance.",
-      "highlights": [
-        "Led negotiations in the Spekter area.",
-        "Coordinated input from member organizations.",
-        "Recorded outcomes and informed members."
-      ]
-    },
-    {
-      "organization": "NFF Agder",
-      "position": "Football referee instructor",
-      "url": "https://nito.no/",
-      "startDate": "2001-01-01",
-      "endDate": "2012-05-11",
-      "summary": "Football referee instructor for NFF Agder. In this role, I planned and delivered referee courses and recruitment, observed matches with structured feedback, and followed up referee development plans.",
-      "highlights": [
-        "Planned and delivered referee courses and recruitment.",
-        "Observed matches with structured feedback.",
-        "Followed up referee development plans."
-      ]
-    },
-    {
-      "organization": "IL Giv Akt",
-      "position": "Referee liaison",
-      "url": "https://www.givakt.no",
-      "startDate": "1998-01-01",
-      "endDate": "2012-05-11",
-      "summary": "Referee liaison for IL Giv Akt. In this role, I coordinated referees for matches, recruited and followed up new referees, and maintained dialogue with the district association and team leaders.",
-      "highlights": [
-        "Set up and coordinated referees for matches.",
-        "Recruited and followed up new referees.",
-        "Maintained dialogue with the district association and team leaders."
-      ]
-    },
-    {
-      "organization": "Rødberg og Gjedeland residents’ association",
-      "position": "Chair",
-      "url": "https://www.ikke.no",
-      "startDate": "2001-01-01",
-      "endDate": "2001-01-01",
-      "summary": "Chair of the Rødberg og Gjedeland residents’ association, with overall responsibility for board governance, external representation, follow-up of board resolutions, and sound financial management.",
-      "highlights": [
-        "Constituted the board and meeting plan.",
-        "Worked on bylaws and prioritization of measures.",
-        "Served as point of contact with the municipality and residents."
+      "name": "Guidance and Organisational Work",
+      "keywords": [
+        "Teaching",
+        "Mentoring",
+        "Communication",
+        "Collective Bargaining",
+        "Labour–Management Cooperation"
       ]
     }
   ],
-  "work": [
-    {
-      "name": "Enebakk Municipality",
-      "position": "Advisor digital transformation and portfolio management",
-      "url": "https://www.enebakk.kommune.no",
-      "startDate": "2025-06-04",
-      "summary": "As advisor at Enebakk municipality, I play a key role in driving forward digital initiatives that create real value for both citizens and employees. I lead projects that streamline services, enhance user experiences, and modernize internal processes – with a strong focus on sustainability, benefit realization, and strategic alignment.I also serve as team lead for the municipality’s project portfolio team, where I coordinate ongoing projects, allocate resources, and ensure structured portfolio management across departments. This enables better collaboration, improved execution capacity, and more targeted development. In parallel, I’m building and will lead a new Project Management Office (PMO) for the organization. The PMO will provide common frameworks, tools, and support functions to ensure professional project execution. It will strengthen governance, support project managers, and give leadership the insight needed to make informed decisions. I combine strategic insight with hands-on delivery. With strong experience from complex public sector projects and a proven ability to foster cross-functional collaboration, I’m passionate about translating digital potential into real-world improvements – and helping shape a modern, efficient, and attractive public sector.",
-      "highlights": [
-        "Established a PMO with shared methodology, templates, and governance structure (PRINCE2/Agile hybrid).",
-        "Portfolio management with prioritization criteria, capacity planning, and benefit mapping.",
-        "Service development using insight-based service design and target states (KPI/OKR).",
-        "Benefits realization with measurement plans, baseline, and effect tracking against political goals.",
-        "Integrated information security and privacy into the project lifecycle (ISO 27001/GDPR)."
-      ]
-    },
-    {
-      "name": "The Prospera Foundation",
-      "position": "Project mentor",
-      "url": "https://www.prosperastiftelsen.no",
-      "startDate": "2025-10-01",
-      "endDate": "2026-02-28",
-      "summary": "As a project mentor at The Prospera Foundation, I provide guidance and support to project managers and teams to help them successfully plan, execute, and complete their projects. My role involves sharing best practices in project management, offering advice on overcoming challenges, and helping to develop effective strategies for achieving project goals. I work closely with project teams to ensure they have the necessary skills and resources to deliver high-quality results on time and within budget. By fostering a collaborative environment and encouraging continuous learning, I aim to enhance the overall effectiveness of project management within the organization",
-      "highlights": [
-        "Mentored on planning documents, milestone management, and risk registers.",
-        "Introduced impact mapping and a simple benefit plan per initiative.",
-        "Advised on stakeholder management and decision forums.",
-        "Quality assured delivery scope, criteria, and acceptance."
-      ]
-    },
-    {
-      "name": "The Prospera Foundation",
-      "position": "Project Manager",
-      "url": "https://www.prosperastiftelsen.no",
-      "startDate": "2024-10-01",
-      "endDate": "2025-10-01",
-      "summary": "Hired as a project manager at The Prospera Foundation. My responsibilities include leading project teams, planning, prioritizing, and decision-making, overall responsibility for the quality of deliverables, ensuring deadlines are met, and anchoring with the project recipient. In this role, I actively apply knowledge from my certifications in Prosci Change Management and PRINCE2 project methodology, combined with experience from Lean and Agile. I have built and led several teams of up to 5 people, focusing on creating team spirit and psychological safety. All projects have been delivered according to quality goals and within the set deadlines.",
-      "highlights": [
-        "Operational leadership of cross-functional teams (1-5 FTE) with a clear milestone plan.",
-        "PRINCE2 governance: business case, decision log, and deviation management.",
-        "Agile execution with sprint planning, demo, and retrospective.",
-        "Deliveries on time and budget with documented impact for the recipient."
-      ]
-    },
-    {
-      "name": "Riverty",
-      "position": "Department Manager",
-      "url": "https://www.riverty.com",
-      "startDate": "2023-09-01",
-      "summary": "As a diversity leader for technical resources at Riverty, I have achieved significant results through strategic personnel management and organizational development. I developed a high-performing leadership team consisting of 5 team leaders who consistently achieved increased satisfaction in employee surveys. Through structured development conversations and individually tailored career plans for my 15 direct-reporting engineers and my leadership team, I reduced turnover by 20%, creating stability and continuity in the department. For the 50 employees I had overall responsibility for, I implemented monthly professional days and social events that measurably strengthened both team spirit and cross-disciplinary collaboration. On the recruitment side, I successfully attracted and hired 5 top talents with increasing retention. This was achieved through close and well-structured collaboration with People & Culture, where we jointly developed a recruitment program that reduced time-to-hire by 20% without compromising quality. For new hires, I created a structured onboarding program that reduced the time to full productivity from 4 to 2 months. One of my most important contributions was the standardization of development processes across all four Tech Hubs in Europe (Oslo, Stockholm, Tallinn, and Berlin). This harmonization resulted in a 30% increase in delivery capacity and enabled a common technical platform that accelerated time to market. Through systematic work to create a work environment characterized by psychological safety and a healthy error culture, I increased employee satisfaction compared to previously reported values. This also fostered innovation in the organization. My emphasis on physical presence in the office, combined with structured knowledge sharing through tools like Atlassian Confluence, has created a dynamic work environment where both individuals and teams can develop and deliver high-quality results.",
-      "endDate": "2024-06-01",
-      "highlights": [
-        "Built the leadership team and introduced management by objectives with clear KPIs.",
-        "Standardized development processes across Tech Hubs (+30% capacity).",
-        "Reduced turnover by 20% via career plans and 1:1 follow-up.",
-        "Created an onboarding program that halved time to full productivity (4→2 months).",
-        "Partnered with P&C on recruiting, reducing time-to-hire by 20%."
-      ]
-    },
-    {
-      "name": "The Norwegian Thyroid Association",
-      "position": "Consultant",
-      "url": "https://www.stofo.org",
-      "startDate": "2023-05-01",
-      "summary": "Consultant supporting the newly hired Secretary General with strategy clarifications, organizational development, recruitment, onboarding of new employees, and miscellaneous administrative tasks related to the operation of the association.",
-      "endDate": "2023-06-01"
-    },
-    {
-      "name": "Neonomics",
-      "position": "Team Lead | Engineering Manager",
-      "url": "https://www.neonomics.io",
-      "startDate": "2021-08-01",
-      "summary": "As an Engineering Manager at Neonomics, I achieved significant results in personnel management and organizational development. I started as a Team Lead and advanced to Engineering Manager, where I ensured increased employee retention during a period of shifting product focus through targeted efforts. This stability provided a significant competitive advantage in a market characterized by high turnover among technical personnel. In my leadership role, I was responsible for a leadership group of 2 team leaders, where I implemented structured leadership development programs that improved their ability to effectively lead teams and follow up on personnel. This resulted in measurable improvements in team performance and delivery quality. In parallel, I had direct personnel responsibility for 11 engineers, where I increased both productivity and job satisfaction through regular one-on-one meetings and career plans. My present leadership created a work environment characterized by high psychological safety, which led to increased innovation and problem-solving ability within the team. Through strategic communication about the company's direction and future prospects, I built trusting relationships with employees, reducing uncertainty and strengthening engagement even during periods of change. By effectively using tools like Microsoft Office, Atlassian Jira, and Confluence, I optimized project management and knowledge sharing, resulting in more streamlined workflows and better cross-disciplinary collaboration. This contributed to both higher delivery quality and increased employee satisfaction, as documented through improved results in internal surveys.",
-      "endDate": "2023-03-01",
-      "highlights": [
-        "Scaled team leadership with two team leads and 11 direct reports.",
-        "Introduced a 1:1 cadence, career plans, and a skills matrix.",
-        "Improved flow via Scrum/Kanban, Jira boards, and WIP limits.",
-        "Strengthened DevOps practices: release cadence, metrics, and post-mortems."
-      ]
-    },
-    {
-      "name": "KPMG Norway",
-      "position": "Senior Manager",
-      "url": "https://www.kpmg.no",
-      "startDate": "2021-02-01",
-      "summary": "Consultant in project management and agile methodologies.",
-      "endDate": "2021-08-01",
-      "highlights": [
-        "Advised on PMO setup, portfolio management, and benefits realization.",
-        "Agile transformation: framework, capability building, and objectives.",
-        "Process maturity assessment with an action plan and quick wins."
-      ]
-    },
-    {
-      "name": "DNB",
-      "position": "Project Manager",
-      "url": "https://www.dbn.no",
-      "startDate": "2020-05-01",
-      "summary": "My contributions here led to projects being delivered faster and with better end results for users, in addition to increased value for the funds invested in the projects. As a project manager in DNB's IT Security department, I was responsible for 5 projects and their daily management, reported to steering committees, and followed up on deliveries and finances. These include an IAM compliance project, implementation of DDoS protection for a selection of DNB's system portfolio, increased security focus within DNB's software lifecycle, and the decommissioning of an old shared logging solution. Tools used include Microsoft Project, ServiceNow, and Microsoft Office.",
-      "endDate": "2021-01-01",
-      "highlights": [
-        "Led IAM compliance, DDoS rollout, and secure SDLC initiatives.",
-        "Steering committee reporting, cost/benefit analysis, and risk management.",
-        "Planning and resource management in MS Project with follow-up in ServiceNow.",
-        "Decommissioned legacy logging with a controlled migration path."
-      ]
-    },
-    {
-      "name": "DNB",
-      "position": "Technical Lead",
-      "url": "https://www.dbn.no",
-      "startDate": "2017-10-01",
-      "summary": "I contributed to changing the work methodology from using waterfall in projects to adopting an agile approach with the help of Scrum. I was responsible for training colleagues in agile methodologies. This included both technical IT resources and colleagues from other parts of the organization.",
-      "endDate": "2020-05-01",
-      "highlights": [
-        "Rolled out Scrum and Lean practices in cross-functional teams.",
-        "Delivered training and coaching in agile methods and tools.",
-        "Introduced continuous improvement, CI/CD, and coding practices."
-      ]
-    },
-    {
-      "name": "Web Services Technology AS",
-      "position": "Platform Engineer",
-      "url": "https://wst.no",
-      "startDate": "2015-05-01",
-      "summary": "Responsible for the design, implementation, and maintenance of a CI/CD pipeline using TeamCity and OctoDeploy. The work included porting a Java application to C#, JavaScript, and XSL/XML to ensure compatibility and improved functionality. Provided training and guidance in the use of Microsoft development tools such as Visual Studio.",
-      "endDate": "2017-09-01",
-      "highlights": [
-        "Built CI/CD in TeamCity and Octopus Deploy with a versioning strategy.",
-        "Migrated a Java solution to C#/JS/XSL for better maintainability.",
-        "Release management, environment standardization, and monitoring."
-      ]
-    },
-    {
-      "name": "Sharecat Solutions AS",
-      "position": "Project Manager/Scrum Master/Senior Software Developer",
-      "url": "https://home.sharecat.com/",
-      "startDate": "2013-02-01",
-      "summary": "Senior software developer with expertise in the Microsoft stack, Scrum Master, and Agile Coach responsible for implementing Scrum as a project execution methodology. Led delivery projects as a project manager using PRINCE2 methodology, focusing on structured planning, efficient resource management, and quality deliveries.",
-      "endDate": "2015-04-01",
-      "highlights": [
-        "Scrum Master for distributed teams with continuous delivery.",
-        "PRINCE2 planning and resource management for international rollout.",
-        "Customer dialogue, requirements prioritization, and demonstrable increments."
-      ]
-    },
-    {
-      "name": "Ventelo",
-      "position": "Technical Project Manager/Service Delivery Manager/Software Engineer",
-      "url": "https://www.ventelo.no",
-      "startDate": "2010-03-01",
-      "summary": "Developed support and front-end systems. This included web applications used by Ventelo's customers to manage their customer relationships/subscriptions with Ventelo, as well as further development of Ventelo's internal CRM systems. Ventelo utilized SOA and developed using agile methods and continuous integration. C#, Asp.net, MS SQL, TDD, FakeItEasy.",
-      "endDate": "2012-06-01",
-      "highlights": [
-        "Led deliveries on an SOA platform for self-service solutions.",
-        "Maintained and expanded CRM functionality against prioritized needs.",
-        "TDD with FakeItEasy, CI, and automated build/deploy.",
-        "SLA follow-up as Service Delivery Manager."
-      ]
-    },
-    {
-      "name": "Engineering Systems",
-      "position": "Software Developer",
-      "url": "https://www.once.no/",
-      "startDate": "2008-09-01",
-      "summary": "Developed new applications in C#, Windows SharePoint Services, and further developed/expanded existing applications.",
-      "endDate": "2010-03-01",
-      "highlights": [
-        "Developed C# solutions integrated with Windows SharePoint Services.",
-        "Optimized existing apps for performance and maintainability.",
-        "Established build and release practices for the team."
-      ]
-    },
-    {
-      "name": "Comunic AS",
-      "position": "Software Developer",
-      "url": "https://www.comunic.no",
-      "startDate": "2008-03-01",
-      "summary": "Developed a WinForms project calculation system using C# and MS SQL Database.",
-      "endDate": "2008-08-01",
-      "highlights": [
-        "Designed and developed a WinForms-based calculation system in C#.",
-        "Data modeling and T-SQL for reporting and analysis.",
-        "User-focused screens with validation and export."
-      ]
-    },
-    {
-      "name": "Solsem Consulting",
-      "position": "Entrepreneur / Software Developer/Advisor",
-      "url": "https://sc.solsem.no",
-      "startDate": "2002-08-01",
-      "summary": "Consulting services in software development, organizational development, business development, and related services.",
-      "endDate": "2070-06-13",
-      "highlights": [
-        "Provided software development and organizational consulting services.",
-        "Advised on business development strategies and operational improvements.",
-        "Delivered services in software development to Umoe Mandal AS over a period of 20 years."
-      ]
-    },
-    {
-      "name": "Umoe Mandal AS",
-      "position": "Software Developer",
-      "url": "https://www.um.no",
-      "startDate": "2002-10-01",
-      "summary": "Completed all phases of application development, including requirements specification, solution proposals, implementation, deployment, training, and operations. VB.Net, C#, MS SQL, Oracle. Developed middleware for data manipulation for data transfer/modification between Oracle SQL database and MS SQL database.",
-      "endDate": "2008-02-01",
-      "highlights": [
-        "Full lifecycle delivery: requirements, development, rollout, and operations.",
-        "Middleware for Oracle↔MS SQL data integration.",
-        "Solutions for report distribution, time tracking, and AD integration."
-      ]
-    },
-    {
-      "name": "Intershare AS",
-      "position": "Software Consultant",
-      "url": "https://www.intershare.no",
-      "startDate": "2001-10-01",
-      "summary": "I was responsible for the further development of the company's software for rental management, ensuring it met evolving business needs. Additionally, I provided consulting services to the company's customers, delivering tailored solutions and support. My work involved using technologies such as MS Visual C++, MFC, Sybase SQL Anywhere, and MS SQL.",
-      "endDate": "2002-04-01",
-      "highlights": [
-        "Enhanced a rental system in C++/MFC and SQL Anywhere.",
-        "Customer-specific adaptations, bug fixes, and performance improvements.",
-        "Migration paths and data upgrades with minimal downtime."
-      ]
-    },
-    {
-      "name": "Edb Avdelingen Sør AS",
-      "position": "IT Consultant",
-      "url": "https://www.edbavd.no/",
-      "startDate": "1997-08-01",
-      "summary": "Consultant with assignments in user support, network operations (Microsoft and Novell), client configuration for Windows, setup of backup routines. Software development in ANSI C.",
-      "endDate": "2001-08-01",
-      "highlights": [
-        "First- and second-line user support with SLA follow-up.",
-        "Operations of Microsoft/Novell networks, policy, and security routines.",
-        "Backup design, recovery tests, and documentation.",
-        "Scripts/utilities in ANSI C for operational efficiency."
-      ]
-    },
-    {
-      "name": "Manpower AS",
-      "position": "User Support",
-      "url": "https://www.manpower.no",
-      "startDate": "1994-08-01",
-      "summary": "User support for Windows 95, operation of Token-Ring networks, setup, and operation of Windows clients.",
-      "endDate": "1997-07-01",
-      "highlights": [
-        "Support on Windows 95 and client standards in production.",
-        "Token Ring operations and troubleshooting.",
-        "Client rollout."
-      ]
-    },
-    {
-      "name": "PC-LAND SOFTWARE",
-      "position": "Software Developer",
-      "url": "https://www.ikke.no",
-      "startDate": "1995-02-01",
-      "summary": "Developed software in Microsoft Visual Foxpro 3.0",
-      "endDate": "1995-03-28",
-      "highlights": [
-        "FoxPro development with data modeling and screens.",
-        "Reports and queries for business needs.",
-        "Version control and basic distribution."
-      ]
-    },
-    {
-      "name": "Total Consept Development",
-      "position": "Software Developer",
-      "url": "https://www.ikke.no",
-      "startDate": "1994-08-01",
-      "summary": "Main responsibility for developing administrative systems for restaurant industry and jukebox databases. Developed in Visual Basic",
-      "endDate": "1994-11-30",
-      "highlights": [
-        "Visual Basic solutions for restaurant administration.",
-        "Jukebox database design and CRUD functions.",
-        "Requirements gathering."
-      ]
-    },
-    {
-      "name": "BÅDE OG RADIOREKLAMEBYRÅ",
-      "position": "IT Consultant",
-      "url": "https://www.ikke.no",
-      "startDate": "1994-06-01",
-      "summary": "Main responsibility for development of ethernet network, client setup of Windows for Workgroups 11 and user support",
-      "endDate": "1994-07-31",
-      "highlights": [
-        "Network design and establishment of Ethernet infrastructure.",
-        "Trained Windows for Workgroups 3.11 clients."
-      ]
-    },
-    {
-      "name": "NHI-Datahøgskolen",
-      "position": "Assistant instructor",
-      "url": "https://www.ikke.no",
-      "startDate": "1994-01-01",
-      "summary": "Assistant instructor for the subject Algorithms and Data Structures",
-      "endDate": "1994-06-01",
-      "highlights": [
-        "Tutored in algorithm analysis and data structures."
-      ]
-    },
-    {
-      "name": "Bø Municipality, Social Welfare office",
-      "position": "Office assistant",
-      "url": "https://www.ikke.no",
-      "startDate": "1992-02-17",
-      "summary": "Typical office assistant chores",
-      "endDate": "1992-07-17",
-      "highlights": [
-        "Archive, mail journal, and case flow.",
-        "Meeting bookings and document handling.",
-        "Front desk public service."
-      ]
-    }
-  ]
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "meta": {
+    "language": "en",
+    "version": "1.0.0"
+  }
 }
