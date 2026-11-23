@@ -8,7 +8,7 @@
 - Keep `data/en` and `data/no` in sync.
 
 ## Owner decisions
-- #49: Enebakk summary rewritten in present tense; portfolio size/budget sentence left out until the owner supplies the numbers.
+- #49: Enebakk summary rewritten in present tense; no portfolio count/budget in summaries, since they change over time (owner, PR #52 thread).
 
 ## Open threads
-- #49: waiting for owner on portfolio project count and budget.
+- nothing
