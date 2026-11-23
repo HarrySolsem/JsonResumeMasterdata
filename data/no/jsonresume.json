@@ -1358,106 +1358,71 @@
   "skills": [
     {
       "name": "Prosjekt- og porteføljestyring",
-      "level": "Expert",
+      "level": "Ekspert",
       "keywords": [
         "PRINCE2",
         "PRINCE2 Agile",
         "prosjektplanlegging",
+        "porteføljestyring",
         "gevinstrealisering",
         "risikostyring",
-        "stage planning",
         "styringsstruktur",
-        "porteføljestyring",
-        "business case",
-        "governance",
-        "rapportering",
-        "endringshåndtering",
-        "PMO-etablering",
-        "maturity assessment",
-        "project board",
-        "prosjektkontor",
         "programledelse",
-        "ressursstyring",
-        "beslutningslogg",
-        "milepælsstyring",
-        "PRINCE2/Agile hybrid"
+        "prosjektkontor",
+        "business case"
       ]
     },
     {
       "name": "Endringsledelse og organisasjonsutvikling",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "PROSCI",
         "ADKAR",
         "endringskommunikasjon",
-        "stakeholder engagement",
+        "interessentengasjement",
         "forankring",
         "motstandsreduksjon",
         "adopsjon",
-        "coaching",
         "kompetansebygging",
         "teamutvikling",
-        "psykologisk trygghet",
-        "kulturutvikling",
-        "ledelseskommunikasjon",
-        "organisasjonsdesign",
-        "rekruttering",
-        "onboarding",
-        "prestasjonssamtaler",
-        "karriereplanlegging"
+        "kulturutvikling"
       ]
     },
     {
       "name": "Digitalisering og tjenesteutvikling",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "tjenestedesign",
         "brukerreiser",
         "innbyggerdialog",
         "digital transformasjon",
-        "forbedringsarbeid",
         "innovasjon",
-        "KPI/OKR",
-        "gevinstkartlegging",
-        "strategiutvikling",
         "prosesseffektivisering",
+        "gevinstkartlegging",
         "behovsanalyse",
         "automatisering",
-        "prosjekt i offentlig sektor",
-        "anskaffelsesprosesser (LOA/FOA)",
-        "kommunale tjenester",
-        "prosjektmodell kommune"
+        "anskaffelsesprosesser (LOA/FOA)"
       ]
     },
     {
       "name": "Smidige metodikker",
-      "level": "Expert",
+      "level": "Ekspert",
       "keywords": [
         "Scrum",
         "Kanban",
         "Lean",
         "XP",
-        "iterativ utvikling",
-        "produktkø",
-        "sprintplanlegging",
         "scrum-master",
-        "retrospektiv",
-        "daily standup",
         "agil coaching",
         "smidig transformasjon",
-        "DevOps integrasjon",
         "kontinuerlig forbedring",
-        "adaptive planning",
-        "hybrid metodikk",
-        "teamfasilitering",
-        "agil kultur",
-        "Scrum of Scrums",
-        "backlog refinement"
+        "retrospektiv",
+        "produktkø"
       ]
     },
     {
       "name": "Enterprise Architecture og IT Governance",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "TOGAF",
         "arkitekturprinsipper",
@@ -1466,72 +1431,46 @@
         "tilgangsstyring (IAM/eADM)",
         "IT-governance",
         "teknologistrategi",
-        "systemportefølje",
-        "roadmapping",
-        "digital infrastruktur",
-        "dokumentstyring",
-        "IT-compliance",
         "ISO 27001",
         "GDPR",
-        "kontinuerlig forbedring",
         "systemintegrasjon"
       ]
     },
     {
       "name": "Teknologiledelse og programvareutvikling",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "C#",
         "ASP.NET",
-        "VB.Net",
-        "WPF",
-        "WinForms",
         "Entity Framework",
-        "LINQ",
         "SQL Server",
-        "Oracle",
-        "T-SQL",
         "REST API",
-        "systemdesign",
-        "CI/CD",
-        "TeamCity",
-        "Octopus Deploy",
-        "Git",
-        "Docker",
-        "Azure AD",
-        "ServiceNow",
-        "IIQ",
-        "SharePoint",
-        "AD-integrasjon",
         "programvarearkitektur",
         "testdrevet utvikling (TDD)",
-        "DevOps praksis"
+        "CI/CD",
+        "Docker",
+        "Octopus Deploy"
       ]
     },
     {
       "name": "Ledelse og HR",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "teamledelse",
-        "målstyring",
-        "performance management",
         "lederutvikling",
-        "strategisk personalplanlegging",
+        "coaching",
         "rekruttering",
         "onboarding",
-        "karriereutvikling",
-        "kompetansekartlegging",
-        "trivsel og retensjon",
-        "konflikthåndtering",
-        "coaching",
         "psykologisk trygghet",
-        "fagmiljøbygging",
-        "flerkulturelt samarbeid"
+        "prestasjonsstyring",
+        "målstyring",
+        "karriereutvikling",
+        "konflikthåndtering"
       ]
     },
     {
       "name": "Kommunikasjon og interessenthåndtering",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "kommunikasjonsplan",
         "påvirkningsanalyse",
@@ -1540,23 +1479,17 @@
         "rapportering",
         "forhandling",
         "presentasjoner",
-        "samfunnskontakt",
         "myndighetsdialog",
-        "foreningsledelse",
         "nettverksbygging",
-        "fasilitering",
-        "coaching",
-        "møteledelse",
-        "workshopdesign"
+        "fasilitering"
       ]
     },
     {
       "name": "Tekniske verktøy og plattformer",
-      "level": "Advanced",
+      "level": "Avansert",
       "keywords": [
         "Microsoft 365",
         "SharePoint",
-        "Teams",
         "Power BI",
         "Atlassian Jira",
         "Confluence",
@@ -1564,21 +1497,12 @@
         "ServiceNow",
         "Azure AD",
         "GitHub Actions",
-        "Fiddler",
-        "Postman",
-        "SQL Management Studio",
-        "Octopus Deploy",
-        "TeamCity",
-        "Docker",
-        "CI/CD pipelines",
-        "Microsoft Visual Studio",
-        "databaseadministrasjon",
-        "spørreoptimalisering"
+        "TeamCity"
       ]
     },
     {
       "name": "IT Service Management og drift",
-      "level": "Intermediate",
+      "level": "Middels",
       "keywords": [
         "ITIL",
         "incident management",
@@ -1589,10 +1513,7 @@
         "patch management",
         "konfigurasjonsstyring",
         "problem management",
-        "service desk",
-        "driftsrutiner",
-        "loggsanering",
-        "CMDB"
+        "service desk"
       ]
     },
     {
@@ -1600,11 +1521,7 @@
       "keywords": [
         "IT-prosjektledelse",
         "Personalledelse",
-        "Teamledelse",
-        "Rekruttering",
-        "Introduksjon av nyansatte",
         "Kompetanseutvikling",
-        "Scrum",
         "Smidig utvikling",
         "Prosessforbedring"
       ]
@@ -1612,13 +1529,11 @@
     {
       "name": "Systemutvikling",
       "keywords": [
-        "C#",
         ".NET",
         "Visual Basic",
         "VBA",
         "Visual C++",
         "ANSI C",
-        "Visual FoxPro",
         "Windows SharePoint Services",
         "Analyse og design",
         "Brukergrensesnittdesign"
@@ -1641,9 +1556,7 @@
         "Systemdrift",
         "Nettverksdrift",
         "Programvareinstallasjon",
-        "Brukerstøtte",
-        "Windows NT Server",
-        "NetWare"
+        "Brukerstøtte"
       ]
     },
     {
