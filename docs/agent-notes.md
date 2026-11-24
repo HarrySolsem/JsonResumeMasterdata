@@ -15,3 +15,14 @@
 ## Open threads
 - Skill levels differ between en and no (groups 0, 3, 9: en Advanced, no Ekspert/Ekspert/Middels). Not changed; owner to confirm which is right.
 - Other possibly obsolete items kept: Windows SharePoint Services, Visual C++, ANSI C, Sybase SQL Anywhere, VBA.
+- Session may start on detached HEAD at `main`; create a `claude/…` branch before committing.
+
+## Gotchas
+- `data/en` and `data/no` `jsonresume.json` are line-aligned; issue line numbers usually match in both. Edit with `sed -i '<line>s/…/…/'` to avoid reformatting.
+- Validate with `python3 -m json.tool <file> >/dev/null`. No CI or tests in repo.
+
+## Owner decisions
+- #45: certificate name is «Certified Scrum Product Owner (CSPO)» in both languages (issuer left as «Agile Lean House»).
+
+## Open threads
+- nothing
