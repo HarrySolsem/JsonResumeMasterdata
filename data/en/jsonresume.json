@@ -1363,24 +1363,13 @@
         "PRINCE2",
         "PRINCE2 Agile",
         "project planning",
+        "portfolio management",
         "benefits realization",
         "risk management",
-        "stage planning",
         "governance structure",
-        "portfolio management",
-        "business case",
-        "governance",
-        "reporting",
-        "change management",
-        "PMO establishment",
-        "maturity assessment",
-        "project board",
-        "project management office",
         "program management",
-        "resource management",
-        "decision log",
-        "milestone management",
-        "PRINCE2/Agile hybrid"
+        "project management office",
+        "business case"
       ]
     },
     {
@@ -1394,17 +1383,9 @@
         "stakeholder alignment",
         "resistance reduction",
         "adoption",
-        "coaching",
         "capability building",
         "team development",
-        "psychological safety",
-        "culture development",
-        "leadership communication",
-        "organizational design",
-        "recruitment",
-        "onboarding",
-        "performance reviews",
-        "career planning"
+        "culture development"
       ]
     },
     {
@@ -1415,18 +1396,12 @@
         "user journeys",
         "citizen dialogue",
         "digital transformation",
-        "continuous improvement",
         "innovation",
-        "KPI/OKR",
-        "benefit mapping",
-        "strategy development",
         "process optimization",
+        "benefit mapping",
         "needs analysis",
         "automation",
-        "public sector projects",
-        "procurement processes (LOA/FOA)",
-        "municipal services",
-        "municipal project model"
+        "procurement processes (LOA/FOA)"
       ]
     },
     {
@@ -1437,22 +1412,12 @@
         "Kanban",
         "Lean",
         "XP",
-        "iterative development",
-        "product backlog",
-        "sprint planning",
         "Scrum Master",
-        "retrospectives",
-        "daily stand-up",
         "agile coaching",
         "agile transformation",
-        "DevOps integration",
         "continuous improvement",
-        "adaptive planning",
-        "hybrid methodology",
-        "team facilitation",
-        "agile culture",
-        "Scrum of Scrums",
-        "backlog refinement"
+        "retrospectives",
+        "product backlog"
       ]
     },
     {
@@ -1466,14 +1431,8 @@
         "access management (IAM/eADM)",
         "IT governance",
         "technology strategy",
-        "system portfolio",
-        "roadmapping",
-        "digital infrastructure",
-        "document management",
-        "IT-compliance",
         "ISO 27001",
         "GDPR",
-        "continuous improvement",
         "system integration"
       ]
     },
@@ -1483,29 +1442,14 @@
       "keywords": [
         "C#",
         "ASP.NET",
-        "VB.Net",
-        "WPF",
-        "WinForms",
         "Entity Framework",
-        "LINQ",
         "SQL Server",
-        "Oracle",
-        "T-SQL",
         "REST API",
-        "system design",
-        "CI/CD",
-        "TeamCity",
-        "Octopus Deploy",
-        "Git",
-        "Docker",
-        "Azure AD",
-        "ServiceNow",
-        "IIQ",
-        "SharePoint",
-        "AD integration",
         "software architecture",
         "test-driven development (TDD)",
-        "DevOps practices"
+        "CI/CD",
+        "Docker",
+        "Octopus Deploy"
       ]
     },
     {
@@ -1513,20 +1457,15 @@
       "level": "Advanced",
       "keywords": [
         "team leadership",
-        "management by objectives",
-        "performance management",
         "leadership development",
-        "strategic workforce planning",
+        "coaching",
         "recruitment",
         "onboarding",
-        "career development",
-        "skills mapping",
-        "well-being and retention",
-        "conflict management",
-        "coaching",
         "psychological safety",
-        "community building",
-        "cross-cultural collaboration"
+        "performance management",
+        "management by objectives",
+        "career development",
+        "conflict management"
       ]
     },
     {
@@ -1540,14 +1479,9 @@
         "reporting",
         "negotiation",
         "presentations",
-        "public relations",
         "government dialogue",
-        "association leadership",
         "network building",
-        "facilitation",
-        "coaching",
-        "meeting facilitation",
-        "workshop design"
+        "facilitation"
       ]
     },
     {
@@ -1556,7 +1490,6 @@
       "keywords": [
         "Microsoft 365",
         "SharePoint",
-        "Teams",
         "Power BI",
         "Atlassian Jira",
         "Confluence",
@@ -1564,16 +1497,7 @@
         "ServiceNow",
         "Azure AD",
         "GitHub Actions",
-        "Fiddler",
-        "Postman",
-        "SQL Management Studio",
-        "Octopus Deploy",
-        "TeamCity",
-        "Docker",
-        "CI/CD pipelines",
-        "Microsoft Visual Studio",
-        "database administration",
-        "query optimization"
+        "TeamCity"
       ]
     },
     {
@@ -1589,10 +1513,7 @@
         "patch management",
         "configuration management",
         "problem management",
-        "service desk",
-        "operations routines",
-        "log cleanup",
-        "CMDB"
+        "service desk"
       ]
     },
     {
@@ -1600,11 +1521,7 @@
       "keywords": [
         "IT Project Management",
         "People Management",
-        "Team Leadership",
-        "Recruitment",
-        "Employee Onboarding",
         "Capability Development",
-        "Scrum",
         "Agile Development",
         "Process Improvement"
       ]
@@ -1612,13 +1529,11 @@
     {
       "name": "Software Development",
       "keywords": [
-        "C#",
         ".NET",
         "Visual Basic",
         "VBA",
         "Visual C++",
         "ANSI C",
-        "Visual FoxPro",
         "Windows SharePoint Services",
         "Analysis and Design",
         "User-Interface Design"
@@ -1641,9 +1556,7 @@
         "Systems Operations",
         "Network Operations",
         "Software Installation",
-        "User Support",
-        "Windows NT Server",
-        "NetWare"
+        "User Support"
       ]
     },
     {
