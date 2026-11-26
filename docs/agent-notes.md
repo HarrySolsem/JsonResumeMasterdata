@@ -24,9 +24,10 @@
 
 ## Owner decisions
 - #48: only Nexus is ended. Plan for boligsosial virksomhet and Strategi for tjenesteutvikling are still running (owner, 2026-11-26): keep present tense.
+- #48: boligsosial endDate removed (project ongoing, owner 2026-11-26).
 
 ## Open threads
-- #48: Nexus outcomes needed; boligsosial endDate 2026-09-15 is past but project runs on (new end date or remove?). Ask owner, do not guess.
+- #48: Nexus outcomes still needed from owner; do not guess.
 - No AGENTS.md, CI or tests in the repo. Validate with `python3 -m json.tool <file>`.
 
 ## Gotchas
