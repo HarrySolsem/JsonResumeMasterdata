@@ -17,6 +17,7 @@
 - #45: certificate name is «Certified Scrum Product Owner (CSPO)» in both languages (issuer left as «Agile Lean House»).
 - #48: only Nexus has ended; boligsosial and Strategi are ongoing (present tense). Boligsosial endDate removed. Nexus delivered on time, no deviations (owner, 2026-11-26).
 - #49: Enebakk summary rewritten in present tense; no portfolio count/budget in summaries, since they change over time (owner, PR #52 thread).
+- #8/#10: Riverty summary is now the owner's proposed ~350-char text (50 staff, 5 team leads, 15 direct reports); office-presence sentence removed. The numbers exist only in the summary/issue, not in highlights.
 
 ## Open threads
 - nothing
