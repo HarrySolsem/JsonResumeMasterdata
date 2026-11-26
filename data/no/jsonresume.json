@@ -492,7 +492,8 @@
         "Informasjonsarkitektur, taksonomi og innholdsforvaltning med klare eierskap.",
         "Migreringsplan fra eksisterende kanaler med kvalitetskriterier og cutoff.",
         "Adopsjonsplan med opplæring, superbrukernettverk og måling av bruk.",
-        "Drifts- og forvaltningsmodell med SLA og endringshåndtering."
+        "Drifts- og forvaltningsmodell med SLA og endringshåndtering.",
+        "Leverte prosjektet i tide og uten avvik."
       ]
     },
     {
@@ -501,7 +502,6 @@
       "description": "Prosjektet har som mål å utvikle en helhetlig plan for boligsosial virksomhet i Enebakk kommune. Planen skal bidra til å sikre at innbyggerne har tilgang til de tjenester som kommunen skal tilby innenfor boligsosialt arbeid. Planen skal også legge til rette for samarbeid mellom ulike aktører og sektorer, samt sikre en effektiv ressursbruk.",
       "url": "https://www.enebakk.kommune.no",
       "entity": "Enebakk Kommune",
-      "endDate": "2026-09-15",
       "roles": [
         "prosjektleder"
       ],
