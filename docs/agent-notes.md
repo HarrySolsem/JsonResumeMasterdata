@@ -10,6 +10,7 @@
 - Other sessions edit the same files in other sections: change only what the issue covers. Issue line numbers drift; locate by name or `grep -n`.
 - Skills limits (#41-#43): max 10 keywords per group, each keyword in one group only, no obsolete tech (NetWare, Visual FoxPro, Windows NT Server, Fiddler removed).
 - Other possibly obsolete items kept: Windows SharePoint Services, Visual C++, ANSI C, Sybase SQL Anywhere, VBA.
+- Typos can also sit in `data/autogenerert.json` (e.g. «Bisto», #22); left untouched per AGENTS.md. `data/en` had no «Bisto»/«DNBse» (#22, #23), so only `data/no` changed.
 
 ## Owner decisions
 - Skill levels in `data/no` are Norwegian (Ekspert/Avansert/Middels); `data/en` stays English (#42).
