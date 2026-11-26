@@ -12,6 +12,7 @@
 ## Owner decisions
 - Skill levels in `data/no` are Norwegian (Ekspert/Avansert/Middels); `data/en` stays English (#42).
 - Skill levels (owner, chat): group 0 Advanced, group 3 Expert, group 9 Advanced, in both en and no.
+- #48: only Nexus has ended; boligsosial and Strategi are ongoing (present tense). Boligsosial endDate removed (owner, 2026-11-26).
 
 ## Open threads
 - Other possibly obsolete items kept: Windows SharePoint Services, Visual C++, ANSI C, Sybase SQL Anywhere, VBA.
@@ -46,4 +47,4 @@
 - #45: certificate name is «Certified Scrum Product Owner (CSPO)» in both languages (issuer left as «Agile Lean House»).
 
 ## Open threads
-- nothing
+- #48: Nexus outcomes needed from owner; do not guess.
