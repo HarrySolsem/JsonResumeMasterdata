@@ -9,7 +9,7 @@
 - `data/en` and `data/no` are parallel and line-aligned; project order and skills arrays are index-aligned. Edit both together.
 - Other sessions edit the same files in other sections: change only what the issue covers. Issue line numbers drift; locate by name or `grep -n`.
 - Skills limits (#41-#43): max 10 keywords per group, each keyword in one group only, no obsolete tech (NetWare, Visual FoxPro, Windows NT Server, Fiddler removed).
-- Other possibly obsolete items kept: Windows SharePoint Services, Visual C++, ANSI C, Sybase SQL Anywhere, VBA.
+- #40: the 5 remaining old unlevelled skill groups (not 6) were deleted, not merged: all 10 levelled groups already hold 10 keywords. Dropped with them: .NET, VBA, Visual C++, ANSI C, Windows SharePoint Services, Access, Oracle, Sybase; re-add via a new issue if wanted.
 
 ## Owner decisions
 - Skill levels in `data/no` are Norwegian (Ekspert/Avansert/Middels); `data/en` stays English (#42).
