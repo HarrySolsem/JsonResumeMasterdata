@@ -11,9 +11,9 @@
 
 ## Owner decisions
 - Skill levels in `data/no` are Norwegian (Ekspert/Avansert/Middels); `data/en` stays English (#42).
+- Skill levels (owner, chat): group 0 Advanced, group 3 Expert, group 9 Advanced, in both en and no.
 
 ## Open threads
-- Skill levels differ between en and no (groups 0, 3, 9: en Advanced, no Ekspert/Ekspert/Middels). Not changed; owner to confirm which is right.
 - Other possibly obsolete items kept: Windows SharePoint Services, Visual C++, ANSI C, Sybase SQL Anywhere, VBA.
 - Session may start on detached HEAD at `main`; create a `claude/…` branch first.
 - No CI or tests in the repo. Validate with `python3 -m json.tool data/<lang>/jsonresume.json`.
