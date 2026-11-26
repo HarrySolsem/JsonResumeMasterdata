@@ -23,10 +23,10 @@
 - Issue line numbers refer to `data/no/jsonresume.json` at an older commit; locate by project name.
 
 ## Owner decisions
-- None recorded yet.
+- #48: only Nexus is ended. Plan for boligsosial virksomhet and Strategi for tjenesteutvikling are still running (owner, 2026-11-26): keep present tense.
 
 ## Open threads
-- #48: project outcomes and Strategy endDate need owner input (see Agentstatus #50).
+- #48: Nexus outcomes needed; boligsosial endDate 2026-09-15 is past but project runs on (new end date or remove?). Ask owner, do not guess.
 - No AGENTS.md, CI or tests in the repo. Validate with `python3 -m json.tool <file>`.
 
 ## Gotchas
