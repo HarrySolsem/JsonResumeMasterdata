@@ -1358,7 +1358,7 @@
   "skills": [
     {
       "name": "Prosjekt- og porteføljestyring",
-      "level": "Ekspert",
+      "level": "Avansert",
       "keywords": [
         "PRINCE2",
         "PRINCE2 Agile",
@@ -1502,7 +1502,7 @@
     },
     {
       "name": "IT Service Management og drift",
-      "level": "Middels",
+      "level": "Avansert",
       "keywords": [
         "ITIL",
         "incident management",
