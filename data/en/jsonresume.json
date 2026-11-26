@@ -1515,59 +1515,6 @@
         "problem management",
         "service desk"
       ]
-    },
-    {
-      "name": "Leadership and Project Delivery",
-      "keywords": [
-        "IT Project Management",
-        "People Management",
-        "Capability Development",
-        "Agile Development",
-        "Process Improvement"
-      ]
-    },
-    {
-      "name": "Software Development",
-      "keywords": [
-        ".NET",
-        "Visual Basic",
-        "VBA",
-        "Visual C++",
-        "ANSI C",
-        "Windows SharePoint Services",
-        "Analysis and Design",
-        "User-Interface Design"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "Data Modelling",
-        "Microsoft Access",
-        "Oracle",
-        "Sybase SQL Anywhere",
-        "Report Development",
-        "Troubleshooting and Maintenance"
-      ]
-    },
-    {
-      "name": "IT Operations and User Support",
-      "keywords": [
-        "Systems Operations",
-        "Network Operations",
-        "Software Installation",
-        "User Support"
-      ]
-    },
-    {
-      "name": "Guidance and Organisational Work",
-      "keywords": [
-        "Teaching",
-        "Mentoring",
-        "Communication",
-        "Collective Bargaining",
-        "Labour–Management Cooperation"
-      ]
     }
   ],
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",

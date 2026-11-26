@@ -1515,59 +1515,6 @@
         "problem management",
         "service desk"
       ]
-    },
-    {
-      "name": "Ledelse og prosjektgjennomføring",
-      "keywords": [
-        "IT-prosjektledelse",
-        "Personalledelse",
-        "Kompetanseutvikling",
-        "Smidig utvikling",
-        "Prosessforbedring"
-      ]
-    },
-    {
-      "name": "Systemutvikling",
-      "keywords": [
-        ".NET",
-        "Visual Basic",
-        "VBA",
-        "Visual C++",
-        "ANSI C",
-        "Windows SharePoint Services",
-        "Analyse og design",
-        "Brukergrensesnittdesign"
-      ]
-    },
-    {
-      "name": "Databaser",
-      "keywords": [
-        "Databasemodellering",
-        "Microsoft Access",
-        "Oracle",
-        "Sybase SQL Anywhere",
-        "Rapportutvikling",
-        "Feilsøking og vedlikehold"
-      ]
-    },
-    {
-      "name": "IT-drift og brukerstøtte",
-      "keywords": [
-        "Systemdrift",
-        "Nettverksdrift",
-        "Programvareinstallasjon",
-        "Brukerstøtte"
-      ]
-    },
-    {
-      "name": "Veiledning og organisasjonsarbeid",
-      "keywords": [
-        "Undervisning",
-        "Mentorarbeid",
-        "Kommunikasjon",
-        "Tarifforhandlinger",
-        "Partssamarbeid"
-      ]
     }
   ],
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
